@@ -1,592 +1,988 @@
 Label: True
+LCS: 0.7307692307692307
+ED: 0.7307692307692308
+Tf-idf: 0.8813316119879444
+BLEU: 0.5411953330039978
 工会 表示 ， 他们 最近 采取 的 措施 是 25 年 来 的 第二次 采取行动 ， 抗议 可能 减薪 高达 30 ％ 。
 The labor unions said their recent action , which they said is the second in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
 工会 表示 ， 他们 最近 的 行动 ， 他们 说 是 超过 25 年 来 的 第一次 行动 ， 是 为了 抗议 可能 减薪 高达 30 ％ 。
 The labor unions said their recent action , which they said is the first in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
 
 Label: True
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 虽然 可能 曾经 适合 居住 ， 但 金星 在 数十亿年 的 过程 中 - 暴露 在 太 多 的 热量 和 紫外线 下 。
 Though likely once habitable , Venus was - - over the course of numerous billion years - - exposed to too much heat and ultraviolet light .
 虽然 可能 曾经 适合 居住 ， 但 金星 在 - 数十亿年 的 过程 中 - 暴露 在 太 多 的 热量 和 紫外线 下 。
 Though likely once habitable , Venus was - - over the course of several billion years - - exposed to too much heat and ultraviolet light .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 现在 是 时候 考虑 社区 法律 中心 及其 客户 社区 的 需求 ， 以及 Palaszczuk 政府 对 这项 重要 工作 的 投资 。
 It ' s now time to look at the needs of community legal centres and their client communities , and for the Palaszczuk government to invest in this important working .
 现在 是 时候 考虑 社区 法律 中心 及其 客户 社区 的 需求 ， 以及 Palaszczuk 政府 对 这项 重要 工作 的 投资 。
 It ' s now time to look at the needs of community legal centres and their client communities , and for the Palaszczuk government to invest in this important work .
 
 Label: False
+LCS: 0.9714285714285714
+ED: 0.9714285714285714
+Tf-idf: 0.988670886534944
+BLEU: 0.932475745677948
 其中 ， 进口额 为 1.22 万亿元 人民币 ， 增长 2.9 ％ ; 进口额 为 人民币 8 , 730 亿元 ， 下降 5.7 ％ ; 贸易顺差 为 人民币 3 , 428 亿元 ， 增长 34 ％ 。
 Among them , the import was valued RMB 1.22 trillion , up 2.9 % ; the import was valued RMB 873 billion , down 5.7 % ; trade surplus was valued RMB 342.8 billion , with an increase of 34 % .
 其中 ， 出口额 为 1.22 万亿元 ， 增长 2.9 ％ ; 进口额 为 人民币 8 , 730 亿元 ， 下降 5.7 ％ ; 贸易顺差 为 人民币 3 , 428 亿元 ， 增长 34 ％ 。
 Among them , the export was valued RMB 1.22 trillion , up 2.9 % ; the import was valued RMB 873 billion , down 5.7 % ; trade surplus was valued RMB 342.8 billion , with an increase of 34 % .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 可能 会 说 ， 经过 近 八个 小时 的 初步 会谈 后 ， 两位 总统 在 新闻 发布会 上 表示 ， 他们 甚至 没有 涉及 这个 话题 。
 It could be telling that after almost eight hours of initial talks , the two presidents told a press conference that they hadn ' t even touched on the topic .
 可能 会 说 ， 经过 近 三个 小时 的 初步 会谈 后 ， 两位 总统 在 新闻 发布会 上 表示 ， 他们 甚至 没有 涉及 这个 话题 。
 It could be telling that after almost three hours of initial talks , the two presidents told a press conference that they hadn ' t even touched on the topic .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 黄一林 说 河水 泥泞 ， 流速 ​ ​ 很快 。 唯一 的 9 米 距离 几乎 让 她 疲惫不堪 。
 Huang Yilin said the river was muddy and flowed fast . The only 9 - meter distance almost wore her out .
 黄一林 说 河水 泥泞 ， 流速 ​ ​ 很快 。 唯一 的 5 米 距离 几乎 让 她 疲惫不堪 。
 Huang Yilin said the river was muddy and flowed fast . The only 5 - meter distance almost wore her out .
 
 Label: False
+LCS: 0.9655172413793104
+ED: 0.9655172413793104
+Tf-idf: 0.9917536654386981
+BLEU: 0.9074485898017883
 中 俄 之间 的 合作 对于 满洲 虎 和 西南 豹 的 人口 恢复 和 繁殖 具有 重要 意义 ， 这 是 中 俄 边境地区 野生动物 保护 的 主要 品种 。
 The cooperation between China and Russia is significant for the population restoration and reproduction of Manchurian tigers and Southwestern leopards , which are flagship species for the wild animal protection in the Sino - Russia boundary area .
 中 俄 合作 对于 满洲 虎 和 东北 豹 的 人口 恢复 和 繁殖 具有 重要 意义 ， 这 是 中 俄 边境地区 野生动物 保护 的 主要 品种 。
 The cooperation between China and Russia is significant for the population restoration and reproduction of Manchurian tigers and Northeastern leopards , which are flagship species for the wild animal protection in the Sino - Russia boundary area .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 2010 年 伦敦 奥运会 对 英国 来说 是 一次 巨大 的 成功 ， 我 相信 希思罗 机场 的 扩张 也 将 如此 。
 The London 2010 Games were a great success for the UK and I am confident that Heathrow expansion will be too .
 2012 年 伦敦 奥运会 对 英国 来说 是 一次 巨大 的 成功 ， 我 相信 希思罗 机场 的 扩张 也 将 如此 。
 The London 2012 Games were a great success for the UK and I am confident that Heathrow expansion will be too .
 
 Label: True
+LCS: 0.9583333333333334
+ED: 0.9583333333333334
+Tf-idf: 0.9804749811759645
+BLEU: 0.8843865990638733
 据 国外 媒体报道 ， 当地 时间 当月 23 日 ， 唐宁街 宣布 英国首相 特蕾莎梅 将 前往 瑞士 度假 ， 但 没有 透露 具体 地点 。
 According to foreign media reports , on the 23rd day of the month of the local time , Downing Street announced that United Kingdom Prime Minister Teresa Mei will go to Switzerland to spend her summer vacation , but did not disclose the specific place .
 据 国外 媒体报道 ， 当地 时间 当月 10 日 ， 唐宁街 宣布 英国首相 特蕾莎梅 将 前往 瑞士 度 暑假 ， 但 没有 透露 具体 地点 。
 According to foreign media reports , on the 10th day of the month of the local time , Downing Street announced that United Kingdom Prime Minister Teresa Mei will go to Switzerland to spend her summer vacation , but did not disclose the specific place .
 
 Label: True
+LCS: 0.9705882352941176
+ED: 0.9705882352941176
+Tf-idf: 0.9850903028027511
+BLEU: 0.9294623136520386
 河南省 南阳市 卧龙区 人民法院 的 庭审 结果 发现 ， 被告人 李惠旺于 2015 年 9 月 30 日至 10 月 4 日 期间 通过 桐柏县 和 南阳 区 的 假站 设备 发送 了 欺诈 信息 。
 The court trial of Wolong Districts People ' s Court of Nanyang City , Henan Province , found that the defendant Li Huiwang sent fraud information through the fake station equipment in Tongbai County and Nanyang District between September 30 and October 4 , 2015 .
 河南省 南阳市 卧龙区 人民法院 的 庭审 审判 发现 ， 被告人 李惠旺于 2015 年 9 月 30 日至 10 月 4 日 期间 通过 桐柏县 和 南阳 区 的 假站 设备 发送 了 诈骗 信息 。
 The court trial of Wolong District People ' s Court of Nanyang City , Henan Province , found that the defendant Li Huiwang sent fraud information through the fake station equipment in Tongbai County and Nanyang District between September 30 and October 4 , 2015 .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 “ 昆士兰州 的 社区 法律 中心 长期 资金不足 ， 这 意味着 数十 人 不再 需要 他们 所 需要 的 重要 服务 ， ” 他 说 。
 " Queensland ' s community legal centres are chronically underfunded , meaning tens of people are turned away from the vital services they need , " he said .
 “ 昆士兰州 的 社区 法律 中心 长期 资金不足 ， 这 意味着 成千上万 的 人 不再 需要 他们 所 需要 的 重要 服务 ， ” 他 说 。
 " Queensland ' s community legal centres are chronically underfunded , meaning thousands of people are turned away from the vital services they need , " he said .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 其他人 完全 拒绝 了 漫画 比较 。
 Others roundly rejected the manga comparison .
 其他人 完全 拒绝 了 动漫 比较 。
 Others roundly rejected the anime comparison .
 
 Label: True
+LCS: 0.8666666666666667
+ED: 0.8666666666666667
+Tf-idf: 0.9697302832659038
+BLEU: 0.5930837392807007
 “ 以 最低 价格 ， 消费者 可以 ” 每天 只 需 5 元 购买 iPhone7 “ 。
 " With the lowest price , the consumer may " buy iPhone7 with just 5 yuan per day " .
 “ 价格 最低 ， 消费者 可 ” 每天 只 需 7 元 购买 iPhone7 “ 。
 " With the lowest price , the consumer may " buy iPhone7 with just 7 yuan per day " .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 上 个 赛季 ， Okafor 得分 的 49 ％ 来自 低位 攻击 。 这个 比例 高于 Cousins ， Vukcevic 和 Brook Lopez ， 而 他 的 使用率 也 是 联盟 中 的 前 40 名 。
 Last season , 49 % of the score of Okafor came from low position attacks . The ratio is higher than Cousins , Vukcevic and Brook Lopez , while his use rate is also the top 40 in the league .
 上 个 赛季 ， Okafor 得分 的 32 ％ 来自 低位 攻击 。 这个 比例 高于 Cousins ， Vukcevic 和 Brook Lopez ， 而 他 的 使用率 也 是 联盟 中 的 前 40 名 。
 Last season , 32 % of the score of Okafor came from low position attacks . The ratio is higher than Cousins , Vukcevic and Brook Lopez , while his use rate is also the top 40 in the league .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 价格 与 上个月 的 酒精 饮料 和 烟草 价格 保持 在 同一 水平 ; 住房 ， 水 ， 电 ， 煤气 和 其他 燃料 ; 通讯 ; 和 教育 。
 Prices remained at the same level as in the previous month in alcoholic drinks and tobacco ; housing , water , electricity , gas and other fuels ; communications ; and education .
 价格 与 上个月 的 酒精 饮料 和 烟草 价格 保持 在 同一 水平 ; 住房 ， 水 ， 电 ， 煤气 和 其他 燃料 ; 通讯 ; 和 教育 。
 Prices remained at the same level as in the previous month in alcoholic beverages and tobacco ; housing , water , electricity , gas and other fuels ; communications ; and education .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 此外 ， 该 报告 还 指出 ， 在 2017 年 塔吉克斯坦 经济 发展 和 通货膨胀 的 情况 下 ， 政府 和 一些 主要 国际 金融机构 的 预测 存在 一定 差异 。
 In addition , the report also pointed out that in the case of economic development and inflation of Tajikistan in 2017 , there are certain differences between predictions of the government and some major international financial institutions .
 此外 ， 该 报告 还 指出 ， 在 2016 年 塔吉克斯坦 经济 发展 和 通货膨胀 的 情况 下 ， 政府 和 一些 主要 国际 金融机构 的 预测 存在 一定 差异 。
 In addition , the report also pointed out that in the case of economic development and inflation of Tajikistan in 2016 , there are certain differences between predictions of the government and some major international financial institutions .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 5 ％ 的 受访者 预计 会 购买 iPhone7 ， 而 iPhone6 的 价格 在 两年 前仅 为 4 ％ 。
 5 % of respondents expected to buy iPhone7 , while the rate for iPhone6 was only 4 % two years ago .
 7 ％ 的 受访者 预计 会 购买 iPhone7 ， 而 iPhone6 的 价格 在 两年 前仅 为 4 ％ 。
 7 % of respondents expected to buy iPhone7 , while the rate for iPhone6 was only 4 % two years ago .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 警方 称 ， 一名 12 岁 的 男孩 已经 在 费城 被 枪杀 ， 这是 本周 该市 一名 6 岁 儿童 的 第二枪 。
 Police say a 12 - year - old boy has been shot in Philadelphia , marking the second shooting of a 6 - year - old in the city this week .
 警方 称 ， 一名 6 岁 的 男孩 已经 在 费城 被 枪杀 ， 这是 本周 该市 一名 6 岁 儿童 的 第二枪 。
 Police say a 6 - year - old boy has been shot in Philadelphia , marking the second shooting of a 6 - year - old in the city this week .
 
 Label: False
+LCS: 0.9629629629629629
+ED: 0.962962962962963
+Tf-idf: 0.9995774189594904
+BLEU: 0.9000001549720764
 但 官方 声称 - 一个 曾经 被 吹捧 为 潜在 总统 的 人 ， 突然 想要 执行 俄罗斯 的 环境 政策 - 遭到 了 良好 的 怀疑 。
 But the official claim - that a man once touted as a potential president , suddenly wanted to run Russia ' s environmental policy - has been met with good scepticism .
 但 官方 声称 - 一个 曾经 被 吹捧 为 潜在 总统 的 人 突然 想要 执行 俄罗斯 的 环境 政策 - 遭到 了 极大 的 怀疑 。
 But the official claim - that a man once touted as a potential president , suddenly wanted to run Russia ' s environmental policy - has been met with great scepticism .
 
 Label: True
+LCS: 0.9285714285714286
+ED: 0.9285714285714286
+Tf-idf: 0.9532882804807495
+BLEU: 0.8032263517379761
 特别 是 咸味 的 是 政府 对 饥饿 的 民众 的 反应 ， 如 赫伯特 胡佛 总统 的 “ 我 吃饭 - 吃 蛋糕 ” 的 态度 。
 Especially savory are the accounts of the government ' s response to its hungry populace , like President Herbert Hoover ' s let - me - eat - cake attitude .
 特别 是 咸味 的 是 政府 对 饥饿 的 公民 的 反应 ， 如 赫伯特 胡佛 总统 的 “ 吃 我 - 吃 - 蛋糕 ” 的 态度 。
 Especially savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s let - me - eat - cake attitude .
 
 Label: False
+LCS: 0.9565217391304348
+ED: 0.9565217391304348
+Tf-idf: 0.9790989935231817
+BLEU: 0.9173176288604736
 在 决赛 中 ， 张 彬彬 也 开始 落后 ， 投篮 更 稳定 ， 并 以 冠军 仅 落后 0.2 环 获得 金牌 。
 In the final , Zhang Binbin also started from lagging behind and shot more stably and won the gold medal with just 0.2 rings behind the champion .
 在 决赛 中 ， 张 彬彬 也 开始 落后 ， 投篮 更加 稳定 ， 并 以 冠军 仅 落后 0.2 环 获得 银牌 。
 In the final , Zhang Binbin also started from lagging behind and shot more stably and won the silver medal with just 0.2 rings behind the champion .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 华建辉 指出 ， 这 是 省 人大常委会 第二次 听取 并 审议 了 垂直 行政 管理 部门 的 专项 工作 报告 ， 并 进行 了 专题 调查 。 这是 加强 和 探索 省人大 监督 工作 的 积极探索 。
 Hua Jianhui pointed out that this was the second time that the Standing Committee of the Provincial People ' s Congress listened to and deliberated on the special work report of vertical administration department and carry out special inquiries . It is the active exploration for enhancing and exploring the supervision work of the Provincial People ' s Congress .
 华建辉 指出 ， 这 是 省 人大常委会 第一次 听取 并 审议 了 垂直 行政 管理 部门 的 专项 工作 报告 ， 并 进行 了 专题 调查 。 这是 加强 和 探索 省人大 监督 工作 的 积极探索 。
 Hua Jianhui pointed out that this was the first time that the Standing Committee of the Provincial People ' s Congress listened to and deliberated on the special work report of vertical administration department and carry out special inquiries . It is the active exploration for enhancing and exploring the supervision work of the Provincial People ' s Congress .
 
 Label: False
+LCS: 0.5555555555555556
+ED: 0.5555555555555556
+Tf-idf: 0.7763749020112768
+BLEU: 0.4619993269443512
 社区 法律 中心 每年 拒绝 90 , 000 人
 Community legal centres turn away 90,000 people a year
 社区 法律 中心 每年 拒绝 16 万人
 Community legal centres turn away 160,000 people a year
 
 Label: True
+LCS: 0.84
+ED: 0.8076923076923077
+Tf-idf: 0.7965291105202863
+BLEU: 0.6648573875427246
 最近 ， 河北 慈霄 基金 向 在 井 County 县 小 左 ， 台头 ， 桂泉村 失去 亲人 的 6 户 家庭 提供 了 9 万元 救助 。
 Recently , Hebei Cixiao Fund offered a 90,000 - yuan relief to six families who lost their relatives in Xiaozuo , Taitou and Guiquan Villages of Jingxing County .
 最近 ， 河北 慈霄 基金 向 在 井 County 县小座 ， 台头 和 贵泉村 失去 亲人 的 6 户 家庭 提供 了 1.6 万元 的 救济 。
 Recently , Hebei Cixiao Fund offered a 16,000 - yuan relief to six families who lost their relatives in Xiaozuo , Taitou and Guiquan Villages of Jingxing County .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999999
+BLEU: 1.0
 埃里克 爵士 提出 了 75 项 建议 ， 以 清理 该 系统 ， 包括 禁止 政治 活动家 处理 邮政 选票 以 阻止 “ 投票 收获 ” 。
 Sir Eric made 75 recommendations to clean up the system , including banning political activists from handling postal ballot papers to stop " vote harvesting . "
 埃里克 爵士 提出 了 50 项 建议 ， 以 清理 该 系统 ， 包括 禁止 政治 活动家 处理 邮政 选票 以 阻止 “ 投票 收获 ” 。
 Sir Eric made 50 recommendations to clean up the system , including banning political activists from handling postal ballot papers to stop " vote harvesting . "
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999998
+BLEU: 1.0
 Treats 杂志 与 摄影师 David Bellemere 合作 推出 了 一款 20 世纪 50 年代 的 倍 耐力 灵感 日历 。
 Treats magazine is partnering with photographer David Bellemere to launch a 1950s ' Pirelli - inspired calendar for 2017 .
 Treats 杂志 与 摄影师 David Bellemere 合作 推出 了 一款 20 世纪 70 年代 的 倍 耐力 灵感 日历 。
 Treats magazine is partnering with photographer David Bellemere to launch a 1970s ' Pirelli - inspired calendar for 2017 .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 你 S . 在 女子 曲棍球 比赛 中 获得 第 10 名 ， 与 英国队 争夺战
 U . S . Wins 10th Straight in Women ' s Field Hockey , Setting Up Showdown With Britain
 你 S . 在 女子 曲棍球 比赛 中 获得 第四名 ， 与 英国队 争夺战
 U . S . Wins 4th Straight in Women ' s Field Hockey , Setting Up Showdown With Britain
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 要求 在 投票站 只 使用 英语 （ 苏格兰 除外 ） 。
 Make it a requirement that only English is to be used in polling stations ( except in Scotland ) .
 要求 在 投票站 只 使用 英语 （ 威尔士 除外 ） 。
 Make it a requirement that only English is to be used in polling stations ( except in Wales ) .
 
 Label: False
+LCS: 0.9714285714285714
+ED: 0.9714285714285714
+Tf-idf: 0.9926802694994005
+BLEU: 0.9234732389450073
 据 新华社 报道 ， 新西兰 威尔士 政府 于 本月 11 日 宣布 ， 它 将 花费 2 亿澳元 （ 约合 1.54 亿美元 ） 用于 着 名 的 悉尼歌剧院 有史以来 最 大规模 的 翻新 工程 。 完成 。
 According to the Xinhua news agency , Zealand ' s New South Wales government announced on the 11th day of the month that it will spend 200 million Australian dollars ( about 154 million US dollars ) on the biggest ever renovation of the famous Sydney Opera House since its completion .
 据 新华社 报道 ， 澳大利亚 新南威尔士州 政府 在 本月 11 日 宣布 ， 它 将 花费 2 亿澳元 （ 约合 1.54 亿美元 ） 用于 着 名 的 悉尼歌剧院 有史以来 最 大规模 的 翻新 工程 。 完成 。
 According to the Xinhua news agency , Australia ' s New South Wales government announced on the 11th day of the month that it will spend 200 million Australian dollars ( about 154 million US dollars ) on the biggest ever renovation of the famous Sydney Opera House since its completion .
 
 Label: False
+LCS: 0.9666666666666667
+ED: 0.9666666666666667
+Tf-idf: 0.9941020898231031
+BLEU: 0.9107694029808044
 她 在 乒乓球 比赛 中 连续 5 年 排名 第一 ， 保持 世界 第一 ， 并且 是 乒乓球 运动 历史 上 最长 时间 的 “ 世界 第一 ” 女 运动员 。
 She ranked first in the table tennis for 5 years to maintain the world ' s first and is a female athlete to rank as the " the world ' s first " for the longest time in the history of table tennis .
 她 在 乒乓球 比赛 中 连续 8 年 排名 第一 ， 保持 世界 第一 ， 并且 是 乒乓球 历史 上 最长 时间 的 “ 世界 第一 ” 女 运动员 。
 She ranked first in the table tennis for 8 years to maintain the world ' s first and is a female athlete to rank as the " the world ' s first " for the longest time in the history of table tennis .
 
 Label: False
+LCS: 0.9767441860465116
+ED: 0.9767441860465116
+Tf-idf: 0.9997688415714122
+BLEU: 0.9385522603988647
 以 CPI 衡量 ， 过去 14 个 月 （ 2015 年 8 月 至 2016 年 7 月 ） 与 过去 12 个 月 （ 2014 年 8 月 至 2015 年 7 月 ） 的 年 平均 通胀率 为 - 0.8 ％ 。
 The annual average inflation , measured by CPI , in the last 14 months ( August 2015 - July 2016 ) compared to the previous 12 months ( August 2014 - July 2015 ) was - 0.8 % .
 以 CPI 衡量 的 过去 12 个 月 （ 2015 年 8 月 至 2016 年 7 月 ） 与 过去 12 个 月 （ 2014 年 8 月 至 2015 年 7 月 ） 的 年 平均 通胀率 为 - 0.8 ％ 。
 The annual average inflation , measured by CPI , in the last 12 months ( August 2015 - July 2016 ) compared to the previous 12 months ( August 2014 - July 2015 ) was - 0.8 % .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999998
+BLEU: 1.0
 行业 数据 显示 ， 2016 年 煤炭 总产量 接近 60 亿吨 ， 全国 煤炭 产能 过剩 达 18 亿吨 。
 Industry data showed that the total size of coal production in 2016 was close to 6 billion tons and the national coal production overcapacity reached 1.8 billion tons .
 行业 数据 显示 ， 2015 年 煤炭 总产量 接近 60 亿吨 ， 全国 煤炭 产能 过剩 达 18 亿吨 。
 Industry data showed that the total size of coal production in 2015 was close to 6 billion tons and the national coal production overcapacity reached 1.8 billion tons .
 
 Label: True
+LCS: 0.9259259259259259
+ED: 0.9259259259259259
+Tf-idf: 0.9664506565309883
+BLEU: 0.8293723464012146
 这位 22 岁 的 美国 体操 运动员 周四 飙升 至 全能冠军 头衔 ， 在 奥运 聚光灯 下 充分 展示 了 自己 与 世界 其他 地方 之间 的 差距 。
 The 22 - year - old American gymnast soared to the all - around title on Thursday , putting the gap between herself and the rest of the world on full display under the Olympic spotlight .
 这位 19 岁 的 美国 体操 运动员 周四 飙升 至 全能冠军 头衔 ， 在 奥运 聚光灯 下 全面 展现 了 自己 与 世界 其他 地方 的 差距 。
 The 19 - year - old American gymnast soared to the all - around title on Thursday , putting the gap between herself and the rest of the world on full display under the Olympic spotlight .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 前三名 也 在 同一天 的 混合双打 中 宣布 ， 但 排名 第一 的 马 胡 / 加西亚 种子 组合 和 纳豆 组合 的 退出 比 混合双打 更胜一筹 。
 The top three are also announced in the mixed doubles on the same day , but the defeat of number one Ma Hu / Garcia seed combination and the withdrawal of Natto combination outshone the mixed doubles .
 前 八名 也 在 同一天 的 混合双打 中 宣布 ， 但 排名 第一 的 马 胡 / 加西亚 种子 组合 和 纳豆 组合 的 退出 比 混合双打 更胜一筹 。
 The top eight are also announced in the mixed doubles on the same day , but the defeat of number one Ma Hu / Garcia seed combination and the withdrawal of Natto combination outshone the mixed doubles .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 最近 ， 她 将 与 俞敏洪 共同 打造 国内 第二个 体育产业 创新 创业 平台 。
 Recently , she will work together with Yu Minhong to build the second domestic sports industry innovation and entrepreneurship platform .
 最近 ， 她 将 与 俞敏洪 共同 打造 国内 第一个 体育产业 创新 创业 平台 。
 Recently , she will work together with Yu Minhong to build the first domestic sports industry innovation and entrepreneurship platform .
 
 Label: False
+LCS: 0.9285714285714286
+ED: 0.896551724137931
+Tf-idf: 0.9788381670995502
+BLEU: 0.7826164364814758
 据 报道 ， 截至 2016 年 ， 中国 体育场馆 的 人均 面积 是 新 中国 成立 时 的 150 倍 ， 但 仍 远远 落后 于 世界 体育 强国 。
 According to reports , as of 2016 , China ' s per capita area of sports venues has been 150 times of that when the new China was established , but still far lagged behind the world sports powers .
 据 报道 ， 截至 2015 年 ， 中国 人均 体育场馆 面积 已 达到 新 中国 成立 时 的 150 倍 ， 但 仍 远远 落后 于 世界 体育 强国 。
 According to reports , as of 2015 , China ' s per capita area of sports venues has been 150 times of that when the new China was established , but still far lagged behind the world sports powers .
 
 Label: False
+LCS: 0.8666666666666667
+ED: 0.8666666666666667
+Tf-idf: 0.8874525092222101
+BLEU: 0.8049696087837219
 “ 目前 ， 有 六名 旅游 警察 开始 学习 中文 ， 他们 可以 流利地 说话 。 我们 必须 继续 提高 他们 的 中文 水平 ， ” Lysakov 说 。
 " At present , there are six tourism policemen beginning to learn Chinese and they can speak fluently . We have to continue to improve their Chinese level , " Lysakov said .
 “ 目前 ， 有 两名 旅游 警察 开始 学习 中文 ， 他们 可以 说 得 很 流利 。 我们 必须 继续 提高 他们 的 中文 水平 ， ” Lysakov 说 。
 " At present , there are two tourism policemen beginning to learn Chinese and they can speak fluently . We have to continue to improve their Chinese level , " Lysakov said .
 
 Label: True
+LCS: 0.9333333333333333
+ED: 0.9333333333333333
+Tf-idf: 0.9564619067278831
+BLEU: 0.9039027094841003
 今年 四月 ， 亨特 先生 透露 计划 强制执行 合同 ， 称 NHS 处于 “ 无人区 ” ， 任何 进一步 的 延误 都 会 对 员工 和 病人 造成 伤害 。
 In April , Mr Hunt revealed plans to impose the contract saying the NHS was in " no man ' s land " and any further delay would be damaging for staff and patients .
 今年 7 月 ， 亨特 先生 透露 计划 强制 签署 合同 ， 称 NHS 处于 “ 无人区 ” ， 任何 进一步 的 延误 都 会 对 员工 和 病人 造成 伤害 。
 In July , Mr Hunt revealed plans to impose the contract saying the NHS was in " no man ' s land " and any further delay would be damaging for staff and patients .
 
 Label: True
+LCS: 0.7948717948717948
+ED: 0.7435897435897436
+Tf-idf: 0.7079298426742247
+BLEU: 0.7032027244567871
 8 月 4 日 星期四 ， 在 巴西 里约热内卢 举行 的 2016 年 夏季 奥运会 上 ， 美国 的 西蒙娜 · 贝尔斯 （ 左 ） 和 阿莉 · 赖斯 曼 分别 为 艺术体操 女子 个人全能 决赛 赢得 银牌 和 银牌 。
 United States ' Simone Biles , left , and Aly Raisman embrace after winning silver and silver respectively for the artistic gymnastics women ' s individual all - around final at the 2016 Summer Olympics in Rio de Janeiro , Brazil , Thursday , Aug .
 8 月 4 日 星期四 ， 在 巴西 里约热内卢 举行 的 2016 年 夏季 奥运会 上 ， 美国 的 西蒙娜 · 贝尔斯 （ 左 ） 和 Aly Raisman 分别 获得 了 金 银奖 的 女子 个人全能 决赛 。
 United States ' Simone Biles , left , and Aly Raisman embrace after winning gold and silver respectively for the artistic gymnastics women ' s individual all - around final at the 2016 Summer Olympics in Rio de Janeiro , Brazil , Thursday , Aug .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 他们 终于 走 了 ， 现在 会 很棒 。
 It ' s going to be wonderful now that they ' re finally gone .
 他们 终于 走 了 ， 现在 很 可爱 。
 It ' s going to be lovely now that they ' re finally gone .
 
 Label: True
+LCS: 0.8666666666666667
+ED: 0.8666666666666667
+Tf-idf: 0.8047908212574619
+BLEU: 0.7487401962280273
 牛肉 多年 来 一直 是 美国 餐 的 中心 ， 成为 一种 节俭 的 奢侈品 。
 Beef , for years the center of the American meal , became a sparingly apportioned luxury .
 多年 来 ， 肉 是 美国 餐 的 中心 ， 成为 一种 节约 的 奢侈品 。
 Meat , for years the center of the American meal , became a sparingly apportioned luxury .
 
 Label: False
+LCS: 0.9565217391304348
+ED: 0.9565217391304348
+Tf-idf: 0.9711237761109945
+BLEU: 0.9533589482307434
 尽管 具有 少量 自由电子 的 稳定 电离层 可以 帮助 人们 在 大学 广播电台 的 边缘 收听广播 ， 但 这 可能 不会 吸引 美国空军 。
 Although the stable ionizing layer with a small number of free electrons may help people listen to the radio at the edge of a university radio station , this may not appeal to the US Air Force .
 虽然 具有 大量 自由电子 的 稳定 电离层 可以 帮助 人们 在 大学 广播电台 的 边缘 收听广播 ， 但 这 可能 不会 吸引 美国空军 。
 Although the stable ionizing layer with a large number of free electrons may help people listen to the radio at the edge of a university radio station , this may not appeal to the US Air Force .
 
 Label: True
+LCS: 0.9743589743589743
+ED: 0.9743589743589743
+Tf-idf: 0.9648537450558013
+BLEU: 0.9318384528160095
 Raisman 在 等待 最后 的 比分 时 轻轻 拥抱 她 - 仅仅 是 一种 形式 - 当 她 在 剪贴簿 中 写下 的 视觉 成为 现实 时 ， Biles 闪闪发光 的 黄色 ， 白色 和 蓝色 眼线 周围 出现 了 泪水 。
 Raisman hugged her gently as they awaited the final score - a mere formality - and tears appeared around Biles ' glittery yellow , white and blue eyeliner when the vision she once wrote in a scrapbook became a reality .
 Raisman 在 等待 最终 得分 时 轻轻 拥抱 她 - 仅仅 是 一种 形式 - 当 她 在 剪贴簿 中 写下 的 视觉 成为 现实 时 ， Biles 闪闪发光 的 红色 ， 白色 和 蓝色 眼线 周围 出现 了 泪水 。
 Raisman hugged her gently as they awaited the final score - a mere formality - and tears appeared around Biles ' glittery red , white and blue eyeliner when the vision she once wrote in a scrapbook became a reality .
 
 Label: True
+LCS: 0.875
+ED: 0.8333333333333334
+Tf-idf: 0.9142830836585021
+BLEU: 0.6935232281684875
 作为 号码 。 2014 年 第 14 轮 新秀 ， 萨里 奇 将 在 下个 赛季 正式 登陆 NBA ， 并 加入 费城 76 人队 。
 As the No . 14 rookie of the first round in 2014 , Saric will officially land on the NBA in the next season , and join the Philadelphia 76ers .
 作为 号码 。 在 2014 年 的 第一轮 新秀 中 ， Saric 将 在 下个 赛季 正式 登陆 NBA ， 并 加入 费城 76 人队 。
 As the No . 12 rookie of the first round in 2014 , Saric will officially land on the NBA in the next season , and join the Philadelphia 76ers .
 
 Label: True
+LCS: 0.9032258064516129
+ED: 0.9032258064516129
+Tf-idf: 0.9751059732079594
+BLEU: 0.7921015620231628
 导演 Earl Phillip “ 制作 了 一把 手枪 ， 用 右手 食指 扣住 扳机 ， 将 枪管 开到 Vincent 的 膝盖 上 ， ” Bordini 在 投诉 中 说道 。
 The director , Earl Phillip , " produced a handgun , put his right index finger on the trigger , and drove the barrel into Vincent ' s knee cap , " Bordini said in the complaint .
 导演 Earl Phillip “ 制作 了 一把 手枪 ， 将 他 的 右手 食指 放在 扳机 上 ， 然后 将 枪管 开到 Vincent 的 膝盖 上 ， ” Bordini 在 投诉 中 说道 。
 The director , Earl Phillip , " produced a pistol , put his right index finger on the trigger , and drove the barrel into Vincent ' s knee cap , " Bordini said in the complaint .
 
 Label: True
+LCS: 0.9411764705882353
+ED: 0.9411764705882353
+Tf-idf: 0.9969159163166805
+BLEU: 0.9394130706787109
 在 业务 完成 工作 完成 后 ， 中国人民银行 将 处理 相关 支付 业务 许可 的 取消 和 续签 。
 The People ' s Bank of China will handle the cancellation and renewal of the relevant Payment Business Licenses after the business undertaking working is completed .
 经营 业务 完成 后 ， 中国人民银行 将 处理 相关 支付 业务 许可 的 取消 和 续签 。
 The People ' s Bank of China will handle the cancellation and renewal of the relevant Payment Business Licenses after the business undertaking work is completed .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 保加利亚 5 个 月 内 第一次 发布 通货膨胀
 Bulgaria Posts Inflation for 1st Time in 5 Months
 保加利亚 8 个 月 内 第一次 发布 通货膨胀
 Bulgaria Posts Inflation for 1st Time in 8 Months
 
 Label: True
+LCS: 0.7586206896551724
+ED: 0.7241379310344828
+Tf-idf: 0.8877063123482147
+BLEU: 0.6659833192825317
 据 媒体 披露 ， 资金 流入 互联网 医疗 行业 的 小规模 流动 导致 了 目前 产品 同质化 的 严重 问题 。 投资 热潮 逐渐 消退 ， 资金 进入 观望 期 。
 According to media disclosure , the small - scale flow of capital into the Internet medicine sector has resulted in the current serious problem of product homogeneity . Investment boom faded gradually and capital came into the wait - and - see period .
 据 媒体 披露 ， 大规模 资金 流入 互联网 医药行业 已 导致 当前 严重 的 产品 同质化 问题 。 投资 热潮 逐渐 消退 ， 资金 进入 观望 期 。
 According to media disclosure , the large - scale flow of capital into the Internet medicine sector has resulted in the current serious problem of product homogeneity . Investment boom faded gradually and capital came into the wait - and - see period .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999998
+BLEU: 1.0
 在 庭审 中 ， 六方 争辩 说王 治安 是否 侵犯 了 蓝 月 风 的 名誉权 。
 In the court hearing , the six sides argued whether Wang Zhian violated the reputation right of Lan Yuefeng .
 在 庭审 中 ， 双方 都 争辩 说王 治安 是否 侵犯 了 蓝 月 风 的 名誉权 。
 In the court hearing , the two sides argued whether Wang Zhian violated the reputation right of Lan Yuefeng .
 
 Label: False
+LCS: 0.9444444444444444
+ED: 0.9444444444444444
+Tf-idf: 0.9998282233915031
+BLEU: 0.8613356351852417
 在 过去 的 十年 中 ， 国务院 共 发布 了 八项 消除 过剩 和 落后 产能 的 通知 。
 Over the past decade , the State Council has issued a total of eight notices for the elimination of excessive and backward production capacity .
 在 过去 十年 中 ， 国务院 共 发布 了 五项 关于 消除 过剩 和 落后 产能 的 通知 。
 Over the past decade , the State Council has issued a total of five notices for the elimination of excessive and backward production capacity .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 IT 工程师 吴云 是 一位 深刻 的 社交 网络 爱好者 。 他 的 大多数 社交生活 都 是 在 网上 发生 的 ， 他 的 在线 朋友 总数 是 线下 朋友 的 几倍 。
 IT engineer Wu Yun is a profound social networking lover . His majority social life occurred online and the total number of his online friends are several times more than that of offline friends .
 IT 工程师 吴焱 是 一位 深刻 的 社交 网络 爱好者 。 他 的 大多数 社交生活 都 是 在 网上 发生 的 ， 他 的 在线 朋友 总数 是 线下 朋友 的 几倍 。
 IT engineer Wu Yan is a profound social networking lover . His majority social life occurred online and the total number of his online friends are several times more than that of offline friends .
 
 Label: False
+LCS: 0.9696969696969697
+ED: 0.9696969696969697
+Tf-idf: 0.9611688489324598
+BLEU: 0.9184678196907043
 在 补贴 过程 中 ， 已 获得 超过 170 万元 的 社会 捐款 （ 详细 捐款 分 五批 公布 ） 。 这 可以 帮助 至少 240 名 贫困学生 实现 他们 的 大学 梦想 。
 During the subsidizing process , more than RMB 1.7 million of social donations has been obtained ( the detailed donations are publicized in five batches ) . This can help at least 240 poverty - stricken students achieve their college dream .
 在 补贴 过程 中 ， 已 获得 超过 120 万元 的 社会 捐赠 （ 详细 捐款 分 五批 公布 ） 。 这 可以 帮助 至少 240 名 贫困学生 实现 他们 的 大学 梦想 。
 During the subsidizing process , more than RMB 1.2 million of social donations has been obtained ( the detailed donations are publicized in five batches ) . This can help at least 240 poverty - stricken students achieve their college dream .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 2016 年 4 月 6 日 ， 杜丽 在 里 约 奥运会 女子 10 米 气步枪 比赛 中 获得 207 枚 戒指 银牌 。
 On April 6 , 2016 , Du Li won a silver medal with 207 rings in the women ' s 10 - meter air rifle game of the Rio Olympic Games .
 2016 年 8 月 6 日 ， 杜丽 在 里 约 奥运会 女子 10 米 气步枪 比赛 中 获得 207 枚 戒指 银牌 。
 On August 6 , 2016 , Du Li won a silver medal with 207 rings in the women ' s 10 - meter air rifle game of the Rio Olympic Games .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 与此同时 ， Broadcom 首席 执行官 Hock Tan 也 表示 ， 苹果 未来 的 收入 增长 可能 会 超过 22 ％ ， 这 完全 是 由于 iPhone7 的 推出 。
 Meanwhile , Broadcom CEO Hock Tan also said that Apple ' s future revenue growth will likely be more than 22 % , which is entirely due to the introduction of iPhone7 .
 与此同时 ， Broadcom 首席 执行官 Hock Tan 也 表示 ， 苹果 未来 的 收入 增长 可能 会 超过 20 ％ ， 这 完全 是 由于 iPhone7 的 推出 。
 Meanwhile , Broadcom CEO Hock Tan also said that Apple ' s future revenue growth will likely be more than 20 % , which is entirely due to the introduction of iPhone7 .
 
 Label: True
+LCS: 0.7058823529411765
+ED: 0.7058823529411764
+Tf-idf: 0.7811240490740401
+BLEU: 0.46257731318473816
 这些 新闻 是 真 还是 假 都 不会 在 2017 年 苹果 秋季 新闻 发布会 上 公布 。
 Whether these news are true or false will not be unveiled until the 2017 Apple autumn news conference .
 这些 新闻 是 真是假 不会 在 2016 年 苹果 秋季 新闻 发布会 之前 公布 。
 Whether these news are true or false will not be unveiled until the 2016 Apple autumn news conference .
 
 Label: True
+LCS: 0.9230769230769231
+ED: 0.9230769230769231
+Tf-idf: 0.9178843852991757
+BLEU: 0.8882262110710144
 阿德莱德 交响乐团 的 常务董事 罗里 杰 弗斯 认为 ， 悉尼歌剧院 将 通过 这次 翻新 实现 “ 转机 ” ， 成为 世界 上 音响效果 最好 的 音乐厅 之一 。
 Rory Jeffes , managing director of the Adelaide Symphony Orchestra , believes that the Sydney Opera House will make a " turnaround " via this renovation and become one of the world ' s concert halls with the best sound effects .
 悉尼 交响乐团 常务董事 罗里 杰夫 斯 认为 ， 悉尼歌剧院 将 通过 这次 翻新 实现 “ 转机 ” ， 成为 世界 上 音响效果 最好 的 音乐厅 之一 。
 Rory Jeffes , managing director of the Sydney Symphony Orchestra , believes that the Sydney Opera House will make a " turnaround " via this renovation and become one of the world ' s concert halls with the best sound effects .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999999
+BLEU: 1.0
 至于 四月份 的 国民经济 ， 我 想 用 总理 的话 来说 ， “ 形状 不 稳定 ， 潜力 仍然 很 好 ” ， 盛来 运说 。 这是 总结 7 月份 经济运行 特点 的 更好 方法 。
 As for the national economy in April , I would like to use the words of the Premier , " the shape is volatile and the potential is still good " , said Sheng Laiyun . This is a better way to summarize the characteristics of the economic operation in July .
 至于 七月份 的 国民经济 ， 我 想 用 总理 的话 来说 ， “ 形状 不 稳定 ， 潜力 仍然 很 好 ” ， 盛来 运说 。 这是 总结 7 月份 经济运行 特点 的 更好 方法 。
 As for the national economy in July , I would like to use the words of the Premier , " the shape is volatile and the potential is still good " , said Sheng Laiyun . This is a better way to summarize the characteristics of the economic operation in July .
 
 Label: True
+LCS: 0.7391304347826086
+ED: 0.7391304347826086
+Tf-idf: 0.7833054802116518
+BLEU: 0.5774742364883423
 在 英格兰 和 苏格兰 ， 所有 苏格兰 皇家 银行 的 参考资料 ， 总部 外 和 证券 交易所 上市 ， 都 将 改为 NatWest 。
 In England and Scotland , all RBS references , outside head office and the stock exchange listing , will be changed to NatWest .
 在 英格兰 和 威尔士 ， 所有 RBS 参考 ， 总部 外 和 证券 交易所 上市 ， 将 改为 NatWest 。
 In England and Wales , all RBS references , outside head office and the stock exchange listing , will be changed to NatWest .
 
 Label: True
+LCS: 0.9545454545454546
+ED: 0.9545454545454546
+Tf-idf: 0.9999534592555093
+BLEU: 0.9155330657958984
 旧 万福 河 航道 穿过 金乡 ， 渝 台 ， 然后 穿过 南阳 湖 进入 京杭大运河 主航道 ， 全长 32.5 公里 。
 The old Wanfu River channel flows through Jinxiang , Yu Tai and then through the Nanyang Lakes into the Beijing - Hangzhou Grand Canal main channel , with a total length of 32.5 km .
 旧 的 万福 河 航道 穿过 金乡 ， 渝 台 ， 然后 穿过 南阳 湖 进入 京杭大运河 主干道 ， 全长 32.5 公里 。
 The old Wanfu River channel flows through Jinxiang , Yu Tai and then through the Nanyang Lake into the Beijing - Hangzhou Grand Canal main channel , with a total length of 32.5 km .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 案件 发生 后 ， 海口市 公安局 刑警支队 领导 高度重视 ， 并 立即 组织 了 一支 精锐部队 支队 ， 主动 调查 。
 After the case , Haikou City Public Security Bureau of Interpol detachment leaders attached good importance and immediately organized a detachment of elite troops to take the initiative to investigate .
 案件 发生 后 ， 海口市 公安局 刑警支队 领导 高度重视 ， 并 立即 组织 了 一支 精锐部队 支队 ， 主动 调查 。
 After the case , Haikou City Public Security Bureau of Interpol detachment leaders attached great importance and immediately organized a detachment of elite troops to take the initiative to investigate .
 
 Label: True
+LCS: 0.9629629629629629
+ED: 0.962962962962963
+Tf-idf: 0.9981621017849539
+BLEU: 0.9000001549720764
 “ 每个 人 都 盯 着 她 再次 取 下 短裤 ， 显然 不 喜欢 他们 ， 因为 她 把 它们 放 回 架子 上 。 “
 ' Everybody was staring as she took the knickers off again and obviously didn ' t like them because she put them back on the shelf . '
 “ 每个 人 都 在 盯 着 她 再次 脱 下 短裤 ， 显然 不 喜欢 他们 ， 因为 她 把 它们 放 回 架子 上 。 “
 ' Everyone was staring as she took the knickers off again and obviously didn ' t like them because she put them back on the shelf . '
 
 Label: True
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 而 Snapchat 的 大量 年轻人 - 他们 比 他们 的 老 同龄人 更具 种族 多样性 - 可能 意味着 他们 更 有 可能 期待 敏感 。
 And Snapchat ' s big audience of younger people - who are more racially diverse than their older counterparts - might mean that they are even more likely to expect sensitivity .
 而 Snapchat 的 大量 年轻人 - 他们 比 他们 的 老 同行 更具 种族 多样性 - 可能 意味着 他们 更 有 可能 期待 敏感 。
 And Snapchat ' s huge audience of younger people - who are more racially diverse than their older counterparts - might mean that they are even more likely to expect sensitivity .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 截至 4 月 8 日 ， 华源 县 上半年 为 13144 名 贫困学生 从 各种 救助 基金 筹集 了 2100 多万元 。
 As of April 8 , Huayuan County had raised more than RMB 21 million for 13,140 poverty - stricken students from various relief funds this first half year .
 截至 8 月 8 日 ， 华源 县 上半年 为 13144 名 贫困学生 从 各种 救助 基金 筹集 了 2100 多万元 。
 As of August 8 , Huayuan County had raised more than RMB 21 million for 13,140 poverty - stricken students from various relief funds this first half year .
 
 Label: True
+LCS: 0.9615384615384616
+ED: 0.9615384615384616
+Tf-idf: 0.9821869216802286
+BLEU: 0.9057663083076477
 在 他们 为了 恐吓 邻居 而 被 驱逐 之后 ， 一群 yobs 离开 了 他们 的 议会 大厦 ， 造成 了 价值 9 万英镑 的 损失 。
 A family of yobs left their council house with £ 90,000 worth of damage after they were evicted for terrorising their neighbours .
 在 他们 因为 恐吓 邻居 而 被 驱逐 之后 ， 一群 yobs 离开 了 他们 的 议会 大厦 ， 造成 了 价值 5 万英镑 的 损失 。
 A family of yobs left their council house with £ 50,000 worth of damage after they were evicted for terrorising their neighbours .
 
 Label: True
+LCS: 0.5882352941176471
+ED: 0.47058823529411764
+Tf-idf: 0.7195335591852472
+BLEU: 0.39167821407318115
 Dettori 在 纽 马克 特 的 双人 赛中以 1 , 500 的 成绩 夺冠 后 为 香槟 喷出 香槟
 Dettori sprays champagne after a double at Newmarket takes him to 1,500 wins
 Dettori 在 纽 马克 特 的 双人 赛中 为 他 赢得 了 3 , 000 胜 的 香槟
 Dettori sprays champagne after a double at Newmarket takes him to 3,000 wins
 
 Label: True
+LCS: 0.9142857142857143
+ED: 0.9142857142857143
+Tf-idf: 0.9022845670650778
+BLEU: 0.8174734115600586
 现任 反腐败 沙皇 的 前 社区 秘书 表示 ， 基于 宗教 理由 对 选民 的 恐吓 是 如此 糟糕 ， 以至于 应该 允许 警方 在 警察局 外 放置 警戒线 ， 以 保护 可怕 的 选民 。
 The former communities secretary , now the anti - corruption tsar , said the intimidation of voters on religious grounds was so bad that police should be allowed to put cordons outside polling stations to protect fearful voters .
 现任 反腐败 沙皇 的 前 社区 秘书 表示 ， 基于 宗教 理由 对 选民 的 恐吓 是 如此 糟糕 ， 以至于 应该 允许 警方 在 投票站 外 设置 警戒线 以 保护 受到 惊吓 的 选民 。
 The former communities secretary , now the anti - corruption tsar , said the intimidation of voters on religious grounds was so bad that police should be allowed to put cordons outside polling stations to protect frightened voters .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 据 知情 人士 透露 ， 近日 ， 苏宁高 管 与 苹果 经常 会面 ， 目的 是 准备 充足 的 货源 。
 According to informed sources , recently , Suning executives and Apple frequently meet , with the purpose to prepare sufficient supply .
 据 知情 人士 透露 ， 近日 ， 苏宁高 管 与 苹果 经常 会面 ， 目的 是 准备 充足 的 货源 。
 According to informed sources , recently , Suning executives and Apple frequently meet , with the purpose to prepare adequate supply .
 
 Label: True
+LCS: 0.8387096774193549
+ED: 0.8064516129032258
+Tf-idf: 0.8932075959361705
+BLEU: 0.6159279942512512
 当时 在 店里 的 两个 女儿 詹妮 戴维森 说 ， 在 试穿 内衣 之后 ， 这个 神秘 的 女人 再次 穿 好 衣服 走出 商店 而 没有 买 任何 东西 。 “
 A daughter - of - two , Jenny Davidson , who was in the shop at the time , said after trying on the underwear the mystery woman ' got dressed again and walked out of the store without buying anything . '
 当时 在 店里 的 一位 两个 孩子 的 珍妮 戴维森 说 ， 在 试穿 内衣 之后 ， 这位 神秘 女子 再次 穿 上 衣服 ， 走出 商店 而 没有 买 任何 东西 。 “
 A mother - of - two , Jenny Davidson , who was in the shop at the time , said after trying on the underwear the mystery woman ' got dressed again and walked out of the store without buying anything . '
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 当 听到 Byron Macdonlad 有 多么 不 敏感 时 ， Facebook 用户 并 没有 退缩
 Facebook users did not hold back when the heard how insensitive Byron Macdonlad was being
 当 听到 Byron Macdonlad 有 多么 不 敏感 时 ， Twitter 用户 并 没有 退缩
 Twitter users did not hold back when the heard how insensitive Byron Macdonlad was being
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999999
+BLEU: 1.0
 据悉 ， 目前 有 22 ％ 的 iPhone6 或 6Plus 用户群 都 有 购买 iPhone7 的 计划 。 这是 一个 相当 高 的 比例 。
 It is learned that currently 22 % of user groups of iPhone6 or 6Plus have such a plan to purchase iPhone7 . This is a rather high proportion .
 据悉 ， 目前 有 20 ％ 的 iPhone6 或 6Plus 用户群 都 有 购买 iPhone7 的 计划 。 这是 一个 相当 高 的 比例 。
 It is learned that currently 20 % of user groups of iPhone6 or 6Plus have such a plan to purchase iPhone7 . This is a rather high proportion .
 
 Label: True
+LCS: 0.8823529411764706
+ED: 0.8823529411764706
+Tf-idf: 0.9954617184899234
+BLEU: 0.7659552097320557
 那天 他 的 菜单 更加 谦逊 ： 番茄酱 中 的 鸡蛋 ， 土豆泥 ， 以及 甜点 ， 西梅 布丁 。
 His menu that day was more humble : deviled eggs in tomato sauce , mashed onions and , for dessert , prune pudding .
 那天 他 的 菜单 更加 谦逊 ： 番茄酱 ， 土豆泥 和 甜点 ， 西梅 布丁 的 鸡蛋 。
 His menu that day was more humble : deviled eggs in tomato sauce , mashed potatoes and , for dessert , prune pudding .
 
 Label: True
+LCS: 0.9705882352941176
+ED: 0.9428571428571428
+Tf-idf: 0.9707317301664663
+BLEU: 0.8943548202514648
 “ 在 Ple 宿星 的 ' 芭蕾 ' 中 ， 我们 看到 慢 旋转 器 往往 更加 巨大 ， 而 最快 的 旋转 器 往往 是 非常 轻 的 星星 ， ” 雷 布尔 说 。
 " In the ' ballet ' of the Pleiades , we see that slow rotators tend to be more enormous , whereas the fastest rotators tend to be very light stars , " said Rebull .
 “ 在 Ple 宿星 的 ' 芭蕾 ' 中 ， 我们 看到 缓慢 的 旋转 器 往往 更大 ， 而 最快 的 旋转 器 往往 是 非常 轻 的 星星 ， ” 雷 布尔 说 。
 " In the ' ballet ' of the Pleiades , we see that slow rotators tend to be more massive , whereas the fastest rotators tend to be very light stars , " said Rebull .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 “ 当时 ， 这太 紧急 了 。 我 内心 只有 一个 想法 ， 那 就是 救人 ！ ” 黄一林 在 回到 绵阳 家后 于 4 月 11 日 接到 记者 的 电话 采访 时 说道 。
 " At that time , it was too urgent . And there was just one idea in my heart , which was to rescue people ! " Huang Yilin said when receiving a phone call interview from the journalist on April 11 after getting back to her Mianyang home .
 “ 当时 ， 这太 紧急 了 。 我 内心 只有 一个 想法 ， 那 就是 救人 ！ ” 黄一林 在 回到 绵阳 家后 于 8 月 11 日 接到 记者 的 电话 采访 时 说道 。
 " At that time , it was too urgent . And there was just one idea in my heart , which was to rescue people ! " Huang Yilin said when receiving a phone call interview from the journalist on August 11 after getting back to her Mianyang home .
 
 Label: False
+LCS: 0.96875
+ED: 0.96875
+Tf-idf: 0.9918813743281105
+BLEU: 0.9167409539222717
 这是 多年 来 的 最高值 （ 自 2012 年 4 月 以来 ） ， 也 是 自 去年 10 月 以来 的 第一个 零点 ， 当时 发布 了 0.2 ％ 的 正值 。
 This is the highest value in years ( since April 2012 ) and the first one above zero since October of last year when a positive 0.2 % was posted .
 这是 多年 来 的 最高值 （ 自 2012 年 6 月 以来 ） ， 也 是 去年 10 月 以来 的 第一个 零点 ， 当时 发布 了 0.2 ％ 的 正值 。
 This is the highest value in years ( since June 2012 ) and the first one above zero since October of last year when a positive 0.2 % was posted .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 从 去年 4 月 到 今年 1 月 ， 秦皇岛 5 , 500 大卡 动力 煤 价格 徘徊 在 370 元 / 吨 ， 90 ％ 的 煤炭企业 陷入 亏损 。
 From last April to this January , the price of Qinhuangdao 5,500 kcal steam coal lingered at 370 yuan / ton and 90 % of the coal enterprises fell into deficits .
 从 去年 11 月 到 今年 1 月 ， 秦皇岛 5 , 500 大卡 动力 煤 价格 徘徊 在 370 元 / 吨 ， 90 ％ 的 煤炭企业 陷入 亏损 。
 From last November to this January , the price of Qinhuangdao 5,500 kcal steam coal lingered at 370 yuan / ton and 90 % of the coal enterprises fell into deficits .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 在 投票站 拍照 是 违法 的 。
 Make it illegal to take photos in polling stations .
 在 投票站 拍照 是 违法 的 。
 Make it illegal to take pictures in polling stations .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 他 告诉 BMA 成员 ， 在 73 , 000 名 初级 医生 和 医学生 的 民意调查 之前 的 会议 期间 ， 这笔 交易 应该 被 接受 。
 He had told BMA members the deal was a good one that should be accepted , during meetings ahead of the poll of 73,000 junior doctors and medical students .
 他 告诉 BMA 成员 ， 在 54 , 000 名 初级 医生 和 医学生 的 民意调查 之前 的 会议 期间 ， 这笔 交易 应该 被 接受 。
 He had told BMA members the deal was a good one that should be accepted , during meetings ahead of the poll of 54,000 junior doctors and medical students .
 
 Label: False
+LCS: 0.9565217391304348
+ED: 0.9565217391304348
+Tf-idf: 0.993925156237326
+BLEU: 0.9173176288604736
 根据 孙泽洲 的 说法 ， 它 必须 依靠 探测器 来 完成 整个 过程 ， 因为 地球 与 火星 之间 的 距离 非常 小 。
 According to Sun Zezhou , it must rely on the detector to complete the entire process because the distance between the Earth and the Mars is quite small .
 根据 孙泽洲 的 说法 ， 它 必须 依靠 探测器 来 完成 整个 过程 ， 因为 地球 和 火星 之间 的 距离 非常 大 。
 According to Sun Zezhou , it must rely on the detector to complete the entire process because the distance between the Earth and the Mars is quite large .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 世界 经济 全球化 和 治理 一体化 面临 的 挑战 是 什么 ？
 What are the challenges of the world economic globalisation and integration to governance ?
 世界 经济 全球化 和 治理 一体化 面临 的 挑战 是 什么 ？
 What are the challenges of the world economic globalization and integration to governance ?
 
 Label: True
+LCS: 0.9615384615384616
+ED: 0.9615384615384616
+Tf-idf: 0.985927549824559
+BLEU: 0.9045498371124268
 作为 党 的 干部 ， 孙 福建 失去 了 理想信念 ， 严重 打破 了 中国共产党 的 纪律 ， 在 中共 十八 大 之后 仍然 不能 把 自己 从 严重 的 错误行为 中 解脱 出来 。 此外 ， 他 没有 收敛 并 打破 了 规则 。 这样 的 行为 确实 是 邪恶 和 严重 的 。
 As a Party cadre , Sun Fujian lost his ideal and belief , seriously broke the discipline of the CPC , and still couldn ' t constrain himself from serious wrong doings after the 18th National Congress of the Communist Party of China . In addition , he was not astringent and broke the rules . Such deed was vile and grave indeed .
 作为 党 的 干部 ， 孙 福建 失去 了 理想信念 ， 严重 打破 了 中国共产党 的 纪律 ， 在 中共 十八 大 之后 仍然 没有 把 自己 束缚 于 严重 的 错误行为 。 此外 ， 他 没有 收敛 并 打破 了 规则 。 这样 的 行为 确实 是 邪恶 和 严重 的 。
 As a Party cadre , Sun Fujian lost his ideal and belief , seriously broke the discipline of the CPC , and still didn ' t constrain himself from serious wrong doings after the 18th National Congress of the Communist Party of China . In addition , he was not astringent and broke the rules . Such deed was vile and grave indeed .
 
 Label: True
+LCS: 0.8181818181818182
+ED: 0.8181818181818181
+Tf-idf: 0.9244094388629585
+BLEU: 0.6398167014122009
 威尔士 皇家 银行 将 为 苏格兰 以外 的 客户 消失 。
 Royal Bank of Wales will disappear for customers outside Scotland .
 苏格兰 皇家 银行 将 因 苏格兰 以外 的 客户 而 消失 。
 Royal Bank of Scotland will disappear for customers outside Scotland .
 
 Label: True
+LCS: 0.9473684210526315
+ED: 0.9473684210526316
+Tf-idf: 0.9957036231692912
+BLEU: 0.8524419665336609
 这个 小 侄子 年仅 11 岁 。 从 3 岁 开始 ， 他 的 左脚 就 被 挡风玻璃 所 困扰 。
 The little nephew was aged 11 years old . He was plagued with barbiers at his left foot since 3 years old .
 这个 小孙子 已经 11 岁 了 。 从 3 岁 开始 ， 他 的 左脚 就 被 挡风玻璃 所 困扰 。
 The little grandson was aged 11 years old . He was plagued with barbiers at his left foot since 3 years old .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 “ 我们 不想 让 玉兰 节 非常 可怕 ， 这 可能 会 吓 到 人们 ， 特别 是 孩子 们 ， ” 该 活动 的 主要 负责人 胡岩松 说 。
 " We do not want to make the Yulan festival very terrifying , which may spook people , especially the children , " said Hu Yansong , the chief responsible person of the event .
 “ 我们 不想 让 玉兰 节 非常 恐怖 ， 这 可能 会 吓 到 人们 ， 特别 是 孩子 们 ， ” 该 活动 的 主要 负责人 胡岩松 说 。
 " We do not want to make the Yulan festival very horrifying , which may spook people , especially the children , " said Hu Yansong , the chief responsible person of the event .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 即使 韦德 仍然 是 联盟 最好 的 角卫 之一 ， 他 在 公牛队 的 表现 也 不如 迈阿密 热火队 那么 好 。
 Even if Wade is still one of the league ' s best cornerback , his performance in the Bulls is not so good as that of the Miami Heat .
 即使 韦德 仍然 是 联盟 最好 的 线卫 之一 ， 他 在 公牛队 的 表现 也 不如 迈阿密 热火队 那么 好 。
 Even if Wade is still one of the league ' s best linebacker , his performance in the Bulls is not so good as that of the Miami Heat .
 
 Label: True
+LCS: 0.9310344827586207
+ED: 0.9310344827586207
+Tf-idf: 0.9388690722841824
+BLEU: 0.852481484413147
 “ 4 月 4 日 的 冲突 尚未 取得 调查结果 。 8 月 11 日 凌晨 0 点 左右 ， 另外 两名 司机 的 出租车 被 撞毁 。 ”
 " The conflict on April 4 has not yet obtained investigation results . Around 0 o ' clock on August 11 , the taxies of another two drivers were smashed in the residence . "
 “ 8 月 4 日 的 冲突 尚未 取得 调查结果 。 8 月 11 日 凌晨 0 点 左右 ， 另外 两名 司机 的 出租车 在 该 住所 被 砸坏 。 ”
 " The conflict on August 4 has not yet obtained investigation results . Around 0 o ' clock on August 11 , the taxies of another two drivers were smashed in the residence . "
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 处于 社会底层 的 守法 的 出租车 司机 不得不 与 肆无忌惮 的 优步 竞争 ， 并 认为 他们 被 当局 欺骗 。
 The law - abiding taxi drivers , who are at the bottom of the society , had to compete with the unbridled Uber and felt that they were deceived by the authorities .
 处于 社会底层 的 守法 的 出租车 司机 不得不 与 无拘无束 的 优步 竞争 ， 并 认为 他们 被 当局 欺骗 。
 The law - abiding taxi drivers , who are at the bottom of the society , had to compete with the unrestrained Uber and felt that they were deceived by the authorities .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 这个 家庭 臭名昭着 ， 他们 的 名字 臭名昭着 。
 This family are infamous and their name is notorious .
 这个 家庭 臭名昭着 ， 他们 的 名字 臭名昭着 。
 This family are notorious and their name is notorious .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 0.9999999999999998
+BLEU: 1.0
 他 准备 在 当地 一所 小学 上 二年级 。
 He was set to start second grade at a local elementary school .
 他 准备 在 当地 一所 小学 上一年 级 。
 He was set to start first grade at a local elementary school .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 日本 最大 的 石油 公司 JX Energy 认为 ， “ 中国 的 出口 扩张 是 市场经济 衰退 的 原因 之一 。 ” Cankaoxiaoxi 网站 于 8 月 12 日 报道 。
 Japan ' s largest oil company JX Energy believes that " China ' s export expansion is one of the reasons for the market recession . " the Cankaoxiaoxi website reported on August 12 .
 日本 最大 的 石油 公司 JX Energy 认为 ， “ 中国 的 出口 扩张 是 市场 低迷 的 原因 之一 。 ” Cankaoxiaoxi 网站 于 8 月 12 日 报道 。
 Japan ' s largest oil company JX Energy believes that " China ' s export expansion is one of the reasons for the market downturn . " the Cankaoxiaoxi website reported on August 12 .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 杜丽 作为 八届 奥运会 参赛者 ， 在 4 届 奥运会 上 获得 2 枚 金牌 ， 1 枚 银牌 和 1 枚 铜牌 。
 Du Li , as a eight - time Olympic Games participant , won 2 gold , 1 silver and 1 bronze medals in 4 Olympic Games .
 杜丽 作为 四届 奥运会 参赛者 ， 在 4 届 奥运会 上 获得 2 枚 金牌 ， 1 枚 银牌 和 1 枚 铜牌 。
 Du Li , as a four - time Olympic Games participant , won 2 gold , 1 silver and 1 bronze medals in 4 Olympic Games .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 Ticagrelor 由 英国公司 AstraZeneca 制造 ， 以 商品 名 Brilique 出售 ， 通过 降低 凝块 的 可能性 来 降低 这种 风险 。
 Ticagrelor , which is made by UK firm AstraZeneca and sold under the trade name Brilique , reduces this risk by making clot less likely .
 Ticagrelor 由 英国公司 AstraZeneca 制造 ， 以 商品 名 Brilique 出售 ， 通过 降低 凝块 的 可能性 来 降低 这种 风险 。
 Ticagrelor , which is made by UK firm AstraZeneca and sold under the trade name Brilique , reduces this risk by making clots less likely .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 模特 可以 在 洛杉矶 和 纽约 的 公开 演员 电话 上 在线 或 亲自 提交 照片 。
 Models can submit pics online or in person at open casting calls in Los Diego and New York .
 模特 可以 在 洛杉矶 和 纽约 的 公开 演员 电话 上 在线 或 亲自 提交 照片 。
 Models can submit pics online or in person at open casting calls in Los Angeles and New York .
 
 Label: True
+LCS: 0.8918918918918919
+ED: 0.8648648648648649
+Tf-idf: 0.9510438452250927
+BLEU: 0.7318459749221802
 “ 在 GISS 模型 的 模拟 中 ， 维纳斯 的 缓慢 旋转 将 其 日间 暴露 在 阳光 下 ， 持续 近 6 个 月 ， ” GISS 科学家 Anthony Del Genio 在 新闻 发布会 上 解释 说 。
 " In the GISS model ' s simulation , Venus ' slow spin exposes its dayside to the sun for almost six months at a time , " GISS scientist Anthony Del Genio explained in a news release .
 “ 在 GISS 模型 的 模拟 中 ， 金星 的 ​ ​ 缓慢 旋转 使 其 日间 暴露 在 阳光 下 一次 近 两个 月 ， ” GISS 科学家 Anthony Del Genio 在 新闻 发布会 上 解释 说 。
 " In the GISS model ' s simulation , Venus ' slow spin exposes its dayside to the sun for almost two months at a time , " GISS scientist Anthony Del Genio explained in a news release .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 在 理性 上 ， 弓箭手 开始 意识 到 社交 媒体 的 疯狂 ， 并 承认 他 从小 就 听说 他 看起来 像 狮子座 。
 And in reason , the archer became aware of the social media frenzy and admitted that he has been hearing that he looks like Leo since he was a kid .
 事实上 ， 弓箭手 开始 意识 到 社交 媒体 的 疯狂 ， 并 承认 他 从小 就 听说 他 看起来 像 狮子座 。
 And in fact , the archer became aware of the social media frenzy and admitted that he has been hearing that he looks like Leo since he was a kid .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 在 理性 上 ， 村庄 和 城市 之间 的 关系 应该 像 母亲 和 孩子 一样 陪伴 。 无论 强弱 。 任何一方 都 不 需要 由 另一方 管理 。 这种 关系 很 温暖 。
 In reason , the relationship between the village and the city should companionship , just like mother and child . No matter strong or weak . There is no need for any party to be governed by the other party . Such a relationship is warm .
 事实上 ， 村庄 和 城市 之间 的 关系 应该 像 母亲 和 孩子 一样 陪伴 。 无论 强弱 。 任何一方 都 不 需要 由 另一方 管理 。 这种 关系 很 温暖 。
 In fact , the relationship between the village and the city should companionship , just like mother and child . No matter strong or weak . There is no need for any party to be governed by the other party . Such a relationship is warm .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 同时 ， 部署 了 德宏 医院 的 65 名 医务人员 和 11 辆 救护车 ， 组建 了 11 支 医疗队 ， 负责 比赛场地 的 医疗 保护 工作 和 运动员 的 住宿 。
 At the same time , 65 medical staff and 11 ambulances from various Dehong hospitals were deployed to set up 11 medical teams , which will be responsible for the medical protection work for the competition sites and the accommodations of athletes .
 同时 ， 部署 了 德宏 医院 的 70 名 医务人员 和 11 辆 救护车 ， 组建 了 11 支 医疗队 ， 负责 比赛场地 的 医疗 保护 工作 和 运动员 的 住宿 。
 At the same time , 70 medical staff and 11 ambulances from various Dehong hospitals were deployed to set up 11 medical teams , which will be responsible for the medical protection work for the competition sites and the accommodations of athletes .
 
 Label: False
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1.0
+BLEU: 1.0
 根据 招商 证券 从 股票 中 扣除 的 估计 ， CSFC 将 在 第二季度 再 持有 5800 万股 上海浦东发展银行 股份 ， 并 将 其 股份 增加 至近 6 亿股 ， 占 银行 股份 的 2.77 ％ 。
 According to the estimates of China Merchants Securities , deducted from the shares , CSFC will hold another 58 million shares of Shanghai Pudong Development Bank in the second quarter and raise its shares to almost 600 million shares , which account for 2.77 % of the bank shares .
 根据 招商 证券 从 股票 中 扣除 的 估计 ， CSFC 将 在 第二季度 再 持有 上海浦东发展银行 3800 万股 股份 ， 并 将 其 股份 增加 至近 6 亿股 ， 占 银行 股份 的 2.77 ％ 。
 According to the estimates of China Merchants Securities , deducted from the shares , CSFC will hold another 38 million shares of Shanghai Pudong Development Bank in the second quarter and raise its shares to almost 600 million shares , which account for 2.77 % of the bank shares .
 
 Label: True
+LCS: 1.0
+ED: 1.0
+Tf-idf: 1
+BLEU: 1.0
 兰月凤 声称 ， 王翔 应该 删除 微博 帖子 ， 向 他 道歉 并 支付 10 万元 作为 精神 损害 抚慰金 。
 Lan Yuefeng claimed that Wang Xiang ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
 兰月凤 声称 ， 王志安 应该 删除 微博 帖子 ， 向 他 道歉 并 支付 10 万元 作为 精神 损害 抚慰金 。
 Lan Yuefeng claimed that Wang Zhi ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
 
 Label: True
+LCS: 0.8
+ED: 0.8
+Tf-idf: 0.8571357188223845
+BLEU: 0.6942566633224487
 他 找到 了 各种各样 的 商业活动 。 一笔 巨大 的 财富 为 他 提供 了 一个 闪光 的 前景 。
 A variety of business activities came to him . A great fortune has offered him a golden flashing prospect .
 他 找到 了 各种各样 的 商业活动 。 好运 为 他 提供 了 一个 闪光 的 前景 。
