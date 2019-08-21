@@ -1,0 +1,1788 @@
+Label: True
+现在 ， 世界 已经 目睹 了 三次 世界冠军 西蒙 · 比尔 斯 、 道格拉斯 和 劳里 · 埃尔南德斯 的 惊人 表现 ， 他们 提供 了 意料之外 的 、 但 又 掌握 的 体操 路线 。
+Now the world has been able to witness the amazing performances of three - time World Champion Simone Biles , Douglas and Laurie Hernandez delivering the unexpected , yet masterful gymnastics routines .
+现在 ， 世界 已经 目睹 了 三次 世界冠军 西蒙 · 比尔 斯 、 道格拉斯 和 劳里 · 埃尔南德斯 的 令人 难以置信 的 表演 。
+Now the world has been able to witness the incredible performances of three - time World Champion Simone Biles , Douglas and Laurie Hernandez delivering the unexpected , yet masterful gymnastics routines .
+
+Label: True
+在 本周 的 一次 法庭 听证会 上 ， Calais 当局 认为 ， 该 州 应该 能够 击倒 总共 58 个 临时 商店 ， 在 那里 ， 营地 内 的 人 出售 货物 ， 从 香烟 到 能源 饮料 ， 提供 理发 ， 或者 在 临时 餐厅 出售 50 美分 （ 40p ） 的 茶 ， 或者 一些 欧元 的 基本 膳食 。
+At a court hearing this week , Calais authorities had argued the state should be able to knock down a total of 58 makeshift shops where people inside the camp sell goods , from cigarettes to energy drinks , offer haircuts , or sell tea for 50 cents ( 40p ) or basic meals for a few euros in makeshift restaurants .
+在 本周 的 一次 法庭 听证会 上 ， Calais 当局 认为 ， 该州 应该 能够 击倒 总共 72 个 临时 商店 ， 在 那里 ， 营地 内 的 人 出售 货物 ， 从 香烟 到 能源 饮料 ， 提供 理发 ， 或 以 50 美分 ( 40p ) 出售 茶 ， 或 在 临时 餐厅 为 少数 欧元 提供 基本 膳食 。
+At a court hearing this week , Calais authorities had argued the state should be able to knock down a total of 72 makeshift shops where people inside the camp sell goods , from cigarettes to energy drinks , offer haircuts , or sell tea for 50 cents ( 40p ) or basic meals for a few euros in makeshift restaurants .
+
+Label: False
+一份 报告 称 ， 相比之下 ， 雷杰普 · 塔伊 普 · 埃 尔多 安 一再 谈论 他 的 “ 亲爱 的 朋友 ” 普京 八度 。
+Recep Tayyip Erdogan by contrast talked repeatedly of his " dear friend " Mr Putin - eight times , according to one report .
+一份 报告 称 ， 相比之下 ， 雷杰普 · 塔伊 普 · 埃 尔多 安 一再 谈论 他 的 “ 亲爱 的 朋友 ” 普京 五次 。
+Recep Tayyip Erdogan by contrast talked repeatedly of his " dear friend " Mr Putin - five times , according to one report .
+
+Label: False
+有关 机构 应当 自 公告 之日起 5 个 月 内 ， 有序 停止 有关 支付 业务 。
+The relevant agencies shall , within 5 months from the date of the announcement , stop the relevant payment business in an orderly manner .
+有关 机构 应当 自 公告 之日起 六个月 内 ， 有序 停止 有关 支付 业务 。
+The relevant agencies shall , within 6 months from the date of the announcement , stop the relevant payment business in an orderly manner .
+
+Label: False
+目前 ， 为 筹备 开幕式 ， 共 部署 了 7   500 名 Dehong 职业 学院 和 其他 500 名 专业 行为 者 。
+At present , in preparation for the opening ceremony , a total of 7,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+目前 ， 为 筹备 开幕式 ， 总共 部署 了 1   500 名 Dehong 职业 学院 和 其他 500 名 专业 行为 者 。
+At present , in preparation for the opening ceremony , a total of 1,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+
+Label: False
+幸运 的 是 ， 自 1920 年代 以来 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Fortunately , the US military force had started the study of solar activities and its electromagnetic interference to the Earth since the 1920s , it ultimately stopped this potential military conflict .
+幸运 的 是 ， 自 20 世纪 50 年代 以来 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Fortunately , the US military force had started the study of solar activities and its electromagnetic interference to the Earth since the 1950s , it ultimately stopped this potential military conflict .
+
+Label: True
+有人 说 ： “ 他们 不在乎 别人 。 ”
+One said : ' They didn ' t care about somebody . '
+有人 说 ： “ 他们 不 关心 任何人 。 ”
+One said : ' They didn ' t care about anybody . '
+
+Label: False
+这是 当天 唯一 的 奖牌 活动 ， 但 英国 还有 更 多 的 好消息 。
+It was the day ' s only medal event , but there was further great news for Britain .
+这是 当天 唯一 的 奖牌 活动 ， 但 英国 还有 更 多 的 好消息 。
+It was the day ' s only medal event , but there was further good news for Britain .
+
+Label: True
+这 8 个 肤浅 的 因素 反映 了 我们 增长 模式 变化 相对 落后 的 原因 ， 即 政府 主导 的 增长 尚未 发生 根本 的 变化 。
+These eight superficial factors reflect the reason behind the relative lagging behind of our growth pattern change . That is , the government - led growth has not yet been fundamentally changed .
+这 三个 表面 因素 反映 了 我们 增长 模式 变化 相对 落后 的 原因 ， 即 政府 主导 的 增长 尚未 发生 根本 的 变化 。
+These three superficial factors reflect the reason behind the relative lagging behind of our growth pattern change . That is , the government - led growth has not yet been fundamentally changed .
+
+Label: True
+美国 铝业 的 西雅图 冶炼厂 正在 损失 资金 和 风险 关闭 .
+Alcoa ' s Seattle smelter is losing money and risks closure .
+美国 铝业 ( Alcoa ) 的 Portland 冶炼厂 正在 损失 资金 和 风险 关闭 。
+Alcoa ' s Portland smelter is losing money and risks closure .
+
+Label: True
+据 现场 的 记者 说 ， 一辆 小 集装箱 卡车 在 一名 交通警察 指挥 下 转向 快车道 ， 其 集装箱 箱落 在 绿色 公路 上 ， 使 路边 有 一个 2 厘米 深 的 坑 。
+According to the reporter on the scene , a small container truck shifted to the fast lane with the command of a traffic policeman . Its container box fell down onto the green road , making a 2cm - deep pit on the roadside .
+据 现场 的 记者 说 ， 一辆 大型 集装箱 卡车 在 一名 交通警察 指挥 下 转向 快车道 ， 其 集装箱 箱落 在 绿色 公路 上 ， 使 路边 的 一个 2 厘米 深 的 坑 。
+According to the reporter on the scene , a large container truck shifted to the fast lane with the command of a traffic policeman . Its container box fell down onto the green road , making a 2cm - deep pit on the roadside .
+
+Label: False
+维古村 拥有 独特 的 海洋环境 ， 拥有 6 种 休闲 旅游 资源 ， 包括 自然生态 和 文化 生态 。
+Weitou Village boasts a unique marine environment , with six leisure travel resources including natural ecology and cultural ecology .
+维古村 拥有 独特 的 海洋环境 ， 有 两种 休闲 旅游 资源 ， 包括 自然生态 和 文化 生态 。
+Weitou Village boasts a unique marine environment , with two leisure travel resources including natural ecology and cultural ecology .
+
+Label: False
+NubiaZ11mini 遵循 一致 的 摄影 基因 ， 并 配备 了 一个 易于 持有 的 4.0 英寸 屏幕 ， 方便 和 易于 使用 的 后 指纹 识别 ， 这 有助于 提高 其 使用 经验 。
+NubiaZ11mini follows the consistent photographed gene , and is equipped with a one - hand easier - to - hold 4.0 - inch screen and convenient and easy - to - use back fingerprint recognition , contributing to its superior use experience .
+NubiaZ11mini 遵循 一致 的 摄影 基因 ， 并 配备 了 一个 易于 持有 的 5.0 英寸 屏幕 ， 方便 和 易于 使用 的 后 指纹 识别 ， 这 有助于 提高 其 使用 经验 。
+NubiaZ11mini follows the consistent photographed gene , and is equipped with a one - hand easier - to - hold 5.0 - inch screen and convenient and easy - to - use back fingerprint recognition , contributing to its superior use experience .
+
+Label: True
+Lester   Piggott ， 8 次 得主 ， 4   493 次 职业 胜利
+Lester Piggott , eight - time Derby winner , 4,493 career wins
+莱斯特 · Piggott ， 9 次 得主 ， 4   493 次 职业 胜利
+Lester Piggott , nine - time Derby winner , 4,493 career wins
+
+Label: False
+社区 发展 委员会 最后 向 回应 上述 言论 的 人 道歉 超过 75 次
+CBC ended up apologizing more than 75 times to people who had tweeted in response to the remark
+社区 发展 委员会 最后 向 回应 上述 言论 的 人 道歉 了 90 多次
+CBC ended up apologizing more than 90 times to people who had tweeted in response to the remark
+
+Label: False
+Melissa Gonzalez 在 第三阶段 中期 加入 了 最后 目标 。
+Melissa Gonzalez added the final goal midway through the third period .
+Melissa Gonzalez 在 第四期 中期 加入 了 最后 目标 。
+Melissa Gonzalez added the final goal midway through the fourth period .
+
+Label: False
+该 临时 报告 来自 众议院 武装部队 委员会 、 情报 委员会 和 国防 拨款 小组 委员会 共和党 主席 设立 的 一个 工作队 ， 在 中央 指挥 情报分析 人员 中 发现 了 “ 普遍 的 不满 ” ， 他们 说 ， 上级 在 对 美国 打败 伊斯兰 国 的 努力 进行 评估 。
+The interim report , from a task force established by the Republican chairmen of the House Armed Services Committee , Intelligence Committee and Defense Appropriations Subcommittee , found " widespread discontent " among Central Command intelligence analysts , who said superiors were doctoring their assessments of American efforts to defeat the Islamic State .
+该 临时 报告 来自 众议院 武装部队 委员会 、 情报 委员会 和 国防 拨款 小组 委员会 共和党 主席 设立 的 一个 工作队 ， 在 中央 指挥 情报分析 人员 中 发现 了 " 普遍 不满 " ， 他们 说 ， 上级 在 对 美国 打败 伊斯兰 国 的 努力 进行 评估 。
+The interim report , from a task force established by the Republican chairmen of the House Armed Services Committee , Intelligence Committee and Defense Appropriations Subcommittee , found " widespread dissatisfaction " among Central Command intelligence analysts , who said superiors were doctoring their assessments of American efforts to defeat the Islamic State .
+
+Label: False
+“ 社会 网络 具有 低成本 、 快速 传输 速度 和 众多 人 同时 交流 的 特点 ， 这 符合 现代 大学生 的 要求 。 ”
+" Social network features low cost , fast transmission speed and simultaneous communication among numerous people . This meets the requirement of modern college students . "
+" 社会 网络 的 特点 是 成本 低 、 传输 速度 快 、 几个 人 同时 通信 ， 这 符合 现代 大学生 的 要求 " 。
+" Social network features low cost , fast transmission speed and simultaneous communication among several people . This meets the requirement of modern college students . "
+
+Label: True
+随着 调查 的 继续 ， 星期一 公布 的 报告 将 有 更 广泛 的 调查结果 。
+The report released Monday is to be followed up by more extensive findings as the investigation continues .
+星期四 公布 的 报告 将 随着 调查 的 继续 进行 而 进行 更 广泛 的 调查 。
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+
+Label: False
+从 4 月 1 日起 ， 60 至 64 岁 的 人 可以 乘坐 半价 车票 。
+From April 1 , people aged 60 to 64 can take bus with a half - price ticket .
+从 9 月 1 日起 ， 60 至 64 岁 的 人 可以 乘坐 半价 车票 。
+From September 1 , people aged 60 to 64 can take bus with a half - price ticket .
+
+Label: False
+“ 在 逃离 飞机 坠毁 后 ， 我 获得 了 第三个 生命 ， 并 提供 了 钱 让 我 做 好事 ， ” Hedar 说 。
+" After escaping from the crash , I was given the third life and offered the money to allow me do the good " , said Hedar .
+“ 在 逃离 飞机 坠毁 后 ， 我 获得 了 第二次 生命 ， 并 提供 了 钱 让 我 做 好事 ， ” Hedar 说 。
+" After escaping from the crash , I was given the second life and offered the money to allow me do the good " , said Hedar .
+
+Label: True
+国会 调查 的 初步 结果 由 《 每日 海滩 》 报道 。
+The preliminary results of the congressional investigation were reported Monday by The Daily Beast .
+国会 调查 的 初步 结果 星期二 由 《 每日 海滩 》 报道 .
+The preliminary results of the congressional investigation were reported Tuesday by The Daily Beast .
+
+Label: False
+如果 他 的 女儿 埃莉诺 不 鼓励 他 以身作则 罗斯福 总统 可能 犯 了 同样 的 错误 。
+President Roosevelt may have committed the same error if his daughter , Eleanor , had not encouraged him to set an example with his stomach .
+如果 他 的 妻子 埃莉诺 不 鼓励 他 以身作则 罗斯福 总统 可能 犯 了 同样 的 错误 。
+President Roosevelt may have committed the same error if his wife , Eleanor , had not encouraged him to set an example with his stomach .
+
+Label: True
+据 英国 《 每日 电讯报 》 报道 ， 特蕾莎 · 梅梅 选择 在 瑞士 度假 ， 这是 英国 总理 在 玛格丽特 · 撒切尔 之后 第二次 选择 在 瑞士 度假 。
+Teresa Mei chose to take a vacation in Switzerland . This is the second time that a United Kingdom prime minister chose to go vacation in Switzerland after Margaret Thatcher , according to the United Kingdom newspaper Daily Telegraph .
+据 英国 《 每日 电讯报 》 报道 ， 特蕾莎 · 梅梅 选择 在 瑞士 度假 ， 这是 英国首相 在 玛格丽特 · 撒切尔 之后 首次 选择 在 瑞士 度假 。
+Teresa Mei chose to take a vacation in Switzerland . This is the first time that a United Kingdom prime minister chose to go vacation in Switzerland after Margaret Thatcher , according to the United Kingdom newspaper Daily Telegraph .
+
+Label: True
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运 巡回赛 中 的 4 - 0 ， 在 他们 与 英国 的 团队 中 首先 被 捆绑 在 一起 ， 而 在 周四 2 - 0 击败 日本 后 ， 他们 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tourney and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运会 比赛 中 的 4 - 0 ， 并且 在 他们 与 英国 的 团队 中 被 捆绑 在 一起 ， 而 英国 在 周四 击败 了 日本 2 - 0 之后 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tournament and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+
+Label: True
+原始 标题 ： 加拿大 警察 杀 了 我 的 支持者 ： 为 荷马 制造 爆炸 的 准备
+Original Title : Canada Police Kill IS Supporters : Preparations for Homemade Bomb Downtown Attack Near the End
+原始 标题 ： 加拿大 警察 杀戮 IS 支持者 ： 为 荷马 制造 炸弹 的 准备
+Original Title : Canadian Police Kill IS Supporters : Preparations for Homemade Bomb Downtown Attack Near the End
+
+Label: False
+另外 6 名 受害者 不 在 车里 ， 警察 正在 调查 是否 有 任何 受伤 的 人 可能 是 一名 射手 。
+The other six victims were not in the car and police are investigating whether any of the wounded men could be a shooter .
+另外 两名 受害者 不 在 车里 ， 警察 正在 调查 是否 有 任何 受伤 的 人 可能 是 一名 射手 。
+The other two victims were not in the car and police are investigating whether any of the wounded men could be a shooter .
+
+Label: True
+乔科 维奇 ( Djokovic ) 是 一位 著名 的 西班牙 运动员 ， 也 是 一名 男子 在 北京 奥运会 上 的 单身 冠军 ， 击败 了 他 的 对手 ， 在 男子 单打 八强 ， 并 在 男子 双双 中 获得 了 决赛 资格 。
+Djokovic , a famous Spanish athlete and a men ' s singles champion at Beijing Olympic Games , beat its opponent and advanced to the top eight in men ' s single and also qualified for the final in the men ' s double .
+在 北京 奥运会 上 ， 一位 著名 的 西班牙 运动员 和 一名 男子 单打 冠军 纳达尔 击败 了 对手 ， 在 男子 单打 八强 ， 并 在 男子 双双 中 获得 了 决赛 资格 。
+Nadal , a famous Spanish athlete and a men ' s singles champion at Beijing Olympic Games , beat its opponent and advanced to the top eight in men ' s single and also qualified for the final in the men ' s double .
+
+Label: False
+新南威尔士 政府 称 ， 翻修 不会 改变 歌剧 所 的 贝壳 形状 。
+The renovation would not change the shell shape of the opera house , according to the New North Wales government .
+新南威尔士 政府 称 ， 翻修 不会 改变 歌剧 所 的 贝壳 形状 。
+The renovation would not change the shell shape of the opera house , according to the New South Wales government .
+
+Label: False
+安卡拉 对 北方 感到 愤怒 ， 因为 它 认为 对 试图 接管 的 反应 不力 。
+Ankara is angry with the North for what it considers a weak response to the attempted takeover .
+安卡拉 对 西方 愤怒 ， 因为 它 认为 对 试图 接管 的 反应 不力 。
+Ankara is angry with the West for what it considers a weak response to the attempted takeover .
+
+Label: False
+据 中国 航空航天 科学 和 技术 小组 第三 研究所 研究员 Pang   Zhehao 说 ， 人类 支持 火星 探测 的 原因 是 火星 探测 具有 重要 的 科学 和 技术 意义 ， 甚至 关系 到 人类 的 未来 。
+According to Pang Zhihao , a researcher of the third institute of China ' s Aerospace Science and Technology Group , the reason for human being to favor Mars exploration is that Mars detection has significant scientific and technical meanings and it even matters to the future of human beings .
+据 中国 航空航天 科学 和 技术 小组 第五 研究所 研究员 Pang   Zhehao 说 ， 人类 支持 火星 探测 的 原因 是 火星 探测 具有 重要 的 科学 和 技术 意义 ， 甚至 关系 到 人类 的 未来 。
+According to Pang Zhihao , a researcher of the fifth institute of China ' s Aerospace Science and Technology Group , the reason for human being to favor Mars exploration is that Mars detection has significant scientific and technical meanings and it even matters to the future of human beings .
+
+Label: True
+她 站 在 商店 地板 的 中间 ， 从 陈列 中 拿出 一对 小刀 ， 脱掉 自己 的 紧身衣 和 牛仔裤 ， 穿 上 。
+Standing in the middle of the shop floor , she took a pair of knickers from the display , stripped off her own tights and jeans and put them on .
+她 站 在 商店 地板 的 中间 ， 从 陈列 中 拿出 一对 小刀 ， 脱下 自己 的 紧身裤 ， 穿 上 裤子 。
+Standing in the middle of the shop floor , she took a pair of knickers from the display , stripped off her own tights and pants and put them on .
+
+Label: True
+在 荷兰 皇家 壳牌 ( Royal Dutch Shell ) 运营 的 北海 平台 上 ， 对 油田 服务 公司 Wood Group 进行 了 零星 罢工 。
+Strikes against oilfield services company Wood Group have been staged sporadically on platforms in the Northwest Sea operated by Royal Dutch Shell .
+在 荷兰 皇家 壳牌 ( Royal Dutch Shell ) 运营 的 北海 平台 上 ， 对 油田 服务 公司 Wood Group 进行 了 零星 打击 。
+Strikes against oilfield services company Wood Group have been staged sporadically on platforms in the North Sea operated by Royal Dutch Shell .
+
+Label: False
+互联网 公司 和 数据 公司 缺乏 专业 精神 ， 即使 在 同一 条目 的 措辞 上 也 不能 提供 统一 。
+Internet firms and data companies are short of professionalism . No unity can be provided even on the wording of the same entry .
+互联网 公司 和 数据 公司 缺乏 专业 精神 ， 即使 在 同一 条目 的 措辞 上 也 无法 统一 。
+Internet companies and data companies are short of professionalism . No unity can be provided even on the wording of the same entry .
+
+Label: False
+数据 显示 ， 在 最近 14 年 中 ， 新西兰 移民 平均 每年 净流入 21   800 人 ， 每年 有机 增加 32   300 人 。
+Data shows that in the recent 14 years , the average annual net inflow of immigrants in New Zealand is 21,800 , with annual organic increase of 32,300 people .
+数据 显示 ， 在 最近 10 年 中 ， 新西兰 平均 每年 移民 净流入 21   800 人 ， 每年 有机 增加 32   300 人 。
+Data shows that in the recent 10 years , the average annual net inflow of immigrants in New Zealand is 21,800 , with annual organic increase of 32,300 people .
+
+Label: False
+俄罗斯 体操 运动员 艾丽亚 · 穆斯塔法 纳 （ Aliya Mustafina ） 被 认为 是 古巴 裔 美国 歌手 格洛 丽亚 · 埃斯特 凡 的 死角 。
+Russian gymnast Aliya Mustafina , with her small , expressive eyes , has been said to be a dead ringer for Cuban - American singer Gloria Estefan .
+俄罗斯 体操 运动员 艾丽亚 · 穆斯塔法 纳 （ Aliya Mustafina ） 被 认为 是 古巴 裔 美国 歌手 格洛 丽亚 · 埃斯特 凡 的 死角 。
+Russian gymnast Aliya Mustafina , with her large , expressive eyes , has been said to be a dead ringer for Cuban - American singer Gloria Estefan .
+
+Label: False
+这一 举动 背后 的 事实 引发 了 电影 制片人 更 多 的 愤怒 。
+The fact behind the move triggered even more outrage by the filmmaker .
+这一 举动 背后 的 原因 引发 了 电影 制片人 更 多 的 愤怒 。
+The reason behind the move triggered even more outrage by the filmmaker .
+
+Label: True
+由于 环境 方面 的 原因 ， 它 在 青岛 老城区 的 工厂 完全 停工 ， 搬 到 了 平杜 的 新 工厂 。
+Its plant in the old urban area of Qingdao came to a full halt and was moved to the new plant in Pingdu due to environmental fact .
+由于 环境 原因 ， 它 在 青岛 老城区 的 工厂 完全 停工 ， 搬 到 平都 的 新 工厂 。
+Its plant in the old urban area of Qingdao came to a full halt and was moved to the new plant in Pingdu due to environmental reason .
+
+Label: False
+根据 台湾 的 " 中央通讯社 " ， 马尼拉 郊区 的 一所 监狱 发生 了 爆炸事件 ， 造成 包括 两名 中国 人 在内 的 10 名 囚犯 死亡 ， 监狱长 受伤 。
+According to Taiwan ' s " Central News Agency " , one prison in the suburb of the Manila area saw a bombing event , resulting in the death of 10 prisoners , including two Chinese , and the injury of the warden .
+根据 台湾 的 " 中央通讯社 " ， 马尼拉 郊区 的 一所 监狱 发生 了 爆炸事件 ， 造成 包括 两名 中国 人 在内 的 10 名 囚犯 死亡 ， 监狱长 受伤 。
+According to Taiwan ' s " Central News Agency " , one jail in the suburb of the Manila area saw a bombing event , resulting in the death of 10 prisoners , including two Chinese , and the injury of the warden .
+
+Label: False
+提供 服务 ， 包括 在线 学习 、 个案 讨论 、 学术交流 、 同一 医院 和 部门 的 医生 交流 社会 平台 、 医生 与 病人 关系 或 个人 生活 所 需 的 法律援助 和 商业 支持 。
+Service including online learning , case discussion , academic exchange , social platforms for the exchange of doctors of the same hospital and department , legal assistance and business support required by doctor - patient relationship or personal life are provided .
+提供 的 服务 包括 在线 学习 、 个案 讨论 、 学术交流 、 同一 医院 和 部门 的 医生 交流 的 社会 平台 、 医生 与 病人 关系 或 个人 生活 所 需 的 法律援助 和 商业 支持 。
+Services including online learning , case discussion , academic exchange , social platforms for the exchange of doctors of the same hospital and department , legal assistance and business support required by doctor - patient relationship or personal life are provided .
+
+Label: True
+今年 4 月 ， 中国 进出口 贸易总额 逐年 下降 0.9% ， 特别 是 中国 出口值 逐年 上升 2.9% 。
+In April , China ' s total import and export volume fell by only 0.9 % year on year . In particular , China ' s export value had a year - on - year rise of 2.9 % .
+7 月 ， 中国 进出口 贸易总额 逐年 下降 0.9% ， 特别 是 中国 出口值 逐年 上升 2.9% 。
+In July , China ' s total import and export volume fell by only 0.9 % year on year . In particular , China ' s export value had a year - on - year rise of 2.9 % .
+
+Label: False
+一个 漆黑 的 煤园 仓库 变成 了 一个 “ 绿草 ” 足球场 ， 而 红砖 香料 工厂 变成 了 一个 现代化 的 体育场 。
+A dark coal yard warehouse is turned into a " green grass " soccer field while red brick spire plant is turned into a modern stadium .
+一个 漆黑 的 煤园 仓库 变成 了 一个 “ 绿草 ” 足球场 ， 而 红砖 香料 工厂 变成 了 一个 现代化 的 体育场 。
+A dark coal yard warehouse is turned into a " green grass " football field while red brick spire plant is turned into a modern stadium .
+
+Label: True
+去年 的 奥运会 , 加比 ? 道格拉斯 ( Gabrby Douglas ) 是 一位 惊人 的 奥运 冠军 , 美国 人 对此 表示 欢迎 .
+Last Olympics , Gabby Douglas was a surprise Olympic champion , and American cheered .
+去年 的 奥运会 , 加比 ? 道格拉斯 ( Gabrby Douglas ) 是 一位 惊人 的 奥运 冠军 .
+Last Olympics , Gabby Douglas was a surprise Olympic champion , and America cheered .
+
+Label: False
+初级 医生 的 代表 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Representatives of junior physicians have called on their union to authorise fresh industrial action in their dispute about a new contract .
+初级 医生 的 代表 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Representatives of junior doctors have called on their union to authorise fresh industrial action in their dispute about a new contract .
+
+Label: False
+发给 《 卫报 》 的 一封信 说 ， 关闭 《 卫报 》 会 对 这些 儿童 造成 灾难 ， 其中 一些 儿童 只有 3 岁 。
+A letter sent to the Guardian said its closure " would be a catastrophe for these children , some of whom are as young as three . "
+发给 《 卫报 》 的 一封信 说 ， 关闭 《 卫报 》 会 对 这些 儿童 造成 灾难 ， 其中 一些 儿童 只有 8 岁 。
+A letter sent to the Guardian said its closure " would be a catastrophe for these children , some of whom are as young as eight . "
+
+Label: True
+她 在 帕州 的 RedBell 长大 ， 在 她 3 岁 的 时候 （ 她 的 一对 大 姐妹 在 德雷泽尔 打球 ） ， 第一次 拿 起 了 一只 球杆 ， 在 她 16 岁 时 加入 了 国家队 ， 成为 有史以来 最 年轻 的 球员 。
+She grew up in Red Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+她 在 帕州 的 Blue Bell 长大 ， 在 她 3 岁 时 第一次 拿 起 了 一只 球杆 （ 她 的 一对 大 姐妹 在 Dressel 打球 ） ， 在 16 岁 的 时候 加入 了 国家队 ， 成为 了 有史以来 最 年轻 的 球员 。
+She grew up in Blue Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+
+Label: True
+与 加拿大 泰勒 · 鲁克 相比 ， 22 岁 的 中国 游泳 选手 艾扬 · 延安 在 1 ： 57.79 - 1.61 秒 内 击败 了 接力赛 的 第二 回合 ， 使 加拿大人 得以 弥合 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 22 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+14 岁 的 中国 游泳 选手 Ai Yanhan 在 1 ： 57.79 - 1.61 秒 的 速度 比 加拿大 的 Taylor Ruck 慢 ， 使 加拿大人 能够 弥合 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 14 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+
+Label: False
+" 合格 的 老年人 可以 用 他 的 第三代 身份证 向 ICC 销售 中心 提出申请 ， 这个 年龄段 的 老年人 和 有 外国 账户 的 老年人 也 可以 享受 优惠政策 " 。
+" Eligible old people may apply to the IC sales center with his third generation ID card . Elderly people in this age bracket and with foreign accounts can also enjoy the preferential policy . "
+" 合格 的 老年人 可以 用 他 的 第二代 身份证 向 ICC 销售 中心 提出申请 ， 这个 年龄段 的 老年人 和 有 外国 账户 的 老年人 也 可以 享受 优惠政策 " 。
+" Eligible old people may apply to the IC sales center with his second generation ID card . Elderly people in this age bracket and with foreign accounts can also enjoy the preferential policy . "
+
+Label: True
+在 包装 上 通常 使用 SPF 和 PA 标记 ， SPF 指 的 是 太阳 保护 函数 ， 目标 是 UVB ， 共同 的 SPF 索引 包括 15 、 30 、 50 等 。
+Sunscreen is generally marked with SPF and PA on the package . SPF refers to Sun Protection Function and is targeted at UVB . The common SPF indexes include 15 , 30 , 50 , etc .
+SPF 是 指 太阳 保护 功能 ， 以 UVB 为 目标 ， 共同 的 SPF 指数 包括 15 、 30 、 50 等 。
+Sunblock is generally marked with SPF and PA on the package . SPF refers to Sun Protection Function and is targeted at UVB . The common SPF indexes include 15 , 30 , 50 , etc .
+
+Label: False
+赖德 星期一 在 一次 会议 上 说 ， 他 预计 克林顿 将 “ 以 某种程度 的 信誉 ” 挑选 加兰 。
+Reid said on a conference call Monday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+赖德 星期四 在 一次 会议 上 说 ， 他 预计 克林顿 将 “ 以 某种程度 的 信誉 ” 挑选 加兰 。
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+
+Label: False
+“ 这样 的 旅游者 ， 洋葱 回来 了 ， ” 在 Vedemoti 报纸 上 的 一篇 报道 说 。
+" Tourists that way , onions back here , " as a report in Vedemosti newspaper phrased it .
+“ 这样 的 旅游者 ， 西红柿 回来 了 ， ” 在 Vedemoti 报纸 上 的 一篇 报道 说 。
+" Tourists that way , tomatoes back here , " as a report in Vedemosti newspaper phrased it .
+
+Label: False
+星期一 ， 从事 中等 生产 的 产品 经理 兼 工程师 Zhu 女士 决定 删除 她 的 Snapchat 账户 ， 并 鼓励 其他人 也 这样 做 。
+On Monday , Ms . Zhu , a product manager and engineer who works for Medium , decided to delete her Snapchat account and encouraged others to do the same .
+星期四 ， 从事 中等 生产 的 产品 经理 兼 工程师 Zhu 女士 决定 删除 她 的 Snapchat 账户 ， 并 鼓励 其他人 也 这样 做 。
+On Thursday , Ms . Zhu , a product manager and engineer who works for Medium , decided to delete her Snapchat account and encouraged others to do the same .
+
+Label: False
+市镇 社会 组织 办公室 的 一名 负责人 说 ， 检查 范围 涵盖 在 2012 年 至 2015 年 期间 获得 办公室 社会 团体 费用 统一 收据 的 社会 团体 。
+A responsible person of the municipal social organization office said that the scope of the inspection covers social groups who received unified receipts for social group fees in the office between 2012 and 2015 .
+市镇 社会 组织 办公室 的 一名 负责人 说 ， 检查 的 范围 涵盖 了 在 2013 年 至 2015 年 期间 获得 办公室 社会 团体 费用 统一 收据 的 社会 团体 。
+A responsible person of the municipal social organization office said that the scope of the inspection covers social groups who received unified receipts for social group fees in the office between 2013 and 2015 .
+
+Label: True
+" 评级 下降 的 事实 是 ， 巴西 国内 生产总值 的 增长 预计 将 在 中期 恶化 " 。
+" The fact for the ranking decline is that Brazilian GDP growth is expected to worsen in the medium term . "
+" 排名 下降 的 原因 是 巴西 国内 生产总值 的 增长 预计 将 在 中期 恶化 " 。
+" The reason for the ranking decline is that Brazilian GDP growth is expected to worsen in the medium term . "
+
+Label: True
+当 普京 上台 时 ， 他 把 伊凡诺夫 称为 他 最 信任 的 八人 之一 。
+When Mr Putin came to power , he named Mr Ivanov as one of the eight people he trusted most .
+当 普京 上台 时 ， 他 把 伊万诺夫 作为 他 最 信任 的 五个 人 之一 。
+When Mr Putin came to power , he named Mr Ivanov as one of the five people he trusted most .
+
+Label: False
+以 漫画 的 形式 介绍 了 玉兰 文化 的 历史 ， 并 在 现场 设立 了 以 玉兰 为 主题 的 3D 自给自足 区 、 传统 快餐 区 和 传统 手工艺 移动 教室 ， 吸引 了 许多 小 朋友 和 海外 旅游者 访问 。
+Yulan culture ' s history is introduced in the form of comic books . In addition , Yulan - themed 3D selfie area , traditional snack area and traditional craft mobile classroom are set up at the scene , attracting many little friends and overseas travellers to visit .
+以 漫画 的 形式 介绍 了 玉兰 文化 的 历史 ， 并 在 现场 设立 了 以 玉兰 为 主题 的 3D 自给自足 区 、 传统 快餐 区 和 传统 手工艺 移动 教室 ， 吸引 了 许多 小 朋友 和 海外 旅游者 访问 。
+Yulan culture ' s history is introduced in the form of comic books . In addition , Yulan - themed 3D selfie area , traditional snack area and traditional craft mobile classroom are set up at the scene , attracting many little friends and overseas travelers to visit .
+
+Label: False
+250 亩 ( 一个 面积 单位 ， 一个 " 亩 " = 0.067 公顷 ) 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+The 250 mu ( a unit of area , one " mu " = 0.0667 hectares ) of orchards and more than 10 species only require 12 workers plus a technical engineer to do the job .
+150 亩 ( 一个 面积 单位 ， 一个 " 亩 " = 0.067 公顷 ) 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+The 150 mu ( a unit of area , one " mu " = 0.0667 hectares ) of orchards and more than 10 species only require 12 workers plus a technical engineer to do the job .
+
+Label: False
+参加 体育运动 非常 重要 ， 对 男孩 尤其 如此 。
+To participate in sport is so important , especially for boys .
+参加 体育运动 非常 重要 ， 对 女孩 尤其 如此 。
+To participate in sport is so important , especially for girls .
+
+Label: True
+即将 完成 的 第二次 交易 还 表明 ， 青岛 的 排放 权 试点 工作 将 正式 启动 ， 这 也 将 是 山东 的 首次 排放 权 交易 和 中国 的 首次 城市 排放 权 交易 。
+The upcoming completion of the second transaction also indicates that Qingdao emission right trading pilot work will officially kick off . It will also be the first emission right trading in Shandong and the first city - level emission right trading in China .
+首笔 交易 即将 完成 ， 也 表明 青岛 排放 权 交易 试点 工作 将 正式 启动 ， 这 也 将 是 山东省 首次 排放 权 交易 和 中国 首次 城市 排放 权 交易 。
+The upcoming completion of the first transaction also indicates that Qingdao emission right trading pilot work will officially kick off . It will also be the first emission right trading in Shandong and the first city - level emission right trading in China .
+
+Label: False
+杨佳 和 李小龙 在 不同 的 表演 中 的 介绍 一直 是 奥运会 冠军 。
+And the introduction of Yang Jia and Li Xiaopeng at the variety show is always Olympic Games Champion .
+杨伟 和 李小龙 在 不同 的 表演 中 的 介绍 一直 是 奥运会 冠军 。
+And the introduction of Yang Wei and Li Xiaopeng at the variety show is always Olympic Games Champion .
+
+Label: False
+“ 他 找到 了 一套 公寓 ， 他 正在 和 一个 女孩 约会 ， ” 威登 · 加利西亚 告诉 克格勃 。
+" He found an apartment , he was dating a girl , " Vuitton Galicia told KGO .
+“ 他 找到 了 一套 公寓 ， 他 正在 和 一个 女孩 约会 ， ” 路易 · 加利西亚 告诉 克格勃 。
+" He found an apartment , he was dating a girl , " Louis Galicia told KGO .
+
+Label: True
+这份 文件 是 科罗拉多 大学 的 科学家 写 的 ， 他们 约 谈 了 参与 预测 和 分析 太阳活动 的 美国 军事 人员 ， 并 审查 了 非 机密 文件 。
+This paper was written by scientists at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+这份 文件 由 科罗拉多 大学 的 研究 人员 撰写 ， 他们 与 参与 预测 和 分析 太阳活动 的 美国 军事 人员 进行 了 面谈 ， 并 审查 了 非 机密 文件 。
+This paper was written by researchers at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+
+Label: False
+58 岁 的 人 现在 已 成为 环境 和 运输 问题 的 特别 代表 。
+The 58 - year - old has now been made a special representative for environmental and transport issues .
+63 岁 的 人 现在 已 成为 环境 和 运输 问题 的 特别 代表 。
+The 63 - year - old has now been made a special representative for environmental and transport issues .
+
+Label: True
+在 周四 晚上 在 Facebook 上 发表 的 一封信 中 ， JDC 的 主席 埃伦 ? 麦考 特 ( Ellen McCourt ) 表示 ， 政府 一直 对 导致 合同 被 拒绝 的 问题 “ 保持沉默 ” 。
+In a letter to members released on Facebook on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+在 星期四 晚上 在 Twitter 上 发表 的 一封信 中 ， JDC 的 主席 EllenMcCourt 说 ， 政府 对 那些 导致 合同 被 拒绝 的 问题 一直 保持 着 “ 沉默 ” 。
+In a letter to members released on Twitter on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+
+Label: True
+“ 我 常常 回答 中国 旅游者 的 问题 ， 我 很 高兴 看到 他们 去 俄罗斯 。 ”
+" I often answer answers of Chinese tourists and I am very happy to see them travel to Russia . "
+我 经常 回答 中国 旅游者 的 问题 ， 我 很 高兴 看到 他们 到 俄罗斯 旅游 。
+" I often answer questions of Chinese tourists and I am very happy to see them travel to Russia . "
+
+Label: False
+比赛 进入 第 23 分钟 后 ， 利范队 继续 打 了 一球 ， 夺得 了 角球 。 费尔南多 尝试 了 一个 小 角度 的 伏击 ， 但 被 郭安 挡开 了 基线 。
+After the match entered the 23rd minute , Lifan made continued hit and gained corners . Fernando tried a small - angle volley , but was fended off the base line by Guoan .
+比赛 进入 第 10 分钟 后 ， 利范队 继续 打 了 一球 ， 夺得 了 角球 。 费尔南多 尝试 了 一个 小 角度 的 伏击 ， 但 被 郭安 挡开 了 基线 。
+After the match entered the 10th minute , Lifan made continued hit and gained corners . Fernando tried a small - angle volley , but was fended off the base line by Guoan .
+
+Label: False
+根据 国家统计局 的 数据 ， 7 月份 固定资产 投资 增长 、 总 出口 和 其他 数据 有所 下降 。
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total exports and other data in July came down .
+根据 国家统计局 的 数据 ， 7 月份 固定资产 投资 增长 、 进口 总量 和 其他 数据 有所 下降 。
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total imports and other data in July came down .
+
+Label: False
+仪式 结束 后 ， 所有 与会者 都 参观 了 山东 玉山 哈代 纪念馆 ， 观看 了 无障碍 设施 的 建设 。
+After the ceremony , all activity participants visited Shandong Yuanshan Hard Working Commemorative Museum and watched the construction of barrier - free facilities .
+仪式 结束 后 ， 所有 与会者 都 参观 了 山东 玉山 哈代 纪念馆 ， 观看 了 无障碍 设施 的 建设 。
+After the ceremony , all activity participants visited Shandong Yuanshan Hard Work Commemorative Museum and watched the construction of barrier - free facilities .
+
+Label: True
+至于 什么 时候 引入 甜葱 并 由 谁 提出 的 问题 ， 学术界 仍 有 很多 不同 的 观点 。
+As for the question about when the sweet onions are introduced and by whom , there are still many different views in the academic community .
+至于 什么 时候 引入 甜土豆 的 问题 ， 在 学术界 还有 很多 不同 的 看法 。
+As for the question about when the sweet potatoes are introduced and by whom , there are still many different views in the academic community .
+
+Label: True
+然而 ， 就 像 大多数 互联网 医疗 公司 在 A 轮 或 B 轮 融资 过程 中 的 斗争 一样 ， 许多 部门 领导 的 企业 仍然 可以 得到 投资者 的 青睐 。
+However , just as the majority of Internet medical companies struggle on the way of A round or B round of financing , numerous segment - leading enterprises can still be favored by investors .
+然而 ， 就 像 大多数 互联网 医疗 公司 在 A 轮 或 B 轮 融资 过程 中 的 斗争 一样 ， 投资者 仍然 可以 支持 几个 部门 领导 的 企业 。
+However , just as the majority of Internet medical companies struggle on the way of A round or B round of financing , several segment - leading enterprises can still be favored by investors .
+
+Label: False
+充足 的 供应 和 各种 优惠 将 缓解 iPhone7 购买 的 压力 ， Suning 的 物流 将 把 这种 良好 的 感觉 变成 更 直觉 的 体验 。
+Sufficient supply and a variety of concessions will alleviate the pressure of iPhone7 buying . Suning ' s logistics will change such good feeling into more intuitive sense of experience .
+充足 的 供应 和 各种 优惠 将 缓解 iPhone7 购买 的 压力 ， Suning 的 物流 将 把 这种 良好 的 感觉 变成 更 直觉 的 体验 。
+Adequate supply and a variety of concessions will alleviate the pressure of iPhone7 buying . Suning ' s logistics will change such good feeling into more intuitive sense of experience .
+
+Label: False
+比尔 斯 成为 第三位 直言不讳 的 美国 女性 ， 赢得 了 全部 冠军 和 第五位 总冠军 ， 同时 巩固 了 她 作为 她 这 一代 最佳 球员 的 声誉 。
+Biles became the third straight American woman to win the all - around title and fifth overall while cementing her reputation as the best of her generation and perhaps ever .
+比尔 斯 成为 第四位 直言不讳 的 美国 女性 ， 赢得 了 全部 冠军 和 第五位 总冠军 ， 同时 巩固 了 她 作为 她 这 一代 最佳 球员 的 声誉 。
+Biles became the fourth straight American woman to win the all - around title and fifth overall while cementing her reputation as the best of her generation and perhaps ever .
+
+Label: False
+她 共有 62.198 枚 金牌 和 “ 最后 五枚 ” 队友 Aly Raisman 和 俄罗斯 铜牌 Aliya Mustafina 。
+Her total of 62.198 was well clear of gold medalist and " Final Five " teammate Aly Raisman and Russian bronze medalist Aliya Mustafina .
+她 共有 62.198 枚 银牌 和 “ 最后 五枚 ” 队友 Aly Raisman 和 俄罗斯 铜牌 Aliya Mustafina 。
+Her total of 62.198 was well clear of silver medalist and " Final Five " teammate Aly Raisman and Russian bronze medalist Aliya Mustafina .
+
+Label: True
+Simone   Biles   在 女子 体操 中 包罗万象
+Simone Biles nails all - around silver in women ' s gymnastics
+Simone   Biles 在 女子 体操 中 全神贯注
+Simone Biles nails all - around gold in women ' s gymnastics
+
+Label: True
+如果 我们 说 我们 将 成为 一个 伟大 的 客户 银行 ， 并 把 这些 品牌 放在 那里 ， 那 就 会 在 八年 前 非常 可笑 了 。
+It would have been very cynical eight years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+三年 前 ， 如果 我们 说 我们 将 成为 客户 的 大 银行 ， 并 把 这些 品牌 放在 那里 ， 那 将 是 非常 可笑 的 。
+It would have been very cynical three years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+
+Label: False
+2017 年 3 月 ， 在 里 约 奥运会 资格赛 结束 时 ， 她 在 8 年 的 时间 间隔 之后 恢复 了 奥运 女子 10 米 空枪 的 资格 。
+In March 2017 , at the end of the Rio Olympic qualifying session , she regained the women ' s 10 - meter air rifle qualification for the Olympic Games after a time interval of 8 years .
+2016 年 3 月 ， 在 里 约 奥运会 资格赛 结束 时 ， 她 在 8 年 的 时间 间隔 之后 恢复 了 奥运 女子 10 米 空枪 的 资格 。
+In March 2016 , at the end of the Rio Olympic qualifying session , she regained the women ' s 10 - meter air rifle qualification for the Olympic Games after a time interval of 8 years .
+
+Label: True
+耶尔马 兹 在 点球 线 上 取得 了 有力 的 突破 ， 但 当 郑友荣 伸出手 来 阻止 他 的 时候 ， 他 让 裁判员 决定 了 点球 。 耶尔马兹 踢 了 一个 成功 的 点球 ， 结果 是 得分 板 是 ： 李凡 5 ： 1 北京 国安 。
+Yilmaz made a forceful breakthrough on the penalty area line , but tumbled when Zheng Yourong stretched a leg to stop him , which led the referee to determine a penalty . Yilmaz kicked a successful penalty goal , as a result the score board was : Lifan 5:1 Beijing Guoan .
+耶尔马 兹 在 点球 线 上 取得 了 有力 的 突破 ， 但 当 郑 Yourong 用 一条 腿 拦住 他 的 时候 ， 他 让 裁判员 决定 了 点球 。
+Yilmaz made a forceful breakthrough on the penalty area line , but tumbled when Zheng Yourong stretched a leg to stop him , which led the referee to determine a penalty . Yilmaz kicked a successful penalty goal , as a result the score board was : Lifan 2:1 Beijing Guoan .
+
+Label: True
+之前 在 加耶尔 赢得 冠军 的 前 八位 冠军 凯蒂 ? 底特律 说 ： “ 这是 特殊 的 。 ”
+Eight - time champion jockey Dettori , who earlier won on Ghayyar , said : " It ' s special . "
+曾 在 加耶尔 赢得 较 早 的 三任 冠军 ， 但 他 说 ： “ 这是 特殊 的 。 ”
+Three - time champion jockey Dettori , who earlier won on Ghayyar , said : " It ' s special . "
+
+Label: True
+一分钟 后 ， 费尔南多 再次 展示 了 他 在 右边 的 远程 攻击 能力 ， 他 的 追求者 余达博 犯规 ， 还 得到 了 一张 红牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a red card .
+一分钟 后 ， 费尔南多 再次 展示 了 他 在 右边 的 远程 攻击 能力 ， 他 的 追求者 余达博 犯规 ， 还有 一张 黄牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a yellow card .
+
+Label: True
+今年 ， 华源 县 共 筹集 教育经费 1705 多万元 ， 自筹资金 250 多万元 ， 将 注入 相应 学生 的 实际 银行 账户 。
+This year , Huayuan County collected more than RMB 17.5 million of educational funds and self - raised more than RMB 2.5 million , which will be injected into the real - name bank accounts of the corresponding students .
+今年 ， 华源 县 共 筹集 教育经费 1805 多万元 ， 自筹资金 250 多万元 ， 将 注入 相应 学生 的 实名银行 账户 。
+This year , Huayuan County collected more than RMB 18.5 million of educational funds and self - raised more than RMB 2.5 million , which will be injected into the real - name bank accounts of the corresponding students .
+
+Label: False
+尼加拉瓜 国家 农业大学 自然资源 和 环境 教授 San   Reyes 领导 了 整个 造林 教育 项目 的 进程 。
+San Reyes , a professor of natural resources and environment at the National Agricultural University of Nicaragua , led in the whole process of the afforestation education project .
+尼加拉瓜 国家 农业大学 自然资源 和 环境 教授 Francisco   Reyes 领导 了 整个 造林 教育 项目 的 进程 。
+Francisco Reyes , a professor of natural resources and environment at the National Agricultural University of Nicaragua , led in the whole process of the afforestation education project .
+
+Label: True
+Z11mini 是 一家 由 Nubia 上市 的 大型 屏幕 相机 手机 ， 价格 下跌 200 元 ， 从 原来 的 1 , 499 元 人民币 降至 1 , 299 元 人民币 。
+Z11mini , a large screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+Z11mini 是 一家 名为 Nubia 的 小型 屏幕 相机 手机 ， 价格 下跌 200 元 ， 从 原来 的 1 , 499 元 人民币 减至 1 , 299 元 人民币 。
+Z11mini , a small screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+
+Label: False
+这 八个 渠道 是 北京 - 杭州 大运河 的 支线 ， 以 社会 融资 的 方式 对 其 进行 升级 改造 。
+These eight channels are branch channels of the Beijing - Hangzhou Grand Canal , which were upgraded and renovated in the way of social financing .
+这 四个 频道 是 北京 - 杭州 大运河 的 支线 ， 以 社会 融资 的 方式 对 其 进行 升级 改造 。
+These four channels are branch channels of the Beijing - Hangzhou Grand Canal , which were upgraded and renovated in the way of social financing .
+
+Label: False
+群中 的 许多 星星 刚刚 进入 青春期 ， 大约 在 1.25 亿年 前 出生 。
+Many of the stars in the cluster are just now reaching adolescence , having been born roughly 125 million years ago .
+群中 的 许多 星星 刚刚 成年 ， 大约 在 1.25 亿年 前 出生 。
+Many of the stars in the cluster are just now reaching adulthood , having been born roughly 125 million years ago .
+
+Label: False
+许多 涉及 的 司机 已经 接受 了 采访 ， 但 有些 仍然 身份 不明 。
+Numerous of the drivers involved have already been interviewed but some are still unidentified , said police , who are calling for them and anyone else who witnessed the incident to come forward .
+一些 涉及 的 司机 已经 接受 了 采访 ， 但 有些 仍然 身份 不明 。
+Several of the drivers involved have already been interviewed but some are still unidentified , said police , who are calling for them and anyone else who witnessed the incident to come forward .
+
+Label: False
+克林顿 竞选 助手 詹妮弗 · 帕米 耶里 在 一份 声明 中说 ： “ 克林顿 和 提姆 · 凯恩 继续 为 财务 透明度 制定 标准 。
+" Clinton Clinton and Tim Kaine continue to set the standard for financial transparency , " Clinton campaign aide Jennifer Palmieri said in a statement .
+克林顿 竞选 助手 詹妮弗 · 帕米 耶里 在 一份 声明 中说 ： “ 希拉里 · 克林顿 和 提姆 · 凯恩 继续 为 财务 透明度 制定 标准 。
+" Hillary Clinton and Tim Kaine continue to set the standard for financial transparency , " Clinton campaign aide Jennifer Palmieri said in a statement .
+
+Label: True
+从那以后 ， 天亮 多次 担任 广告 经典者 ， 近年来 甚至 担任 了 “ 柯 霍 ” 、 “ 雷水 ” 和 其他 重要 角色 。
+Since then , Tian Liang has been repeatedly acting as an advertising endorser . He has even served as a " Cowherd " , " Lei Shui " and other important roles in recent years .
+从那以后 ， 天亮 多次 担任 广告 经典者 ， 近年来 他 甚至 担任 了 “ 柯帕德 ” 、 “ 雷锋 ” 和 其他 重要 角色 。
+Since then , Tian Liang has been repeatedly acting as an advertising endorser . He has even served as a " Cowherd " , " Lei Feng " and other important roles in recent years .
+
+Label: True
+其他 流行 的 比较 包括 凯里 · 沃尔什 - 詹宁斯 （ Kerri Walsh - Jennings ） 和 她 和 女演员 劳拉 · 林尼 （ Laura Linney ） 的 格比 · 道格拉斯 （ Gabrby Douglas ） 。
+Other popular comparisons have included Kerri Walsh - Jennings and her grin that is near - identical to that of actress Laura Linney , as well as gold medal - winning gymnast Gabby Douglas , who boasts her own beautifully broad smile that matches that of Bring It On star Gabrielle Union .
+其他 受欢迎 的 比较 包括 凯里 · 沃尔什 - 詹宁斯 和 她 的 笑容 几乎 和 女演员 劳拉 · 林尼 一样 ， 以及 赢得 金牌 的 体操 运动员 加 比 · 道格拉斯 ， 她 夸耀 自己 美丽 而 宽广 的 笑容 ， 与 《 布林 》 明星 加布里埃尔 · 联合 。
+Other popular comparisons have included Kerri Walsh - Jennings and her smile that is near - identical to that of actress Laura Linney , as well as gold medal - winning gymnast Gabby Douglas , who boasts her own beautifully broad smile that matches that of Bring It On star Gabrielle Union .
+
+Label: False
+民主党 在 得知 分析 人士 对 有关 伊斯兰 国 的 情报 被 操纵 表示 关切 后 ， 成立 了 工作队 。
+Democrats created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+共和党 在 得知 分析 人士 对 有关 伊斯兰 国 的 情报 被 操纵 表示 关切 后 ， 成立 了 工作队 。
+Republicans created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+
+Label: True
+加拿大 警方 在 星期一 的 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 这个 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这个 年轻人 将 罢工 。
+Canadian police said at a news conference on Monday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+加拿大 警方 星期三 在 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这名 年轻人 将 罢工 。
+Canadian police said at a news conference on Wednesday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+
+Label: False
+他们 释放 了 1   500 多名 被 武装 分子 扣押 的 平民 人质 ， SDF 同盟 Manbij 军事 委员会 的 Sharfan   Darwish 告诉 路透社 。
+They had freed over 1,500 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+他们 释放 了 2   000 多名 被 武装 分子 扣押 的 平民 人质 ， SDF 同盟 Manbij 军事 委员会 的 Sharfan   Darwish 告诉 路透社 。
+They had freed over 2,000 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+
+Label: False
+据 JX Energy 称 ， 2016 年底 后 ， 中国 开始 向 澳大利亚 出口 优质 轻油 。
+" After the end of 2016 , China began to export high - quality light oil to Australia , " according to JX Energy . Such light oil products are competitive with Japanese products on the Asian market .
+据 JX Energy 称 ， 2015 年底 后 ， 中国 开始 向 澳大利亚 出口 优质 轻油 。
+" After the end of 2015 , China began to export high - quality light oil to Australia , " according to JX Energy . Such light oil products are competitive with Japanese products on the Asian market .
+
+Label: True
+今年 4 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+On April 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+今年 8 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 （ Hequan Lake ） 上演 。
+On August 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+
+Label: True
+他 和 他 的 队友 洛佩兹 将 在 男人 的 双倍 决赛 中 与 罗马尼亚 选手 Tecau 和 Megia 竞争 银牌 。
+He and his teammate Lopez will compete for silver medals with Romanian player Tecau and Meggia in the men ' s doubles final .
+他 和 他 的 队友 洛佩兹 将 在 男人 的 双重赛 决赛 中 与 罗马尼亚 选手 特考 和 梅格 加吉 竞争 金牌 。
+He and his teammate Lopez will compete for gold medals with Romanian player Tecau and Meggia in the men ' s doubles final .
+
+Label: False
+随着 中国 石油 产品 的 进口 对 亚洲 市场 产生 了 巨大 影响 ， 茶壶 炼油厂 越来越 受到 关注 。
+As China ' s imports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+由于 中国 的 石油 产品 出口 对 亚洲 市场 有 巨大 影响 ， 茶壶 炼油厂 受到 更 多 关注 。
+As China ' s exports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+
+Label: True
+本周 ， 中国 海关总署 公布 的 数据 显示 ， 今年 下半年 ， 中国 进出口 总量 为 13.21 万亿元 人民币 ， 较 上年 同期 下降 3% 。
+This week , the statistics released by China ' s General Administration of Customs showed that in the second 7 months of this year , China ' s import and export volume was RMB 13.21 trillion , down 3 % over the same period last year .
+本周 ， 中国 海关总署 公布 的 数据 显示 ， 今年 前 7 个 月 ， 中国 进出口 总量 为 13.21 万亿元 人民币 ， 较 去年同期 下降 3% 。
+This week , the statistics released by China ' s General Administration of Customs showed that in the first 7 months of this year , China ' s import and export volume was RMB 13.21 trillion , down 3 % over the same period last year .
+
+Label: True
+周一 ， 巴西 圣保罗 市 的 学生 们 在 集会 示威 反对 政府 对 公共 教育 系统 的 改革 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Monday as they gathered to demonstrate against government reforms to the public education system .
+星期四 ， 在 巴西 圣保罗 市 ， 学生 们 在 集会 示威 反对 政府 改革 公共 教育 系统 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Thursday as they gathered to demonstrate against government reforms to the public education system .
+
+Label: True
+Ivanov 先生 于 2011 年 4 月 就任 该 职位 。
+Mr Ivanov took up the post in April 2011 .
+伊万诺夫 先生 于 2011 年 12 月 就任 该 职位 。
+Mr Ivanov took up the post in December 2011 .
+
+Label: False
+许多 因素 可能 对 他 未来 的 想法 有 很 好 的 影响 ， 他 现在 更 有 兴趣 进入 娱乐圈 。
+Many factors may have a good impact on his future ideas . He is now more interested in entering the entertainment circle .
+许多 因素 可能 对 他 未来 的 想法 有 很大 影响 ， 他 现在 更 有 兴趣 进入 娱乐圈 。
+Many factors may have a great impact on his future ideas . He is now more interested in entering the entertainment circle .
+
+Label: False
+Coe 先生 的 最后 一 本书 《 Chop Suey 》 是 关于 美国 的 中国 菜 ， 而 Ziegelman 女士 在 她 的 书 《 Orchard 》 中 通过 食物 讲述 了 下 东区 的 生活 故事 。
+Mr . Coe ' s last book , " Chop Suey , " was about Chinese cuisine in American , while Ms . Ziegelman told the story of life in a Lower East Side tenement through food in her book " 97 Orchard . "
+Coe 先生 的 最后 一 本书 《 Chop Suey 》 是 关于 美国 的 中国 菜 ， 而 Ziegelman 女士 在 她 的 书 《 Orchard 》 中 通过 食物 讲述 了 下 东区 的 生活 故事 。
+Mr . Coe ' s last book , " Chop Suey , " was about Chinese cuisine in America , while Ms . Ziegelman told the story of life in a Lower East Side tenement through food in her book " 97 Orchard . "
+
+Label: False
+由于 有关 注册 人员 的 效力 和 安全 的 信息   - -   - -   特别 是 流血 的 风险   - -   - -   超过 八年 的 信息 有限 ， 指南 草案 不 建议 在 这 一 期间 以后 对 其 进行 治疗 。
+Because information on the efficacy and safety of ticagrelor - particularly the risk of bleeding - beyond eight years is limited , the draft guidance does not recommend treatment with it beyond that period .
+由于 有关 注册 人员 的 效力 和 安全 的 信息   - -   - -   特别 是 出血 的 风险   - -   - -   超过 三年 的 信息 有限 ， 指南 草案 不 建议 在 这 一 期间 以后 对 其 进行 治疗 。
+Because information on the efficacy and safety of ticagrelor - particularly the risk of bleeding - beyond three years is limited , the draft guidance does not recommend treatment with it beyond that period .
+
+Label: True
+德文和康沃尔 警方 永远 不会 容忍 犯罪 和 反 社会 行为 ， 他们 将 继续 与 伙伴 合作 保护 我们 的 社区 。
+Criminal and antisocial behavior will never be tolerated by Devon and Cornwall Police , who will continue to work with partners to protect our communities .
+刑事 和 反 社会 行为 永远 不会 被 德文和康沃尔 警察 所 容忍 ， 他们 将 继续 与 伙伴 合作 保护 我们 的 社区 。
+Criminal and antisocial behaviour will never be tolerated by Devon and Cornwall Police , who will continue to work with partners to protect our communities .
+
+Label: True
+斯考 勒姆 斯金纳 ( Scott Callum Skinner ) 回家 时 ， 英国人 手里 拿 着 自行车 银色 。
+Scot Callum Skinner storms home as Brits grab cycling silver
+斯科特 · 卡鲁姆 · 斯金纳 ( Scott Callum Skinner ) 回家 时 ， 英国人 手里 拿 着 自行车 黄金
+Scot Callum Skinner storms home as Brits grab cycling gold
+
+Label: True
+米切尔 的 一个 出色 的 手 阻止 了 塞拉利昂 山中 的 Nakarawa 第三次 得分 ， 但 只是 拖延 了 斐济 。
+A excellent Mitchell tackle stopped the man - mountain Leone Nakarawa from scoring a third but it was only delaying Fiji .
+一个 超棒 的 米切尔 战机 阻止 了 塞拉利昂 山中 的 中川 夺得 第三名 ， 但 只是 拖延 了 斐济 。
+A superb Mitchell tackle stopped the man - mountain Leone Nakarawa from scoring a third but it was only delaying Fiji .
+
+Label: False
+过去 ， 许多 公司 采用 冷饮 作为 高温 津贴 ， 市 安全 监管局 认为 这种 行为 不 符合 现行 规定 。
+In the past , many firms adopt cool drinks as high temperature allowance . The city safety supervision bureau deemed that this behavior does not meet the current regulation .
+过去 ， 许多 公司 采用 冷饮 作为 高温 津贴 ， 市 安全 监管局 认为 这种 行为 不 符合 现行 规定 。
+In the past , many companies adopt cool drinks as high temperature allowance . The city safety supervision bureau deemed that this behavior does not meet the current regulation .
+
+Label: False
+仅 就 我们 当地 社区 而言 ， 我们 将 创造 70   000 个 新 的 学徒 、 40   000 个 新 工作 ， 并 结束 机场 附近 的 青年 失业 。
+For our local communities alone we ' ll create 70,000 new apprenticeships , 40,000 new jobs and bring an end to youth unemployment around the airport .
+仅 就 我们 当地 社区 而言 ， 我们 将 创造 10   000 个 新 的 学徒 、 40   000 个 新 工作 ， 并 结束 机场 附近 的 青年 失业 。
+For our local communities alone we ' ll create 10,000 new apprenticeships , 40,000 new jobs and bring an end to youth unemployment around the airport .
+
+Label: False
+凯文 ? 贝恩 ( Kevin Bain ) 认为 ， 65 条 鱼 可能 是 由 一个 水勺 沉积 的 砂轮 。
+Kevin Bain thinks the 65 fish could be sand eels deposited by a waterspout .
+凯文 ? 贝恩 ( Kevin Bain ) 认为 ， 75 条 鱼 可能 是 由 一个 水勺 沉积 的 砂轮 。
+Kevin Bain thinks the 75 fish could be sand eels deposited by a waterspout .
+
+Label: True
+张东洪 ( Zhang Donghong ) 是 厦门 西安县 北公园 村 的 村民 ， 几天 前 把 一台 29 英寸 的 旧 电视机 改为 一台 65 英寸 大 的 新型 电视机 。
+Zhang Donghong , a villager of North Park Village , Xiang ' an District , Xiamen , changed an old 29 - inch TV into a new 65 - inch large TV just a few days before .
+张东东 ( Zhang Donghong ) 是 厦门 西安县 东 公园 村 的 村民 ， 几天 前 把 一台 29 英寸 的 旧 电视机 改为 一台 65 英寸 大 的 新型 电视机 。
+Zhang Donghong , a villager of East Park Village , Xiang ' an District , Xiamen , changed an old 29 - inch TV into a new 65 - inch large TV just a few days before .
+
+Label: False
+吉尔德 科学 公司 有权 获得 它 与 美国 地区 法官 默克 ( Merck & Co . ) 的 丙型肝炎 专利 诉讼 有关 的 律师费 。
+Gilead Sciences Inc is entitled to receive the lawyer fees it incurred related to hepatitis C patent litigation with drugmaker Merck & Co Inc , a U . S . district judge has ruled .
+吉尔德 科学 公司 有权 获得 它 与 美国 地区 法官 默克 ( Merck & Co . ) 的 丙型肝炎 专利 诉讼 有关 的 律师费 。
+Gilead Sciences Inc is entitled to receive the attorney fees it incurred related to hepatitis C patent litigation with drugmaker Merck & Co Inc , a U . S . district judge has ruled .
+
+Label: False
+根据 青岛市 物价局 和 金融部门 确定 的 收费 标准 ， 最初 的 排放 权 收费 约 为 641 , 200 元 人民币 ， 工作 人员 将 在 8 个 工作日 内 完成 审查 。
+According to the collection standard determined by Qingdao ' s price bureau and financial sector , the estimated initial emission right fee is about RMB 641,200 . The working staff will finish review within 8 working days .
+根据 青岛市 物价局 和 金融部门 确定 的 收费 标准 ， 最初 的 排放 权 收费 约 为 641 , 200 元 人民币 ， 工作 人员 将 在 7 个 工作日 内 完成 审查 。
+According to the collection standard determined by Qingdao ' s price bureau and financial sector , the estimated initial emission right fee is about RMB 641,200 . The working staff will finish review within 7 working days .
+
+Label: False
+因此 ， 在 正常 季节 ， 詹姆斯 的 能力 可能 会 进一步 下降 ， 他 将 更 多 地 与 欧文 分享 ， 但 他 仍然 很 容易 成为 联盟 的 八大 球员 之一 。
+Therefore , in the regular season , James ' s capability is likely to further decline . He will share more with Owen , but he will still easily become one of the league ' s top eight players .
+因此 ， 在 正常 的 季节 ， 詹姆斯 的 能力 可能 会 进一步 下降 ， 他 将 更 多 地 与 欧文 分享 ， 但 他 仍然 很 容易 成为 联盟 的 三大 球员 之一 。
+Therefore , in the regular season , James ' s capability is likely to further decline . He will share more with Owen , but he will still easily become one of the league ' s top three players .
+
+Label: True
+该 村庄 位于 离 城市 地区 大约 22 公里 的 偏远地区 ， 村庄 有 200 多个 家庭 ， 由于 经济 、 交通 和 身体 上 的 限制 ， 给 许多 中年 病人 造成 了 许多 不便 。
+The village is located in the remote area , about 22 km from the urban area . There are more than 200 households in the village . This has caused many inconveniences for many middle - aged patients due to economic , transportation and physical limitations .
+该 村庄 位于 远离 城市 24 公里 的 偏远地区 ， 村庄 有 200 多个 家庭 ， 由于 经济 、 交通 和 身体 上 的 限制 ， 给 许多 中年 病人 造成 了 许多 不便 。
+The village is located in the remote area , about 24 km from the urban area . There are more than 200 households in the village . This has caused many inconveniences for many middle - aged patients due to economic , transportation and physical limitations .
+
+Label: True
+盖茨 说 ： “ 任何 桥梁 项目 的 第二次 关闭 始终 是 一个 重要 的 里程碑 。
+Michael Martin , Forth Crossing Bridge Constructors project director said : " The second closure on any bridge project is always a significant milestone .
+盖茨 说 ： “ 任何 桥梁 工程 的 首次 关闭 始终 是 一个 重要 的 里程碑 。
+Michael Martin , Forth Crossing Bridge Constructors project director said : " The first closure on any bridge project is always a significant milestone .
+
+Label: False
+这种 方法 以前 曾 被 用来 确定 鲸鱼 的 年龄 ， 但 这 是 第二次 被 用来 确定 鲨鱼 和 其他 鱼类 的 年龄 。
+This method had previously been used to determine the age of whales , but it is the second time to be used to determine the age of sharks and other fish .
+这种 方法 以前 曾 被 用来 确定 鲸鱼 的 年龄 ， 但 这 是 第一次 被 用来 确定 鲨鱼 和 其他 鱼类 的 年龄 。
+This method had previously been used to determine the age of whales , but it is the first time to be used to determine the age of sharks and other fish .
+
+Label: True
+失败 的 到来 带来 了 金币 无足轻重 的 安慰 — — 英国 的 第三天 — — 他们 可以 为 他们 在 第七届 奥运会 开幕式 上 的 努力 而 自豪 。
+Defeat came with the non - too shabby consolation of gold - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+失败 的 到来 带来 了 银英 第三天 的 无足轻重 的 安慰 ， 他们 可以 为 他们 在 第七届 奥运会 开幕式 上 的 努力 而 自豪 ， 他们 在 比赛 中 打败 了 新西兰 、 阿根廷 和 南非 。
+Defeat came with the non - too shabby consolation of silver - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+
+Label: False
+这些 说服 人 是 她 村 的 男孩 和 男孩 ， 建议 他们 同时 参加 培训 ， 包括 张彬彬 的 女表弟 。
+These persuaders were boys and boys of her village who were recommended to attend the training at the same time , including Zhang Binbin ' s elder female cousin .
+这些 说服 人 是 她 村 的 女孩 和 男孩 ， 建议 他们 同时 参加 培训 ， 包括 张彬彬 的 女表弟 。
+These persuaders were girls and boys of her village who were recommended to attend the training at the same time , including Zhang Binbin ' s elder female cousin .
+
+Label: True
+一些 行为 精神科 医生 把 抵抗 视为 个人 不 服从 行为 纠正 。
+And some behaviorist psychiatrists regard the resistance as an individual ' s disobedience to their behavioral corrections .
+一些 行为 心理学家 认为 ， 抵抗 是 个人 不 服从 行为 纠正 的 结果 。
+And some behaviorist psychologists regard the resistance as an individual ' s disobedience to their behavioral corrections .
+
+Label: False
+该 公司 表示 ， 额外 的 削减 将 给 该 公司 带来 通过 市场 衰退 所 需 的 空间 。
+The company said additional cuts would give the company the room needed to move through the market recession .
+该 公司 表示 ， 额外 的 削减 将 给 该 公司 带来 通过 市场 下滑 所 需 的 空间 。
+The company said additional cuts would give the company the room needed to move through the market downturn .
+
+Label: False
+最 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 石油 非法 贸易 中 受益 。
+Most serious were allegations from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+最 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Most serious were accusations from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+
+Label: False
+他 和 家人 联系 的 方式 总是 让 我们 吃 了 一盘 菜 ， 让 我们 吃 午饭 。
+His way of connecting with the family was always making us a dish , making us lunch , " Louis Galicia said .
+他 和 家人 联系 的 方式 总是 让 我们 吃 了 一盘 菜 ， 让 我们 吃晚饭 。
+His way of connecting with the family was always making us a dish , making us dinner , " Louis Galicia said .
+
+Label: False
+警察 旅 根据 其 外语 程度 将 他们 分为 八个 组 ， 每周 有 两个 班 ， 学习 自卫 行动 、 法律 、 法规 和 外语 。
+The police brigade divided them into eight groups according to their foreign language levels . They have two classes per week , learning self - defense moves , laws , regulations and foreign languages .
+警察 旅 根据 其 外语 程度 将 他们 分为 九个 组 ， 每周 有 两个 班 ， 学习 自卫 行动 、 法律 、 法规 和 外语 。
+The police brigade divided them into nine groups according to their foreign language levels . They have two classes per week , learning self - defense moves , laws , regulations and foreign languages .
+
+Label: True
+英国 15 派 球队 的 侄子 — — 安东尼 ( Anthony ) 的 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 球员 获得 了 冠军 ， 并 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , nephew of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 球员 安东尼 ( Anthony ) 获得 了 冠军 ， 并 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+
+Label: False
+联合王国 议会 将 于 4 月 5 日 恢复 举行 第二次 英国 脱欧 公投 。
+The United Kingdom parliament will resume on April 5 . The subject matter covers the second Brexit referendum required on the internet .
+联合王国 议会 将 于 9 月 5 日 恢复 举行 第二次 英国 脱欧 公投 。
+The United Kingdom parliament will resume on September 5 . The subject matter covers the second Brexit referendum required on the internet .
+
+Label: False
+今年 6 月 ， 58 岁 的 斯威登 获得 了 反 社会 行为 秩序 。
+Skeldon , 58 , whose name was on the tenancy , was given an antisocial behaviour order in June .
+今年 6 月 ， 47 岁 的 斯威登 获得 了 反 社会 行为 秩序 。
+Skeldon , 47 , whose name was on the tenancy , was given an antisocial behaviour order in June .
+
+Label: True
+她 声称 ， 这笔 钱 是 为了 她 儿子 Lee   Skeldon 的 墓碑 ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+She claimed the money was going towards a gravestone for her son , Lee Skeldon , who died in a car crash in 2013 .
+她 声称 这笔 钱 是 为了 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+She claimed the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+
+Label: True
+马塔 · 维利亚 梅 冰冻 了 斐济 蛋糕 ， 它 在 死亡 时刻 不 需要 和 另 一次 尝试 结冰 。
+Mata Viliame iced the Fijian cake that couldn ' t need icing with another try in the dying moments .
+马塔 · 维利亚 梅 冰冻 了 斐济 蛋糕 ， 它 在 死亡 的 时刻 不 需要 再 做 一次 尝试 。
+Mata Viliame iced the Fijian cake that didn ' t need icing with another try in the dying moments .
+
+Label: True
+本月 12 日 下午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 关于 " 双重 恢复 和 双重 城市 " 试点 项目 进展 情况 的 报告 以及 有关 部门 的 建议 和 意见 。
+On the afternoon of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+9 月 12 日 上午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 " 双重 恢复 和 双重 城市 " 试点 项目 进展 报告 以及 有关 部门 的 建议 和 意见 。
+On the morning of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+
+Label: True
+此外 ， 在 同一 时期 ， 新 Nz 的 人口 有 28   200 人 的 有机 增长 。
+In addition , in the same period , New Nz ' s population saw an organic increase of 28,200 .
+此外 , 在 同一 期间 , 新西兰 的 人口 有机 地 增加 了 28 200 人 。
+In addition , in the same period , New Zealand ' s population saw an organic increase of 28,200 .
+
+Label: False
+这里 花 了 大约 八分钟 。
+Here it took about eight minutes .
+这儿 花 了 大约 四分钟 。
+Here it took about four minutes .
+
+Label: False
+这个 团队 的 组成 ， 由 犹太人 Aly Raisman 和 天主教 的 麦迪逊 Kocian 组成 ， 使 每个 人 都 感到 自豪 。
+The make - up of this team , rounded out by Aly Raisman , who is Jewish , and Madison Kocian , who is Catholic , is making everybody proud .
+这个 团队 的 组成 ， 由 犹太人 Aly Raisman 和 天主教 的 麦迪逊 Kocian 组成 ， 使 每个 人 都 感到 自豪 。
+The make - up of this team , rounded out by Aly Raisman , who is Jewish , and Madison Kocian , who is Catholic , is making everyone proud .
+
+Label: True
+同时 ， 委员会 成立 了 广州 — 香港 股份 连接 特别 工作组 ， 积极 推动 有关 筹备工作 ， 深圳 — 香港 股份 连接 机制 将 在 有关 监管 规则 和 技术设备 的 全面 制定 后 ， 于 今年 正式 启动 。
+At the same time , the Commission has set up a Guangzhou - Hong Kong Stock Connect special working group , and actively promotes the relevant preparatory work . The Shenzhen - Hong Kong Stock Connect mechanism will be officially launched this year after the full preparation of the related regulatory rules and technical equipment .
+同时 ， 委员会 成立 了 深圳 香港 证券 联络网 特别 工作组 ， 积极 推动 有关 筹备工作 ， 并 将 在 有关 监管 规则 和 技术 设备 的 全面 制定 后 ， 于 今年 正式 启动 深圳 香港 证券 联络机制 。
+At the same time , the Commission has set up a Shenzhen - Hong Kong Stock Connect special working group , and actively promotes the relevant preparatory work . The Shenzhen - Hong Kong Stock Connect mechanism will be officially launched this year after the full preparation of the related regulatory rules and technical equipment .
+
+Label: True
+在 这些 游戏 中 不会 有 更 多 的 情绪化 的 银子 ， 这 就 意味着 什么 。
+There will not be a more emotive silver at these games , and that is saying something .
+在 这些 游戏 中 不会 有 更 多 的 情感 黄金 ， 这 就 意味着 什么 。
+There will not be a more emotive gold at these games , and that is saying something .
+
+Label: True
+如果 你 需要 帮助 ， 你 可以 通过 按 附近 的 58 个 呼叫 按钮 中 的 一个 获得 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 58 call buttons in the station .
+如果 你 需要 帮助 ， 你 可以 通过 按 附近 的 41 个 呼叫 按钮 享受 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 41 call buttons in the station .
+
+Label: True
+皮肤 干燥 的 人 应该 选择 乳霜 防晒霜 。 中性 皮肤 的 分类 一般 没有 严格 的 规则 。 任何 一种 护肤 产品 都 是 对 敏感 皮肤 的 负担 ， 所以 建议 选择 纯 物理 防晒 产品 。
+People with dry skin should choose creamy sunblock . The classification of neutral skin generally has no strict rules . Any kind of skin care products are burden to the sensitive skin . So it is recommended to choose pure physical sunscreen products .
+皮肤 干燥 的 人 应该 选择 防晒霜 。 中性 皮肤 的 分类 一般 没有 严格 的 规则 。 任何 种类 的 护肤品 都 是 对 敏感 皮肤 的 负担 ， 所以 建议 选择 纯 物理 的 防晒 产品 。
+People with dry skin should choose creamy sunscreen . The classification of neutral skin generally has no strict rules . Any kind of skin care products are burden to the sensitive skin . So it is recommended to choose pure physical sunscreen products .
+
+Label: True
+在 一份 声明 中 ， 一名 妇女 在 “ 绝望 的 行为 ” 的 黑暗 中 躺 下 ， 被 许多 车辆 击中 。
+A woman lay down in the dark on the road " in a desperate act " and was hit by numerous vehicles , Vaud police said in a statement .
+Vaud 警方 在 一份 声明 中说 ， 一名 妇女 在 “ 绝望 的 行为 ” 的 黑暗 中 躺 下 ， 被 几辆 汽车 击中 。
+A woman lay down in the dark on the road " in a desperate act " and was hit by several vehicles , Vaud police said in a statement .
+
+Label: True
+但是 ， 与 著名 的 裸体 人 相比 ， 他们 正在 为 2017 年 NU 穆塞斯 日历 寻找 下一代 顶级 模特 。
+But instead of famous nude people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+但是 ， 他们 并 不是 著名 的 赤身裸体 人 ， 而是 为 2017 年 NU 穆塞斯 日历 寻找 下一代 顶级 模特 。
+But instead of famous naked people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+
+Label: True
+该 纪录片 《 极端 道路 》 是 以 世界 第三极 青藏高原 为 重点 的 小规模 工作 ， 从 新 的 视角 讲述 了 西藏 传统 与 现代 世界 一体化 和 西藏 与 世界 互动 的 故事 。
+The documentary " Extreme Road " is a small - scale work that focuses on the world ' s third pole , the Qinghai - Tibet Plateau . It tells a story for the integration of Tibetan tradition and the modern world and the interaction between Tibet and the world from a new perspective .
+该 纪录片 《 极端 道路 》 是 一项 以 世界 第三极 （ 青藏高原 ） 为 重点 的 大规模 工作 ， 从 新 的 视角 讲述 了 西藏 传统 与 现代 世界 一体化 以及 西藏 与 世界 互动 的 故事 。
+The documentary " Extreme Road " is a large - scale work that focuses on the world ' s third pole , the Qinghai - Tibet Plateau . It tells a story for the integration of Tibetan tradition and the modern world and the interaction between Tibet and the world from a new perspective .
+
+Label: False
+这份 文件 说 ， 在 20 世纪 70 年代 ， 为了 防止 苏联 突然 发动 核战争 ， 美国空军 总是 有 一些 战斗机 用 核弹头 在 天空 中 飞行 。
+The paper said that in the 1970s , in order to prevent the Soviet Union from suddenly launching a nuclear war , the US Air Force has always had some fighters flying in the sky with nuclear warheads .
+这份 文件 说 ， 在 1960 年代 ， 为了 防止 苏联 突然 发动 核战争 ， 美国空军 总是 有 一些 战斗机 用 核弹头 在 天空 中 飞行 。
+The paper said that in the 1960s , in order to prevent the Soviet Union from suddenly launching a nuclear war , the US Air Force has always had some fighters flying in the sky with nuclear warheads .
+
+Label: False
+当 记者 下令 吃 肉 的 时候 ， 这 对 夫妇 认为 它 适合 讨论 焦虑 时期 的 饮食 。
+When a reporter ordered meatloaf , the couple deemed it fitting for a discussion of Anxiety - era eating .
+当 记者 下令 吃 肉 的 时候 ， 这 对 夫妇 认为 它 适合 讨论 大 萧条 时期 的 饮食 。
+When a reporter ordered meatloaf , the couple deemed it fitting for a discussion of Depression - era eating .
+
+Label: False
+统一 支付 机构 应当 自 公告 之日起 5 个 月 内 完成 支付 服务 。
+The consolidated payment institutions shall complete the payment service undertaking within 5 months from the date of the announcement .
+统一 支付 机构 应当 自 公告 之日起 六个月 内 完成 支付 服务 。
+The consolidated payment institutions shall complete the payment service undertaking within 6 months from the date of the announcement .
+
+Label: True
+近年来 ， 随着 经济 上升 压力 的 增加 ， 社会 需求 总量 逐渐 下降 ， 部分 产业 产能 利用率 下降 ， 企业 生产 经营 管理 困难 增加 。
+In recent years , with the increasing economic upward pressure , the total social demand gradually weakened , the utilization of some industry capacity decreased and enterprise production , operation and management difficulties increased , according to the person in charge .
+近年来 ， 随着 经济 下行 压力 不断 增大 ， 社会 需求 总量 逐渐 下降 ， 部分 产业 产能 利用率 下降 ， 企业 生产 经营 管理 困难 增加 。
+In recent years , with the increasing economic downward pressure , the total social demand gradually weakened , the utilization of some industry capacity decreased and enterprise production , operation and management difficulties increased , according to the person in charge .
+
+Label: True
+多年 来 ， 在 游泳池 里 ， 北非 游泳 选手 卡梅隆 · 范德尔 伯克 一直 和 格兰 · 明星 马修 · 莫里森 相比 。
+And over in the pool , North African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+在 游泳池 里 ， 南非 游泳 选手 卡梅隆 · 范德尔 伯克 多年 来 一直 和 格兰 · 明星 马修 · 莫里森 相提并论 。
+And over in the pool , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+
+Label: True
+法庭 听取 了 这名 11 岁 的 受害者 的 证词 。
+The 11 - year - old victim had been drinking and had passed out on the road , the court heard .
+22 岁 的 受害者 一直 在 喝酒 ， 在 路上 去世 了 ， 法庭 听取 了 证词 。
+The 22 - year - old victim had been drinking and had passed out on the road , the court heard .
+
+Label: False
+它 应该 率先 改善 国际 旅游 岛 的 国际化 ， 丰富 国际 元素 ， 并 从 细节 上 打造 一个 著名 的 国际 品牌 。
+It should take the lead to improve the internationalisation of the international tourism island and enrich international elements and build a famous international brand from the details .
+它 应该 率先 改善 国际 旅游 岛 的 国际化 ， 丰富 国际 元素 ， 并 从 细节 上 打造 一个 著名 的 国际 品牌 。
+It should take the lead to improve the internationalization of the international tourism island and enrich international elements and build a famous international brand from the details .
+
+Label: True
+刘兴英 是 一名 20 岁 以上 的 男性 警察 ， 精通 英语 和 西班牙语 ， 去年 刚刚 加入 了 旅游 警察 队伍 。
+Liu Xinie , an male police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+刘星 ， 一名 20 岁 以上 的 女警官 ， 精通 英语 和 西班牙语 ， 去年 刚刚 加入 了 旅游 警察 队伍 。
+Liu Xinie , an female police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+
+Label: False
+据 报道 ， 在 这个 公寓 住 了 20 年 的 Mariana   Turay 女士 说 ， " 好像 是 一枚 炸弹 掉 了 。
+It is reported that Ms . Mariana Turay who has been living in this apartment for 20 years said that " It seems like a bomb falling down . "
+据 报道 ， 在 这个 公寓 住 了 30 年 的 Mariana   Turay 女士 说 ， " 好像 是 一枚 炸弹 掉 了 。
+It is reported that Ms . Mariana Turay who has been living in this apartment for 30 years said that " It seems like a bomb falling down . "
+
+Label: False
+2010 年 4 月 26 日 ， 她 担任 人民日报 副 秘书长 、 人民 搜索 网 有限公司 总经理 和 部级 干部 。
+On April 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+2010 年 9 月 26 日 ， 她 担任 人民日报 副 秘书长 、 人民 搜索 网 有限公司 总经理 和 部级 干部 。
+On September 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+
+Label: False
+自 2012 年 夏天 以来 ， 她 并 没有 失去 全面 的 竞争 ， 只要 比尔 想 赢得 比赛 ， 这场 比赛 就 应该 持续 下去 。
+She hasn ' t lost an all - around competition since the summer of 2012 , a winning streak that should go for as long as Biles wants it to .
+自 2013 年 夏天 以来 ， 她 并 没有 失去 全面 的 竞争 ， 只要 比尔 想 赢得 比赛 ， 这场 比赛 就 应该 持续 下去 。
+She hasn ' t lost an all - around competition since the summer of 2013 , a winning streak that should go for as long as Biles wants it to .
+
+Label: False
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 文化 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+A culture of political correctness has led to a blind eye being turned to widespread vote fraud in Muslim communities , a devastating government report reveals today .
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 文化 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+A culture of political correctness has led to a blind eye being turned to widespread voting fraud in Muslim communities , a devastating government report reveals today .
+
+Label: True
+力拓 奥组委 ( Rio Olympic Organisation Committee ) 在 2010 年 制定 了 奥运会 宣传 战略 。
+" The success of the Olympic Games is defined by people who share stories in social media , " said the Rio Olympic Organizing Committee while establishing the Olympic Games communication strategy in 2010 .
+里约热内卢 奥组委 ( Rio Olympic Organisation Committee ) 在 2012 年 制定 了 奥运会 宣传 战略 。
+" The success of the Olympic Games is defined by people who share stories in social media , " said the Rio Olympic Organizing Committee while establishing the Olympic Games communication strategy in 2012 .
+
+Label: False
+目前 ， 为 医生 的 客户 设立 了 八个 部门 ， 即 继续 教育 、 社会 交流 和 沟通 。
+At present , eight sectors are set up for doctor ' s client side , i . e . continuing education , social exchange and communication .
+目前 ， 为 医生 的 客户 设立 了 三个 部门 ， 即 继续 教育 、 社会 交流 和 沟通 。
+At present , three sectors are set up for doctor ' s client side , i . e . continuing education , social exchange and communication .
+
+Label: False
+事件 发生 在 星期一 下午 .
+The incident happened on Monday afternoon .
+事件 发生 在 星期二 下午 .
+The incident happened on Tuesday afternoon .
+
+Label: False
+几英里 外 ， 图能 · 格雷西亚 的 故事 触及 著名 的 纪录片 导演 保拉 · 雷迪亚 和 新闻频道 制片人 约翰 · 霍夫曼 。
+Tens of miles away , the story of the Toucan Gracia touched the famous documentary director Paula El Reidia and the news channel producer John Hoffman .
+数千 英里 外 ， 图能 · 格雷西亚 的 故事 触及 著名 的 纪录片 导演 保拉 · 雷迪亚 和 新闻频道 制片人 约翰 · 霍夫曼 。
+Thousands of miles away , the story of the Toucan Gracia touched the famous documentary director Paula El Reidia and the news channel producer John Hoffman .
+
+Label: False
+据统计 ， 在 所有 iPhone 用户 中 ， 大约 22% 的 用户 两年 没有 更换 手机 ， 也就是说 ， 近 1.2 亿 iPhone 用户 两年 来 一直 在 使用 相同 的 iPhone 。
+According to statistics , among all iPhone users , about 22 % of users have not changed their phones for two years . That is , almost 120 million users of iPhones have been using the same iPhone for two years .
+据统计 ， 在 所有 iPhone 用户 中 ， 大约 26% 的 用户 两年 没有 更换 手机 ， 也就是说 ， 近 1.2 亿 iPhone 用户 两年 来 一直 在 使用 相同 的 iPhone 。
+According to statistics , among all iPhone users , about 26 % of users have not changed their phones for two years . That is , almost 120 million users of iPhones have been using the same iPhone for two years .
+
+Label: False
+根据 日本自民党 的 消息 ， 根据 安倍晋三 的 访问 ， 日本 自由民主党 将 向 有关 国家 派出 议会 团体 。
+In line with the trip of Shinzo Abe , according to the Kyodo news agency , the Japanese Liberal Dems will send parliamentary groups to the countries concerned .
+根据 日本自民党 的 消息 ， 根据 安倍晋三 的 访问 ， 日本 自由民主党 将 向 有关 国家 派出 议会 团体 。
+In line with the trip of Shinzo Abe , according to the Kyodo news agency , the Japanese Liberal Democrats will send parliamentary groups to the countries concerned .
+
+Label: True
+张惠森 谈到 了 他 在 女子 个别 射箭 颁奖仪式 后 获得 的 银牌 ， 他 说 ： “ 我 直到 最后 一次 尝试 一次 ， 也许 是因为 这 给 我 带来 了 良好 的 结果 ， 使 我 感到 满意 。 ”
+Zhang Huizhen talked about his silver winning after the women ' s individual awards ceremony of archery . " I tried to shoot one by one until the last . Maybe it is because this brings me good results and makes me contented . "
+张惠森 谈到 了 他 在 女子 个别 的 射箭 颁奖仪式 后 获得 的 金牌 ， “ 我 试图 一比 一打 一次 ， 也许 是因为 这 给 我 带来 了 良好 的 结果 ， 使 我 感到 满意 。 ”
+Zhang Huizhen talked about his gold winning after the women ' s individual awards ceremony of archery . " I tried to shoot one by one until the last . Maybe it is because this brings me good results and makes me contented . "
+
+Label: False
+作为 " 湖南 博览会 " 的 东道主 ， 卢迪 与 全世界 75 多个 国家 建立 了 贸易 关系 。
+As the host place of " Hunan Exposition " , Loudi has established trade relationship with more than 75 countries around the world .
+作为 " 湖南 博览会 " 的 东道主 ， 卢迪 与 世界 上 90 多个 国家 建立 了 贸易 关系 。
+As the host place of " Hunan Exposition " , Loudi has established trade relationship with more than 90 countries around the world .
+
+Label: True
+马哈 j   Brown ， 5 岁 ， " 被 子弹 击毙 "
+Mahaj Brown , 5 , " riddled with bullets , " survives Philadelphia shooting
+马哈j   Brown ， 6 岁 ， " 被 子弹 击打 ， " 幸存者 费城 射击
+Mahaj Brown , 6 , " riddled with bullets , " survives Philadelphia shooting
+
+Label: False
+在 获得 原油 出口 许可证 之前 ， " 茶壶 炼油厂 " 通常 从 含硫 含量 高 的 稠油 中 提炼 石油 ， 从 俄罗斯 进口 。
+Before obtaining the export license for crude oil , " teapot refineries " generally refine oil from the heavy oil , which has high sulfur content and is imported from Russia .
+在 获得 原油 进口 许可证 之前 ， " 茶壶 炼油厂 " 通常 从 含硫 含量 高 的 稠油 中 提炼 石油 ， 从 俄罗斯 进口 。
+Before obtaining the import license for crude oil , " teapot refineries " generally refine oil from the heavy oil , which has high sulfur content and is imported from Russia .
+
+Label: True
+在 北京 居住 8 个 月 以上 、 符合 稳定 合法 就业 条件 之一 、 在 北京 有 住宿 和 继续 上学 的 非 永久 居民 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than eight months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+在 北京 居住 6 个 月 以上 、 符合 稳定 合法 就业 条件 之一 的 非 永久 居民 ， 在 北京 有 住宿 和 继续 上学 的 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than six months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+
+Label: True
+在 四分之一 决赛 开始 的 时候 ， 二位 决赛 将 避免 强大 的 荷兰人 ， 也 就是 其他 球队 的 领导人 。
+The second - place finisher will avoid the powerful Dutch , the leaders of the other bracket , for a bit longer when the quarter finals begin .
+第一名 终点员 将 在 四分之一 决赛 开始 的 时候 避免 强大 的 荷兰人 ， 也 就是 其他 球队 的 领导人 。
+The first - place finisher will avoid the powerful Dutch , the leaders of the other bracket , for a bit longer when the quarter finals begin .
+
+Label: False
+后来 ， 他 总结 了 美国空军 气象局 提供 的 资料 ， 并 提交 了 一份 详细 的 报告 。
+Later , he summarized the information provided by the US Air Forces Air Weather Service and submitted a detailed report .
+后来 ， 他 总结 了 美国空军 空中 气象局 提供 的 资料 ， 并 提交 了 一份 详细 的 报告 。
+Later , he summarized the information provided by the US Air Force Air Weather Service and submitted a detailed report .
+
+Label: False
+平台 层 北边 和 南边 共有 5 个 售票处 ， 配有 39 个 手动 打牌 窗口 和 34 台 自动 售票机 。
+There are a total of 5 ticket offices on the north and south sides of the platform layer , equipped with 39 manual ticketing windows and 34 automatic ticket machines .
+平台 层 北边 和 南边 共有 3 个 售票处 ， 配有 39 个 手动 打牌 窗口 和 34 台 自动 售票机 。
+There are a total of 3 ticket offices on the north and south sides of the platform layer , equipped with 39 manual ticketing windows and 34 automatic ticket machines .
+
+Label: True
+它 得到 了 来自 6 个 联合国 橄榄球 和 温布尔登 冠军 安迪 · 默里 的 数百万 磅 国际 体育 赞助商 的 支持 。
+It was backed with millions of pounds in sponsor of international sport , from Six Nations rugby to Wimbledon champion Andy Murray .
+它 得到 了 数百万 英镑 的 支持 ， 从 6 个 联合国 橄榄球 到 温布尔登 冠军 安迪 · 穆尔 雷 。
+It was backed with millions of pounds in sponsorship of international sport , from Six Nations rugby to Wimbledon champion Andy Murray .
+
+Label: True
+这些 合同 有 14 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 14 - month termination period so they will actually finish in 2017 .
+合同 有 12 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 12 - month termination period so they will actually finish in 2017 .
+
+Label: False
+目前 ， 1.35 亿英镑 的 项目 将 于 2016 年 5 月 完成 。
+The £ 1.35bn project is now due to be complete by May 2016 .
+目前 ， 1.35 亿英镑 的 项目 将 于 2017 年 5 月 完成 。
+The £ 1.35bn project is now due to be complete by May 2017 .
+
+Label: True
+拜伦 ? 麦克唐纳 ( Byron MacDonald ) 对 22 岁 的 艾因 ? 延安 ( Ai Yanhan ) 第四位 的 分析 在 周三 女子 4x2000 米 自由式 接力赛 的 观众 愤怒 的 CBC 现场直播 。
+Byron MacDonald ' s analysis of 22 - year - old Ai Yanhan ' s fourth place finish at the women ' s 4x200m freestyle relay outraged viewers of CBC ' s live Olympic coverage on Wednesday
+拜伦 ? 麦克唐纳 ( Byron MacDonald ) 对 14 岁 的 艾因 ? 延安 ( Ai Yanhan ) 第四位 的 分析 ， 在 周三 女子 4x2000 米 自由式 接力赛 中 ， 令 哥伦比亚 广播公司 现场直播 的 观众 愤怒 。
+Byron MacDonald ' s analysis of 14 - year - old Ai Yanhan ' s fourth place finish at the women ' s 4x200m freestyle relay outraged viewers of CBC ' s live Olympic coverage on Wednesday
+
+Label: False
+江西省 纪律检查 委员会 宣布 ， 在 私人 俱乐部 组织 和 接受 餐饮 邀请 的 陈扬祥 和 成子 紫莲 ， 违反 了 中央党委 三项 规定 的 精神 和 党的纪律 。
+The Jiangxi Provincial Commission for Discipline Inspection announced that Chen Yangxia and Cheng Ziliang , who organized and accepted dining invitations in private clubs , violated the spirit of the central Party committee ' s three provisions and the Party ' s discipline .
+江西省 纪律检查 委员会 宣布 ， 在 私人 俱乐部 组织 和 接受 餐饮 邀请 的 陈扬祥 和 成子 紫莲 ， 违反 了 中央党委 八项 规定 的 精神 和 党的纪律 。
+The Jiangxi Provincial Commission for Discipline Inspection announced that Chen Yangxia and Cheng Ziliang , who organized and accepted dining invitations in private clubs , violated the spirit of the central Party committee ' s eight provisions and the Party ' s discipline .
+
+Label: True
+新 尼奇 ： 唐纳德 · 特朗普 的 竞选 被 指控 在 被 告知 其 北卡罗来纳州 行动 主任 在 2 月 驾驶 一辆 吉普车 时 ， 向 一名 工作人员 开 了 枪 之后 无所作为 。
+New Nyc : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+纽约 ： 唐纳德 · 特朗普 的 竞选 被 指控 在 被 告知 其 北卡罗来纳州 行动 主任 在 2 月 驾驶 一辆 吉普车 时 ， 向 一名 工作人员 拔枪 后 无所作为 。
+New York : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+
+Label: True
+截至 2016 年 1 月 1 日 已 获得 环境影响 评价 的 现行 污染物 排放 单位 ， 将 不 收取 付费 使用 费用 。
+The current pollutant discharging units which had obtained environmental impact evaluation as of January 1 , 2016 , will be exempt from fees for paid use .
+截至 2016 年 1 月 1 日 已 获得 环境影响 评估 的 现行 污染物 排放 单位 将 免于 支付 有偿 使用 费用 。
+The current pollutant discharging units which had obtained environmental impact assessment as of January 1 , 2016 , will be exempt from fees for paid use .
+
+Label: True
+八年 前 ， 当 他 从 6 个 月 的 停止期 回来 时 ， 他 开始 挣扎 ， 但 他 表现 出 强大 的 性格 力量 来 挑战 怀疑者 ， 回到 他 最好 的 状态 。
+Eight years ago he initially struggled when returning from that six - month suspension , but he showed formidable strength of character to defy the doubters and return to his best .
+三年 前 ， 当 他 从 6 个 月 的 停止期 回来 时 ， 他 开始 挣扎 ， 但 他 表现 出 强大 的 性格 力量 来 反驳 怀疑者 ， 回到 他 最好 的 状态 。
+Three years ago he initially struggled when returning from that six - month suspension , but he showed formidable strength of character to defy the doubters and return to his best .
+
+Label: True
+禁止 政治 竞选 者 和 活动分子 处理 已 完成 的 邮政 选票 和 邮政 投票 信封 。
+Ban political campaigners and activists from handling completed postal votes and postal voting envelopes .
+禁止 政治 竞选 者 和 活动分子 处理 完 的 邮政 选票 和 邮政 选票 信封 。
+Ban political campaigners and activists from handling completed postal votes and postal vote envelopes .
+
+Label: True
+最近 的 抗议 是 在 示威 群众 走上 街头 支持 被 停职 的 总统 迪尔马 · 鲁 塞夫 ( Dilma Rousseff ) 投票 支持 她 弹劾 后 的 几天 。
+This latest protest comes just days after demonstrators took to the streets en masse to support suspended President Dilma Rousseff as the country ' s senate voted for her impeachment .
+最近 的 抗议 活动 发生 在 抗议者 大规模 走上 街头 支持 总统 迪尔马 · 鲁 塞夫 ， 因为 参议院 投票 支持 她 的 弹劾 。
+This latest protest comes just days after protesters took to the streets en masse to support suspended President Dilma Rousseff as the country ' s senate voted for her impeachment .
+
+Label: False
+这 是 一 项 巨大 的 , 同时 也 是 非常 微妙 的 行动 。
+This was a enormous and , at the same time , very delicate operation .
+这是 一个 巨大 的 ， 同时 也 非常 微妙 的 行动 。
+This was a massive and , at the same time , very delicate operation .
+
+Label: False
+随着 经济 利益 的 推动 ， 减少 污染物 排放 从 政府 的 强制性 行为 转变 为 有意识 的 市场 行为 ， 以 真正 保护环境 、 自然 和 公共卫生 。
+With the economic interests drive , to reduce contaminants ' discharge has shifted from the government ' s mandatory behavior into a conscious market behavior , so as to truly protect the environment , nature and public health .
+随着 经济 利益 的 推动 ， 减少 污染物 排放 从 政府 的 强制性 行为 转变 为 有意识 的 市场 行为 ， 以 真正 保护环境 、 自然 和 公共卫生 。
+With the economic interests drive , to reduce pollutants ' discharge has shifted from the government ' s mandatory behavior into a conscious market behavior , so as to truly protect the environment , nature and public health .
+
+Label: False
+昨天 ， 菲律宾 中央 警察 进入 Leyte 地区 的 监狱 ， 杀死 一名 " 试图 袭击 警察 " 的 囚犯 。
+Yesterday , the central Philippine police entered the jail of Leyte area , killing a prisoner who " attempted to assault the police " .
+昨天 ， 菲律宾 中央 警察 进入 Leyte 地区 的 监狱 ， 杀死 一名 " 试图 袭击 警察 " 的 囚犯 。
+Yesterday , the central Philippine police entered the prison of Leyte area , killing a prisoner who " attempted to assault the police " .
+
+Label: True
+上周五 ， 六家 慈善 组织 《 救助 难民 》 和 L ' Auberge   des   Transnational 》 估计 ， 在 夏季 入境 人数 急剧 增加 之后 ， Jungle 营地 的 人数 已 增至 9 , 000 多人 ， 这是 有史以来 最高 的 。
+Six charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+上周五 ， 两名 慈善 组织 " 救助 难民 " 和 L ' Auberge   des   Transnational " 估计 ， 在 夏季 抵达 人数 急剧 增加 之后 ， Jungle 营地 的 人数 已 增至 9   000 多人 ， 这是 有史以来 最高 的 。
+Two charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+
+Label: True
+目前 ， 新疆 已 进入 旅游 高峰 季节 ， 为 规范 旅游 FIT 市场 的 经营 秩序 ， 乌鲁木齐 市 旅游 执法 部队 昨天 与 乌鲁木齐 交通管理局 执法 分队 合作 ， 调查 和 处理 旅游 FIT 市场 上 不 规范 的 旅游 车辆 ， 以及 旅行社 与 旅游者 签订 的 低 合同 。
+Currently , Xinjiang has entered peak tourist season . In order to regulate the management order of tourism FIT market , Urumqi City Tourism Laws Enforcement Detachment worked with the law enforcement detachment of the Urumqi transportation authority yesterday to investigate and deal with the non - normative travel vehicles existent in the tourism FIT market , and the low contract signing between the travel agency and tourists .
+目前 ， 新疆 已 进入 旅游 高峰 季节 ， 为 规范 旅游 FIT 市场 的 经营 秩序 ， 乌鲁木齐 市 旅游 执法 分队 昨天 与 乌鲁木齐 交通管理局 执法 分队 合作 ， 调查 和 处理 旅游 FIT 市场 上 不 规范 的 旅游 车辆 ， 以及 旅行社 与 旅游者 签订 的 低 合同 。
+Currently , Xinjiang has entered peak tourist season . In order to regulate the management order of tourism FIT market , Urumqi City Tourism Law Enforcement Detachment worked with the law enforcement detachment of the Urumqi transportation authority yesterday to investigate and deal with the non - normative travel vehicles existent in the tourism FIT market , and the low contract signing between the travel agency and tourists .
+
+Label: True
+这 将 会 看到 肯尼 ， 他 比 霍伊 年轻 14 岁 ， 也 是 在 3 月 23 日 出生 的 （ 在 英国 体育界 似乎 是 神圣 的 日子 ， 也 是 史蒂文 · 雷丁 、 莫法 · 法拉 和 罗格 · 班纳 斯特 的 生日 ） — — 将 他 的 身高 提高 到 6 块 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 14 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+这 可以 看出 ， 肯尼 比 何尼 年轻 12 岁 ， 他 也 是 在 3 月 23 日 出生 的 （ 在 英国 体育界 似乎 是 神圣 的 日子 ， 也 是 史蒂文 · 雷丁 、 莫法 · 法拉 和 罗格 · 班纳 斯特 的 生日 ） ， 他 将 自己 的 身高 提高 到 6 块 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+
+Label: True
+如果 没有 罗宾 ， 我们 将 是 每个 人 ， 非常感谢 他 ， 他 是 世界 上 最好 的 教练 。
+Without Robin we would be everybody , so a massive thanks to him he ' s the best coach in the world .
+如果 没有 罗宾 ， 我们 就 不会 是 任何人 ， 因为 他 是 世界 上 最好 的 教练 。
+Without Robin we would be nobody , so a massive thanks to him he ' s the best coach in the world .
+
+Label: False
+他 是 一位 出色 的 赛车 大使 ， 多年 来 他 的 热情 和 魅力 一直 吸引 着 球迷 参加 这项 运动 。
+He is a wonderful ambassador for racing , his enthusiasm and charisma have been drawing fans to the sport for years .
+他 是 一位 出色 的 赛车 大使 ， 多年 来 他 的 热情 和 魅力 一直 吸引 着 球迷 参加 这项 运动 。
+He is a fantastic ambassador for racing , his enthusiasm and charisma have been drawing fans to the sport for years .
+
+Label: False
+每个 人 都 不 情愿 地 把 汤匙 浸入 褐色 的 黏液 里 .
+Everybody reluctantly dipped a spoon into the viscous brown goo .
+每个 人 都 不 情愿 地 把 汤匙 浸入 褐色 的 黏液 中 .
+Everyone reluctantly dipped a spoon into the viscous brown goo .
+
+Label: False
+候机厅 东边 和 西边 共有 20 条 线路 ， 乘客 可以 在 车票 号码 上 进行 快速 检查 和 等待 。
+There are a total of 20 channels on the east and west side of the waiting hall . Passengers can check the ticket on the ticket number for quick inspection and waiting .
+候机厅 东边 和 西边 共有 30 条 线路 ， 乘客 可以 在 车票 号码 上 进行 快速 检查 和 等待 。
+There are a total of 30 channels on the east and west side of the waiting hall . Passengers can check the ticket on the ticket number for quick inspection and waiting .
+
+Label: True
+由于 含硫 含量 高 ， 石油 产品 质量 差 ， 已 成为 造成 环境污染 的 原因 之一 。
+The petroleum products are poor in quality due to high sulphur content , which has become one of the causes of environmental pollution .
+由于 硫含量 高 ， 石油 产品 质量 差 ， 已 成为 造成 环境污染 的 原因 之一 。
+The petroleum products are poor in quality due to high sulfur content , which has become one of the causes of environmental pollution .
+
+Label: True
+Mizrachi 说 ， 如果 从 后面 靠近 ， 那么 做 的 第二件 事情 就是 转身 ， 这样 你 就 能 看到 你 的 攻击者 并 清除 火线 。
+If approached from behind , Mizrachi says , the second thing to do is turn around , so that you can see your attacker and ' clear the line of fire ' .
+Mizrachi 说 ， 如果 从 后面 走 过来 ， 首先 要 做 的 就是 转身 ， 这样 你 就 可以 看到 你 的 攻击者 并 清除 火线 。
+If approached from behind , Mizrachi says , the first thing to do is turn around , so that you can see your attacker and ' clear the line of fire ' .
+
+Label: True
+宁泽陶 在 100 米 自由式 半决赛 中 的 表现 使 许多 中国 观众 不知所措 。
+Ning Zetao ' s performance in the 100 metres freestyle semi - final has made a lot of Chinese audience speechless .
+宁泽陶 在 100 米 自由式 半决赛 中 的 表现 使 许多 中国 观众 无话可说 。
+Ning Zetao ' s performance in the 100 meters freestyle semi - final has made a lot of Chinese audience speechless .
+
+Label: True
+与 2010 年 伦敦 的 最 受欢迎 的 比较 之一 无疑 将 在 今年 更 多 地 被 指出 ： 英国 长跑 者 格雷格 · 鲁特 弗福德 和 大众 演员 尼尔 · 帕特里克 · 哈里斯 之间 的 惊人 相似 。
+One of the most popular comparisons from London 2010 is undoubtedly going to be pointed out even more this year : the striking likeness between British long jumper Greg Rutherford and popular actor Neil Patrick Harris .
+与 2012 年 伦敦 的 最 受欢迎 的 比较 之一 无疑 将 在 今年 更 多 地 被 指出 ： 英国 长跑 者 格雷格 · 鲁特 弗福德 和 受欢迎 的 演员 尼尔 · 帕特里克 · 哈里斯 非常 相似 。
+One of the most popular comparisons from London 2012 is undoubtedly going to be pointed out even more this year : the striking likeness between British long jumper Greg Rutherford and popular actor Neil Patrick Harris .
+
+Label: True
+焦虑 的 抑郁 食物 , 在 “ 一个 广场 的 肉 ”
+The Depressing Food of the Anxiety , in " A Square Meal "
+大 萧条 时期 的 食品 , 在 “ 一个 广场 的 肉 ”
+The Depressing Food of the Depression , in " A Square Meal "
+
+Label: True
+最新 的 自旋 率 目录 显示 ， 更 多 的 巨大 的 恒星 比 不 那么 大 的 恒星 缓慢 旋转 。
+The latest catalog of spin rates suggests more enormous stars spin more slowly than less massive stars .
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 恒星 慢 。
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive stars .
+
+Label: False
+2016 年 在 北海 新 项目 的 支出 预计 不到 17 亿美元 ， 而 过去 5 年 的 平均 支出 约 为 70 亿美元 。
+Less than $ 1.7 billion in spending on new projects in the North Sea is expected in 2016 , compared with an average of around $ 7 billion in the past five years .
+2016 年 在 北海 新 项目 的 支出 预计 不到 14 亿美元 ， 而 过去 5 年 的 平均 支出 约 为 70 亿美元 。
+Less than $ 1.4 billion in spending on new projects in the North Sea is expected in 2016 , compared with an average of around $ 7 billion in the past five years .
+
+Label: True
+儿子 和 女儿 的 一位 发言人 说 ， 他们 对 他 的 死亡 感到 “ 震惊 和 震惊 ” 。
+A spokesman for Sons & Daughters said they were " shocked and devastated " by his death .
+儿子 和 女儿 的 一位 发言人 说 ， 他们 被 他 的 死亡 “ 震惊 和 破坏 ” 。
+A spokesperson for Sons & Daughters said they were " shocked and devastated " by his death .
+
+Label: True
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题   - -   - -   例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距   - -   - -   是 雇主 、 英格兰 卫生 教育 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 协定 方面 的 认真 表现 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Educational England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题   - -   - -   例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距   - -   - -   表明 雇主 、 英格兰 卫生部 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 的 协议 如何 得到 遵守 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Education England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+
+Label: True
+根据 德国 的 声音 ， 在 视频 中 ， 一个 戴 白色 Barakella 帽 的 人 正在 阅读 《 可兰经 》 ， 提到 了 对 穆斯林 的 犯罪 ， 并 誓言 早早 攻击 一个 加拿大 城市 。
+According to the German voice , in the video , a man wearing a white Barakella hat is reading the " Koran " , referred to the crime against Muslims , and vowed to attack a Canadian city sooner .
+根据 德国 的 声音 ， 在 视频 中 ， 一个 戴 一顶 黑色 的 Barakella 帽子 的 人 正在 阅读 《 可兰经 》 ， 提到 了 针对 穆斯林 的 罪行 ， 并 发誓 早早 袭击 一个 加拿大 城市 。
+According to the German voice , in the video , a man wearing a black Barakella hat is reading the " Koran " , referred to the crime against Muslims , and vowed to attack a Canadian city sooner .
+
+Label: True
+背景 有 剧变 ， 尤其 是 8 月 技术 总监 沙恩 因 性别 主义 和 欺凌 指控 辞职 ， 以及 霍伊 和 维多利亚州 彭德尔 顿 等 巨人 人物 退休 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in August amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+背景 有 剧变 ， 尤其 是 4 月 技术 总监 沙恩 因 性别歧视 和 欺凌 指控 辞职 ， 以及 霍伊 和 维多利亚州 彭德尔 顿 等 巨人 人物 退休 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in April amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+
+Label: True
+这位 普通 的 农夫 有 一个 名叫 张彬彬 的 妻子 ， 他 是 在 本月 11 日晚 为 中国 赢得 奥运会 女子 50 米 步枪 比赛 三步走 决赛 的 银牌 。
+The ordinary farmer has a wife named Zhang Binbin , who is the one to win the three - posture final silver medal of the Olympic Games Women ' s 50 - meters rifle game for China on the evening of the 11th day of the month .
+这位 普通 的 农民 有 一个 名叫 张彬彬 的 女儿 ， 他 是 在 本月 11 日晚 为 中国 赢得 奥运会 女子 50 米 步枪 比赛 三步走 决赛 银牌 的 女儿 。
+The ordinary farmer has a daughter named Zhang Binbin , who is the one to win the three - posture final silver medal of the Olympic Games Women ' s 50 - meters rifle game for China on the evening of the 11th day of the month .
+
+Label: False
+河北省 Cixiano 基金 成立 于 2015 年 4 月 ， 也 称为 河北省 志愿人员 服务 基金会 Cixiano 基金 ， 由 河北省 Brando 筹备 委员会 发起 。
+Established in April 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+河北省 Cixiano 基金 成立 于 2015 年 8 月 ， 也 称为 河北省 志愿人员 服务 基金会 Cixiano 基金 ， 由 河北省 Brando 筹备 委员会 发起 。
+Established in August 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+
+Label: False
+22 岁 的 韩国 射箭 “ 1 号 ” 和 罗纳顿 奥运会 射箭 个人 锦标赛 冠军 Qi Fubei 获得 了 铜牌 。
+Qi Fubei , the 22 - year - old Korean archery " No . 1 " , and the Rondon Olympic Games archery individual tournament winner , won the bronze medal .
+28 岁 的 韩国 射箭 “ 1 号 ” 和 罗纳顿 奥运会 射箭 个人 锦标赛 冠军 Qi Fubei 获得 了 铜牌 。
+Qi Fubei , the 28 - year - old Korean archery " No . 1 " , and the Rondon Olympic Games archery individual tournament winner , won the bronze medal .
+
+Label: True
+就 Biles 而言 ， 本周 早些时候 22 岁 的 病毒传播 者 现在 有 一个 全新 的 意义 ：
+As for Biles , the 22 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+至于 Biles ， 从 本周 早些时候 开始 的 19 岁 的 病毒传播 现在 具有 一个 全新 的 意义 ：
+As for Biles , the 19 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+
+Label: True
+我们 在 这里 看到 警察 的 次数 是 不可思议 的 。
+The amount of times we ' ve seen the police down here is incredible .
+我们 在 这里 看到 警察 的 次数 太 多 ， 令人 难以置信 。
+The amount of times we ' ve seen the police down here is unbelievable .
+
+Label: False
+4 月份 的 货物 周转 率 每月 下降 3.6% ， 这些 地区 的 水灾 对 交通 有 一定 影响 。
+The cargo turnover growth rate in April fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+7 月 货物 周转 率 每月 下降 3.6% ， 这些 地区 的 水灾 对 交通 有 一定 影响 。
+The cargo turnover growth rate in July fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+
+Label: True
+用 其他 什么 庆祝 中央 图书馆 70 岁 生日 ？ - 新书
+Celebrating L . A . ' s Central Library ' s 70th birthday with - what else ? - a new book
+庆祝 中央 图书馆 90 岁 生日 ， 还有 什么 吗 ？ - 新书
+Celebrating L . A . ' s Central Library ' s 90th birthday with - what else ? - a new book
+
+Label: True
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 重获 八枚 奥运 金牌 并 不是 完全 有 可能 的 。
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning eight Olympic golds in one Games .
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 夺得 三枚 奥运 金牌 并 不是 完全 有 可能 的 。
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning three Olympic golds in one Games .
+
+Label: False
+阿德莱德 歌剧院 是 悉尼 的 标志性 建筑 之一 ， 由 丹麦 建筑师 乔恩 · 乌托松 设计 ， 1973 年 竣工 ， 每年 约 有 800 万 游客 抵达 。
+The Adelaide Opera House is one of Sydney ' s landmark buildings , designed by Danish architect Jorn Utzon and completed in 1973 . It witnesses the arrival of around 8 million visitors each year .
+悉尼 歌剧院 是 悉尼 的 标志性 建筑 之一 ， 由 丹麦 建筑师 乔恩 · 乌托松 设计 ， 1973 年 竣工 ， 每年 约 有 800 万 游客 抵达 。
+The Sydney Opera House is one of Sydney ' s landmark buildings , designed by Danish architect Jorn Utzon and completed in 1973 . It witnesses the arrival of around 8 million visitors each year .
+
+Label: False
+比尔 在 过去 八年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984 年 的 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Biles has spent the last eight years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984 年 的 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+
+Label: True
+在 这种 情况 下 ， Gilles   Hofstetter 律师 告诉 Le   Tribune   de   Geneve ， 刑事 调查 已经 开始 ， 这是 " 合乎逻辑 的 " 步骤 。
+A criminal investigation has been opened , a " logical " step in a situation like this , attorney Gilles Hofstetter told Le Tribune de Geneve .
+在 这种 情况 下 ， 律师 Gilles   Hofstetter 对 Le   Tribune   de   Geneve 进行 了 刑事 调查 ， 这是 " 合乎逻辑 的 " 步骤 。
+A criminal investigation has been opened , a " logical " step in a situation like this , lawyer Gilles Hofstetter told Le Tribune de Geneve .
+
+Label: True
+在 德克萨斯州 的 春春 ， 带 着 一拳 的 高尔夫 将 被 视为 失望 。
+Nothing less than heading back to her family ' s home in Spring , Texas , with a fistful of golds would be seen as a disappointment .
+在 德克萨斯州 的 春春 ， 任何 不如 回到 家人 家 的 东西 都 会 被 视为 失望 。
+Anything less than heading back to her family ' s home in Spring , Texas , with a fistful of golds would be seen as a disappointment .
+
+Label: True
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 。
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social supporting and sponsorship . " You will have a chance to go when there are really no assets now . "
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 ， “ 现在 真的 没有 资产 ， 你 就 有 机会 去 。 ”
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social support and sponsorship . " You will have a chance to go when there are really no assets now . "
+
+Label: False
+但 他 说 ， " 专家 有时 不 同意 对 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+But he said that " experts sometimes disagree on the interpretation of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these crucial national security topics . "
+但 他 说 ， " 专家 有时 不 同意 对 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+But he said that " experts sometimes disagree on the interpretation of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these vital national security topics . "
+
+Label: True
+这些 品牌 中 的 每 一个 都 将 在 各自 的 社区 中 完全 不同 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Each one of those brands will stand for nothing quite different in their own communities , and our staff will work with customers under those brands .
+这些 品牌 中 的 每 一个 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Each one of those brands will stand for something quite different in their own communities , and our staff will work with customers under those brands .
+
+Label: True
+根据 航行 需要 ， 老 万福 河 航道 采取 养护 和 改造 的 方式 ， 在 一些 深 水段 上 进行 疏通 ， 并 切割 一些 尖锐 的 曲线 ， 以便 改善 航行 条件 。
+According to the navigation needs , the old Wanfu Rivers channel takes the mode of conservation and transformation . Dredging was conducted on some deep - water segments and some sharp curves were cut so that the navigation conditions can be improved .
+根据 航行 需要 ， 老 万福 河 航道 采取 养护 和 改造 的 方式 ， 在 一些 深 水段 上 进行 疏通 ， 并 切开 一些 尖锐 的 曲线 ， 以 改善 航行 条件 。
+According to the navigation needs , the old Wanfu River channel takes the mode of conservation and transformation . Dredging was conducted on some deep - water segments and some sharp curves were cut so that the navigation conditions can be improved .
+
+Label: True
+因此 ， 科学家 们 在 论文 中 写道 ， 格陵兰 鲨鱼 被 称为 地球 上 寿命 最长 的 脊椎动物 ， 超过 了 前 一位 长寿命 冠军 黑右 鲸 （ 211 年 ） 的 年龄 。
+The scientists thus wrote in the paper that the Greenland shark was known as the vertebrate with the longest life span on the Earth , surpassing the age of the previous longevity champion black right whale ( 211 years ) .
+因此 ， 研究 人员 在 论文 中 写道 ， 格陵兰岛 鲨鱼 被 称为 地球 上 寿命 最长 的 脊椎动物 ， 超过 了 前 一位 长寿命 冠军 黑右 鲸 （ 211 年 ） 的 年龄 。
+The researchers thus wrote in the paper that the Greenland shark was known as the vertebrate with the longest life span on the Earth , surpassing the age of the previous longevity champion black right whale ( 211 years ) .
+
+Label: True
+在 约翰 · 戈斯登 的 训练 下 ， 他 在 当地 田径比赛 中 获得 第三名 冠军 。
+He brought up the landmark with his third winner of the night at his local track - on Predilection , trained by John Gosden .
+在 约翰 · 戈斯登 的 训练 下 ， 他 在 当地 田径比赛 中 获得 了 他 的 第二名 冠军 。
+He brought up the landmark with his second winner of the night at his local track - on Predilection , trained by John Gosden .
+
+Label: True
+Brady 对 Huffington Post 说 ， 我 个人 除了 面部 的 头发 外 ， 没有 大 的 相似 。
+' I personally don ' t see a big resemblance , maybe besides the facial hair , ' Brady told Huffington Post .
+Brady 对 Huffington Post 说 ， 我 个人 看不到 巨大 的 相似 ， 也许 除了 面部 的 头发 。
+' I personally don ' t see a huge resemblance , maybe besides the facial hair , ' Brady told Huffington Post .
+
+Label: True
+根据 这一 标准 ， 上 月 开州 的 高温 日 最 多 的 人 可以 得到 315 元 ， 而 成都 的 高温 日 最少 的 人 可以 得到 80 元 人民币 ， 而且 由于 Youyang 的 最高 温度 不 符合 高温 标准 ， 所以 没有 高温 津贴 。
+In accordance with this standard , people in Kaizhou which has the largest number of high temperature days can receive 315 yuan last month . And people in Chengkou with the least days of high temperature can receive 80 yuan . And because the maximum temperature of Youyang did not meet the high temperature standards , there is no high temperature allowance .
+根据 这一 标准 ， 上 月 开州 的 高温 日 最 多 的 人 可以 得到 330 元 ， 而 程 口市 的 高温 日 最少 的 人 可以 得到 80 元 ， 而且 由于 Youyang 的 最高 温度 不 符合 高温 标准 ， 所以 没有 高温 津贴 。
+In accordance with this standard , people in Kaizhou which has the largest number of high temperature days can receive 330 yuan last month . And people in Chengkou with the least days of high temperature can receive 80 yuan . And because the maximum temperature of Youyang did not meet the high temperature standards , there is no high temperature allowance .
+
+Label: False
+据 报道 ， 连续 七年 在 卢迪 定居 的 “ 湖南 博览会 ” 是 湖南 路易迪 制造业 的 坚实 基础 。
+It is reported that the fact for " Hunan Exposition " to be settled in Loudi for seven consecutive years is the strong foundation of the manufacturing industry in Loudi , Hunan , which boasted long history of industrial development .
+据 报道 ， 连续 七年 在 卢迪 定居 的 “ 湖南 博览会 ” 的 原因 是 湖南 路易迪 制造业 的 坚实 基础 。
+It is reported that the reason for " Hunan Exposition " to be settled in Loudi for seven consecutive years is the strong foundation of the manufacturing industry in Loudi , Hunan , which boasted long history of industrial development .
+
+Label: False
+据 报道 ， 乌鲁木齐 市 旅游 执法 部队 已经 调查 了 一些 独立 旅游者 集中 在 西部 公园 和 洪山 的 地方 。
+It is reported that the Urumqi City Tourism Laws Enforcement Detachment has investigated the places including West Park and Hongshan where the independent travelers are centralized .
+据 报道 ， 乌鲁木齐 市 旅游 执法 部队 已经 调查 了 一些 独立 旅游者 集中 在 西部 公园 和 洪山 的 地方 。
+It is reported that the Urumqi City Tourism Law Enforcement Detachment has investigated the places including West Park and Hongshan where the independent travelers are centralized .
+
+Label: True
+事实上 ， 这位 22 岁 的 张彬彬 在 16 年 的 射手 生涯 中 几乎 几次 错过 了 来之不易 的 银牌 。
+Actually , the 22 - year - old Zhang Binbin has almost missed the hard - won silver medal for several times in the 16 - year shooting career .
+事实上 ， 这位 27 岁 的 张彬彬彬 在 16 年 的 射手 生涯 中 几乎 几次 错过 了 来之不易 的 银牌 。
+Actually , the 27 - year - old Zhang Binbin has almost missed the hard - won silver medal for several times in the 16 - year shooting career .
+
+Label: True
+台北 驾驶联盟 主席 郑立正 ( Zhang Lijia ) 说 ， 自 Uber 抵达 台湾 已经 八年 了 ， 但 当局 直到 本月底 才 召开 任何 会议 ， 这 使得 司机 不能 再 等 了 。
+It has been eight years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+台北 司机 联盟 主席 郑立正 ( Zhang Lijia ) 表示 ， 自 Uber 抵达 台湾 四年 后 ， 当局 直到 本月底 才 召开 任何 会议 ， 这 使得 司机 不能 再 等 了 。
+It has been four years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+
+Label: True
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 不仅 像 女演员 阿 纳利 安 · 麦科德 （ Annalynne McCord ） 那样 夸大其词 ， 而 美国 团队 成员 阿德里安 · 纳森 （ Nathan Natan ） 则 被 认为 类似 于 约瑟夫 · 戈尔 维特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and busty hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 自夸 的 皮肤 和 金发 不仅仅 像 女演员 安娜 莱恩 · 麦科德 （ Annalynne McCord ） ， 而 美国 团队 的 纳森 · 阿德里安 （ Nathan Adrian ） 则 被 球迷 说 成 类似 于 约瑟夫 · 列维 特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and blonde hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+
+Label: False
+对 安卡拉 来说 ， 呼吁 停火 的 好处 显而易见 。
+For Ankara the benefits of calling a ceasefire are clear .
+对 安卡拉 来说 ， 呼吁 停战 的 好处 是 显而易见 的 。
+For Ankara the benefits of calling a truce are clear .
+
+Label: True
+第三组 ： 这支 球队 有 三个 体操 运动员 ， 西蒙 · 比尔 斯 、 加比 · 道格拉斯 和 劳伦 · 劳里 · 埃尔南德斯 ， 他们 激励 了 如此 多 的 年轻 的 颜色 姑娘 。
+And third : This team features three gymnasts , Simone Biles , Gabby Douglas and Lauren " Laurie " Hernandez , who have been inspiring so many young girls of color .
+第二 ： 这支 球队 有 三个 体操 运动员 ， 西蒙 · 比尔 斯 、 加比 · 道格拉斯 和 劳伦 · 劳里 · 埃尔南德斯 ， 他们 激励 了 如此 多 的 年轻 的 颜色 姑娘 。
+And second : This team features three gymnasts , Simone Biles , Gabby Douglas and Lauren " Laurie " Hernandez , who have been inspiring so many young girls of color .
+
+Label: False
+国家 统计数据 显示 ， 7 月份 保加利亚 的 通货膨胀率 为 3% 。
+Inflation in Bulgaria was 3 % on a monthly basis in July , national statistics show .
+国家 统计数据 显示 ， 7 月份 保加利亚 的 通货膨胀率 为 1% 。
+Inflation in Bulgaria was 1 % on a monthly basis in July , national statistics show .
+
+Label: False
+莫斯科 市 警察 旅长 雷萨科夫 说 ， 近年来 ， 莫斯科 的 城市 环境 和 旅游 环境 越来越 好 ， 吸引 了 越来越 多 的 外国 游客 。
+Lei Sakov , the brigade captain of the Moscow city police said that in recent years , Moscow ' s urban environment and tourism ambiance have become better and better , attracting more and more foreign tourists .
+莫斯科 市 警察 旅长 雷萨科夫 说 ， 近年来 ， 莫斯科 的 城市 环境 和 旅游 环境 越来越 好 ， 吸引 了 越来越 多 的 外国 游客 。
+Lei Sakov , the brigade captain of the Moscow city police said that in recent years , Moscow ' s urban environment and tourism ambience have become better and better , attracting more and more foreign tourists .
+
+Label: False
+洛杉矶 中央 图书馆 呼吸 建筑 的 前排 座位
+A front - row seat to the breathtaking architecture of the Los Angeles Central Library
+洛杉矶 中央 图书馆 惊人 建筑 的 前排 座位
+A front - row seat to the stunning architecture of the Los Angeles Central Library
+
+Label: True
+在 向 地方 和 地区 的 竞选 领袖 提出 申诉 后 ， 波尔 迪尼 了解 到 ， 至少 还有 八人 在 菲利浦 身上 也 经历 过 同样 的 事情 。
+After complaining to local and regional campaign leadership , Bordini learned that at least eight other people had experience the same thing with Phillip , according to the filing .
+在 向 地方 和 地区 的 竞选 领袖 投诉 后 ， 波尔 迪尼 了解 到 ， 至少 有 另外 四人 在 菲利浦 也 经历 过 同样 的 事情 。
+After complaining to local and regional campaign leadership , Bordini learned that at least four other people had experience the same thing with Phillip , according to the filing .
+
+Label: False
+考虑 要求 选民 在 投票 前 出示 身份证 的 选项 。
+Consider the options for requiring voters to produce ID before vote .
+考虑 要求 选民 在 投票 前 出示 身份证 的 选项 。
+Consider the options for requiring voters to produce ID before voting .
+
+Label: True
+Qindal   Huadicheng 湿地 温泉 旅游区 位于 1 号 、 林海 科 、 滨海 公路 、 金州市 Dayou 经济 开发区 ， 离 林海 市区 50 公里 ， 离 Panjin 市 70 公里 。
+The Qriental Huadicheng Wetlands Hot Spring tourist area is located at No . 1 , Linghai Section , Binhai Highway , Dayou Economic Development Zone , Jinzhou City . It is 50 km away from the Linghai downtown area and 70 km from Panjin City .
+Qindal   Huadicheng   Webland   Spring 旅游区 位于 1 号 、 Linghai 科 、 Binhai 公路 、 金州市 Dayou 经济 开发区 ， 离 Linghai 市区 50 公里 ， 离 Panjin 市 70 公里 。
+The Qriental Huadicheng Wetland Hot Spring tourist area is located at No . 1 , Linghai Section , Binhai Highway , Dayou Economic Development Zone , Jinzhou City . It is 50 km away from the Linghai downtown area and 70 km from Panjin City .
+
+Label: True
+这部 电影 预计 将 于 明年 年初 在 中央电视台 和 Letv 放映 ， 并 将 再次 推出 一个 全景 纪录片 。
+The film is expected to premiere on CCTV and Letv early next year . A VR panoramic documentary version will also be launched for the second time .
+这部 电影 预计 将 于 明年 年初 在 中央电视台 和 Letv 上 首映式 。
+The film is expected to premiere on CCTV and Letv early next year . A VR panoramic documentary version will also be launched for the first time .
+
+Label: False
+截至 今年 4 月 11 日 ， 新华社 共 搭乘 221 辆 货运 列车 和 10   009 辆 汽车 ， 共 运送 了 338   000 吨 货物 ， 其中 84 辆 货运 列车 在 2016 年 开始 运营 ， 逐年 增加 47% 。
+As of April 11 this year , the Xinzhu station luanched a total of 221 freight trains and 10,009 vehicles . A total of 338,000 tons of goods have been transported . Among them , 84 freight trains began operation in 2016 , a year - on - year increase of 47 % .
+截至 今年 8 月 11 日 ， 新华社 共 搭乘 221 辆 货运 列车 和 10   009 辆 汽车 ， 共 运送 了 338   000 吨 货物 ， 其中 84 辆 货运 列车 于 2016 年 开始 运营 ， 逐年 增加 47% 。
+As of August 11 this year , the Xinzhu station luanched a total of 221 freight trains and 10,009 vehicles . A total of 338,000 tons of goods have been transported . Among them , 84 freight trains began operation in 2016 , a year - on - year increase of 47 % .
+
+Label: True
+目前 有 八个 火星 轨道 飞行器 和 两个 火星 漫游者 在 工作 ， 但 只有 一个 月球 轨道 飞行器 和 一个 月球 着陆器 在 工作 。
+There are currently eight Mars orbiters and two Mars rovers at work , but only one lunar orbiter and one lunar lander are at work .
+目前 有 5 个 火星 轨道 飞行器 和 2 个 火星 探测器 在 工作 ， 但 只有 1 个 月球 轨道 飞行器 和 1 个 月球 登陆器 在 工作 。
+There are currently five Mars orbiters and two Mars rovers at work , but only one lunar orbiter and one lunar lander are at work .
+
+Label: False
+像 奥运会 一样 ， 盖茨 维克 是 许多 人 的 基础设施 项目 ， 而 不仅仅 是 少数 人 。
+Like the Olympics , Gatwick is an infrastructure project for the many , not just the few .
+和 奥运会 一样 ， 希思罗 是 许多 人 的 基础设施 项目 ， 而 不仅仅 是 少数 人 。
+Like the Olympics , Heathrow is an infrastructure project for the many , not just the few .
+
+Label: False
+尽管 这种 外部性 增强 ， 但 这 只 乌龟 的 嘴 是 脆弱 的 ， 当 它 受伤 时 可能 会 被 打破 。
+Despite this external reinforcement , the toucan ' s beak is fragile and may be broken when it is hurt .
+尽管 有 了 这种 内部 增强 ， 但 这 只 乌龟 的 嘴 是 脆弱 的 ， 当 它 受伤 时 可能 被 打破 。
+Despite this internal reinforcement , the toucan ' s beak is fragile and may be broken when it is hurt .
+
+Label: False
+在 居住 许可 带来 的 便利 方面 ， 各 城市 的 " 银色 内容 " 不同 ， 与 国家 规定 相比 ， 一些 地区 提供 了 更 多 的 公共服务 和 便利 。
+In the aspect of conveniences brought by residence permit , the " silver content " is different in various cities . Compared with the national provisions , some areas have provided more public services and conveniences , according to Chinanews . com journalists .
+在 居住 许可 带来 的 便利 方面 ， 各 城市 的 " 黄金 内容 " 不同 ， 与 国家 规定 相比 ， 一些 地区 提供 了 更 多 的 公共服务 和 便利 。
+In the aspect of conveniences brought by residence permit , the " gold content " is different in various cities . Compared with the national provisions , some areas have provided more public services and conveniences , according to Chinanews . com journalists .
+
+Label: True
+如果 工人 在 高温 天气 下 停止 工作 和 减少 工作 时间 ， 雇主 不得 扣减 或 减少 其 工资 。
+Employer shall not deduct or reduce the wages of workers in case of terminating working and reducing working hours in high temperature weather .
+用人单位 在 高温 天气 下 ， 终止 工作 、 减少 工作 时间 的 ， 不得 扣减 或者 减少 劳动者 的 工资 。
+Employer shall not deduct or reduce the wages of workers in case of terminating work and reducing working hours in high temperature weather .
+
+Label: False
+埃里克 爵士 说 ： “ 去年 在 Towers Hamlet 的 法院 裁决 是 一个 叫醒 的 电话 。
+Sir Eric said : " Last year ' s court ruling in Towers Hamlets was a wake - up call .
+埃里克 爵士 说 ： “ 去年 在 Tower Hamlet 的 法院 裁决 是 一个 叫醒 的 电话 。
+Sir Eric said : " Last year ' s court ruling in Tower Hamlets was a wake - up call .
+
+Label: True
+在 最后 决定 没有 什么 她 喜欢 的 东西 之前 ， 她 又 做 了 8 对 同样 的 事情 ， 她 又 穿 了 衣服 ， 走 了 出去 。
+She did the same with eight more pairs before finally deciding there was nothing she liked and she got dressed again and walked out .
+在 最后 决定 没有 什么 她 喜欢 的 东西 之前 ， 她 做 了 同样 的 事 。
+She did the same with three more pairs before finally deciding there was nothing she liked and she got dressed again and walked out .
+
+Label: False
+该 沙龙 定于 8 月 21 日 下午 3 时至 4 时 在 美国 西南部 艺术 装饰 学院 ( 前 Bullocs Wilshire ) 、 3050   Wilshire   Blvd 的 Salle   Moderne 设立 。
+The salon is set for 3 p . m . to 4 p . m . on Aug . 21 in the Salle Moderne at the Art Deco Southwestern School of Law , ( formerly Bullocks Wilshire ) , 3050 Wilshire Blvd .
+该 沙龙 定于 8 月 21 日 下午 2 时至 4 时 在 美国 西南部 艺术 装饰 学院 ( 前 Bullocs Wilshire ) 、 3050   Wilshire   Blvd 的 Salle   Moderne 设立 。
+The salon is set for 2 p . m . to 4 p . m . on Aug . 21 in the Salle Moderne at the Art Deco Southwestern School of Law , ( formerly Bullocks Wilshire ) , 3050 Wilshire Blvd .
+
+Label: True
+此外 ， 还 为 整个 家庭 增加 了 现有 的 " 神圣 施舍 " 、 " 黑子 之母 " 的 延续 。
+In addition to the continuation of the existing " Sacrificial Offering Grabbing " , " Parent Basins for the Heap " for the entire family is also added .
+此外 ， 还 为 整个 家庭 增加 了 现有 的 " 捐赠 牧场 " 、 " 黑子 盆地 " 的 延续 。
+In addition to the continuation of the existing " Sacrificial Offering Grabbing " , " Parent Basin for the Heap " for the entire family is also added .
+
+Label: True
+《 居住证 暂行条例 》 规定 ， 对于 符合 居住证 条件 的 ， 公安机关 应当 在 申请 受理 之日起 22 天内 颁发 居留证 。
+The Residence Permit Provisional Regulations provide that , for those in line with the residence permit conditions , the public security organs shall issue a residence permit within 22 days from the date of application acceptance .
+《 居住证 暂行条例 》 规定 ， 对 符合 居留证 条件 的 ， 公安机关 应当 自 申请 受理 之日起 十五日 内 ， 发给 居留证 。
+The Residence Permit Provisional Regulations provide that , for those in line with the residence permit conditions , the public security organs shall issue a residence permit within 15 days from the date of application acceptance .
+
+Label: False
+在 过去 八年 中 ， 一名 女子 体操 运动员 是 非洲 裔 美国 人 。
+For the past eight years , the number one female gymnast has been African - American .
+在 过去 四年 中 ， 一名 女子 体操 运动员 是 非洲 裔 美国 人 。
+For the past four years , the number one female gymnast has been African - American .
+
+Label: False
+乌鲁木齐 规范 独立 游民 旅游 市场 的 经营 秩序 ， 并 表示 旅行社 必须 与 旅游者 签署 合同
+Urumqi Normalizes Operating Order of Independent Traveller Tourism Market and Says that Travel Agencies Must Sign Contracts with Tourists
+乌鲁木齐 规范 独立 旅游 市场 的 经营 秩序 ， 并 表示 旅行社 必须 与 旅游者 签署 合同
+Urumqi Normalizes Operating Order of Independent Traveler Tourism Market and Says that Travel Agencies Must Sign Contracts with Tourists
+
+Label: False
+截至 4 月底 ， 中亚 货运 列车 的 集装箱 数量 达到 64 , 000   TEU ， 比 2015 年 同期 增加 了 8% 。
+As of the end of April , the volume of container received for Sino - Asia freight trains reached 64,000 TEU , an increase of 8 % over the same period in 2015 .
+截至 7 月底 ， 中亚 货运 列车 的 集装箱 数量 达到 64 , 000   TEU ， 比 2015 年 同期 增加 了 8% 。
+As of the end of July , the volume of container received for Sino - Asia freight trains reached 64,000 TEU , an increase of 8 % over the same period in 2015 .
+
+Label: False
+地球 可能 比 地球 更 干旱 ， 但 曾经 有 足够 的 水 和 地理 变异 来 维持 生命 ， 防止 迅速 蒸发 。
+The planet likely featured more dry regions than Earth , but once had enough water and geographic variability to host life and guard against rapid evaporation .
+地球 有 可能 比 地球 更 干旱 ， 但 曾经 有 足够 的 水 和 地理 变异 来 维持 生命 ， 防止 迅速 蒸发 。
+The planet likely featured more dry regions than Earth , but once had enough water and geographical variability to host life and guard against rapid evaporation .
+
+Label: True
+去年 ， 一名 警官 在 2014 年 8 月 的 某个 晚上 在 Payterne 附近 的 A2 上 躺 了 一个 人 ， 并 被 杀 后 ， 因 疏忽 而 被判 无罪 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A2 near Paynerne one night in August 2014 .
+去年 ， 一名 警官 在 2014 年 8 月 的 某个 晚上 在 Payterne 附近 的 A1 附近 被 打死 后 ， 因 疏忽 而 被判 无罪 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A1 near Paynerne one night in August 2014 .
+
+Label: False
+2016 年 ， 新疆 火车站 整年 货物 吞吐量 达 247.7 万吨 ， 截至 2016 年 8 月 10 日 ， 货物 总量 达到 31.31 万吨 ， 比 去年同期 增长 6.7% 。
+In 2016 , the cargo throughput of the Xinzhu Railway Station of the whole year reached 2.477 million tons . As of August 10 , 2016 , the volume of cargo has reached 1.531 million tons , representing an increase of 6.7 % over the same period last year .
+2015 年 ， 新疆 火车站 整年 货物 吞吐量 达 247.7 万吨 ， 截至 2016 年 8 月 10 日 ， 货物 总量 达到 31.31 万吨 ， 比 去年同期 增长 6.7% 。
+In 2015 , the cargo throughput of the Xinzhu Railway Station of the whole year reached 2.477 million tons . As of August 10 , 2016 , the volume of cargo has reached 1.531 million tons , representing an increase of 6.7 % over the same period last year .
+
+Label: True
+在此之前 ， Hefei 第二次 提出 了 对 贷款 政策 的 限制 ， 对于 在 Hefei 拥有 两套 公寓 并 拥有 一笔 未偿 住房贷款 的 人 ， 银行 将 拒绝 他们 申请 抵押 贷款 服务 。
+Prior to that , Hefei had come the second to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing loan , they will be denied by banks in applying for mortgage services .
+在此之前 ， 合肥 首先 对 贷款 政策 进行 了 限制 ， 对于 在 合肥 拥有 两套 公寓 并 拥有 一笔 未偿 住房贷款 的 人 ， 银行 将 拒绝 他们 申请 抵押 贷款 服务 。
+Prior to that , Hefei had come the first to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing loan , they will be denied by banks in applying for mortgage services .
+
+Label: True
+与 上个月 相比 ， 2016 年 4 月 ， 以下 各类 消费品 的 价格 有所 上升 ： 食品 和 非 酒精 饮料 （ 1.7% ） ； 运输 （ 1.8% ） ； 娱乐 和 文化 （ 6.3% ） ； 餐馆 和 旅馆 （ 1.2% ） ； 杂项 商品 和 服务 （ 0.3% ） 。
+In April 2016 , compared to the previous month , an increase was observed in the price of the following groups of consumer goods : food and non - alcoholic beverages ( 1.7 % ) ; transport ( 1.8 % ) ; recreation and culture ( 6.3 % ) ; restaurants and hotels ( 1.2 % ) ; miscellaneous goods and services ( 0.3 % ) .
+与 上 一个月 相比 ， 2016 年 7 月 ， 以下 各类 消费品 的 价格 有所 上升 ： 食品 和 非 酒精 饮料 ( 1.7% ) ； 运输 ( 1.8% ) ； 娱乐 和 文化 ( 6.3% ) ； 餐馆 和 旅馆 ( 1.2% ) ； 杂项 商品 和 服务 ( 0.3% ) 。
+In July 2016 , compared to the previous month , an increase was observed in the price of the following groups of consumer goods : food and non - alcoholic beverages ( 1.7 % ) ; transport ( 1.8 % ) ; recreation and culture ( 6.3 % ) ; restaurants and hotels ( 1.2 % ) ; miscellaneous goods and services ( 0.3 % ) .
+
+Label: True
+秦富比 在 四分 决赛 中 被 张辉 打败 ， 并 与 墨西哥 选手 亚历山大 瓦伦西亚 争夺 铜牌 。
+Qi Fubei was defeated by Zhang Huizhen in the quarterfinals and competed for the bronze medal with the Mexican player Alexandra Valencia .
+秦富比 在 半决赛 中 被 张国祥 打败 ， 并 与 墨西哥 选手 亚历山大 瓦伦西亚 争夺 铜牌 。
+Qi Fubei was defeated by Zhang Huizhen in the semifinals and competed for the bronze medal with the Mexican player Alexandra Valencia .
+
+Label: False
+我们 已经 失去 了 许多 世界冠军 ， 所以 再次 赢得 奥运会 只是 非常 棒 。
+We ' ve been losing out on so many world titles , so to win the Olympics again is just awesome .
+我们 已经 失去 了 许多 世界冠军 ， 所以 再次 赢得 奥运会 真是 惊人 。
+We ' ve been losing out on so many world titles , so to win the Olympics again is just amazing .
+
+Label: True
+青岛 环境保护局 副局长 韩鸿阳 ( Han Hongyan ) 表示 ， 非法 和 过度 污水 的 企业 必须 依照 有关 法律 和 条例 受到 惩罚 ， 不 可能 允许 企业 通过 购买 排放 权 规避 处罚 。
+Firms of illegal and excessive sewage must be punished in accordance with the relevant laws and regulations , according to Han Hongyan , deputy director of Qingdao Environmental Protection Bureau . It is impossible to allow enterprises to circumvent punishments via purchasing emission rights .
+青岛 环境保护局 副局长 韩洪阳 ( Han Hongyan ) 表示 ， 非法 和 过度 污水 的 公司 必须 依照 有关 法律 和 条例 受到 惩罚 ， 不 可能 允许 企业 通过 购买 排放 权 规避 处罚 。
+Companies of illegal and excessive sewage must be punished in accordance with the relevant laws and regulations , according to Han Hongyan , deputy director of Qingdao Environmental Protection Bureau . It is impossible to allow enterprises to circumvent punishments via purchasing emission rights .
+
+Label: False
+这些 透镜 是 钝 的 ， 特征 扭曲 的 工具 ， 每天 产生 2   000 多万个 强化 的 自我 。
+The lenses are blunt , feature - warping tools that generate more than 20 million enhanced selfies a day .
+这些 透镜 是 钝 的 ， 特征 扭曲 的 工具 ， 每天 产生 3   000 多万个 强化 的 自我 。
+The lenses are blunt , feature - warping tools that generate more than 30 million enhanced selfies a day .
+
+Label: False
+“ 因此 ， AGL 继续 预计 合同 将 在 第 22 财政年度 为 收益 做出 贡献 ， ” 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 22 , " the power company said .
+“ 因此 ， AGL 继续 预计 合同 将 在 第 17 财政年度 为 收益 做出 贡献 ， ” 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 17 , " the power company said .
+
+Label: False
+我们 还有 很多 人 希望 了解 恒星 如何 、 何时 和 为何 减缓 自旋 速度 并 悬挂 其 “ 舞鞋 ” ， 这样 说 。
+We still have a lot we want to learn about how , when and why stars slow their spin rates and hang up their ' dancing shoes , ' so to speak .
+我们 还有 很多 人 希望 了解 恒星 如何 、 何时 和 为何 减缓 自旋 速度 并 悬挂 其 “ 舞鞋 ” ， 这样 说 。
+We still have a lot we want to learn about how , when and why stars slow their spin rates and hang up their ' dance shoes , ' so to speak .
+
+Label: False
+去年 ， 2005 年 实施 了 “ 8.13 ” 汇率 改革 前 的 最后 一项 汇款 改革 措施 ， 在 过去 10 年 中 ， 人民币 对 美元 升值 幅度 很大 。
+Last year , the last remittance reform measure before the " 8.13 " exchange rate reform was carried out in 2005 . The appreciation of yuan against the US dollar was significant during the last 10 years .
+去年 ， 2005 年 实施 了 “ 8.11 ” 汇率 改革 前 的 最后 一项 汇款 改革 措施 ， 在 过去 10 年 中 ， 人民币 对 美元 升值 幅度 很大 。
+Last year , the last remittance reform measure before the " 8.11 " exchange rate reform was carried out in 2005 . The appreciation of yuan against the US dollar was significant during the last 10 years .
+
+Label: True
+Mortimer 先生 说 ： “ 工业 行动 几乎 没有 什么 效果 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or something , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+Mortimer 说 ： “ 工业 行动 很少 或 什么 都 没有 实现 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or nothing , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+
+Label: False
+林泉 还 宣布 ， " 廉政公署 副局长 " 将 担任 Ill - goten 党 资产 结算 委员会 副 主席 。
+Lin Quan also announced that Kong Peigen , " Deputy Director of the Independent Commission against Corruption " , will serve as the vice chairman of the Ill - gotten Party Assets Settlement Committee .
+林泉 还 宣布 ， " 廉政公署 副局长 " 将 担任 Ill - goten 党 资产 结算 委员会 副 主席 。
+Lin Quan also announced that Hong Peigen , " Deputy Director of the Independent Commission against Corruption " , will serve as the vice chairman of the Ill - gotten Party Assets Settlement Committee .
+
+Label: False
+此次 列车 的 发射 表明 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launching of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+这列 列车 的 发射 标志 着 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+
+Label: False
+多达 250 张 选票 是 可疑 的 或者 是 个人化 的 结果 ， 在 这种 情况 下 ， 一个 人 在 以 其他人 的 身份 投票 。
+Up to 250 votes were dubious or the result of personation , where a person votes while posing as someone else .
+多达 300 张 选票 是 可疑 的 或者 是 个人化 的 结果 ， 在 这种 情况 下 ， 一个 人 在 以 其他人 的 身份 投票 。
+Up to 300 votes were dubious or the result of personation , where a person votes while posing as someone else .
+
+Label: False
+在 上周 在 内布拉斯加州 奥马哈 举行 的 一次 Hillary 集会 上 ， 巴菲特 ( Berkshire Hathaway ) 所在 的 伯克夏 集团 ( Hathaway ) 向 特朗普 提出 了 要求 ， 要求 他 支付 和 兑换 税款 。
+At a Hillary rally last week in Omaha , Nebraska , Buffett , whose Berkshire Hathaway conglomerate is based there , challenged Trump to meet and exchange tax returns .
+在 上周 在 内布拉斯加州 奥马哈 举行 的 克林顿 集会 上 ， 巴菲特 ( Berkshire Hathaway ) 所在 的 伯克夏 集团 ( Hathaway ) 向 特朗普 提出 了 要求 ， 要求 他 支付 和 兑换 税款 。
+At a Clinton rally last week in Omaha , Nebraska , Buffett , whose Berkshire Hathaway conglomerate is based there , challenged Trump to meet and exchange tax returns .
+
+Label: False
+张小龙 对 记者 说 ， 她 的 妻子 一直 是 一个 安静 和 行为 良好 的 孩子 ， 爱好 绘画 和 制作 玩具 。
+Zhang Xiaolong told reporters that her wife has always been a quiet and well - behaved child , with the hobbies of painting and making toys .
+张小龙 对 记者 说 ， 她 的 女儿 一直 是 一个 安静 和 行为 良好 的 孩子 ， 爱好 绘画 和 制作 玩具 。
+Zhang Xiaolong told reporters that her daughter has always been a quiet and well - behaved child , with the hobbies of painting and making toys .
+
+Label: False
+奥巴马 总统 也 支持 这一 提议 。
+President Obama Obama also backs the proposal .
+奥巴马 总统 也 支持 这一 提议 。
+President Barack Obama also backs the proposal .
+
+Label: True
+这 不是 一次 巨大 的 会议 ， 不是 阿森特 皇家 的 会议 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a huge meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一个 大 会议 ， 不是 皇家 阿森特 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+
+Label: False
+叙利亚 民主 力量 ( SDF ) 在 剩下 的 一群 在 该市 被 掩埋 的 武装 分子 离开 后 ， 现在 正在 全城 扫荡 。
+Syria Democracy Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+叙利亚 民主 力量 ( SDF ) 在 剩下 的 一群 在 该市 被 掩埋 的 武装 分子 离开 后 ， 现在 正在 全城 扫荡 。
+Syria Democratic Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+
+Label: False
+自 2010 年 以来 ， 伊万诺夫 的 副手 安东 · 瓦诺 被 任命 为 他 的 继任者 。
+Mr Ivanov ' s deputy since 2010 , Anton Vaino , has been appointed as his successor .
+2012 年 以来 ， 伊万诺夫 的 副手 安东 · 瓦诺 被 任命 为 他 的 继任者 。
+Mr Ivanov ' s deputy since 2012 , Anton Vaino , has been appointed as his successor .
+
+Label: True
+在 研究 包括 食谱 在内 的 这 本书 时 ， 齐格 尔曼 女士 准备 了 一盘 由 花生 黄油 制成 的 烘烤 手镯 。
+In researching the book , which includes recipes , Ms . Ziegelman prepared a period dish of baked celery stuffed with peanut butter .
+在 研究 包括 食谱 在内 的 这 本书 时 ， 齐格 尔曼 女士 准备 了 一盘 含有 花生 黄油 的 烘烤 洋葱 。
+In researching the book , which includes recipes , Ms . Ziegelman prepared a period dish of baked onion stuffed with peanut butter .
+
+Label: False
+自 四月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 周 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since April , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+自 2 月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 个 星期 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+
+Label: False
+警察 对 示威者 使用 催泪瓦斯 和 橡皮 子弹 。
+Police used tear gas and rubber bullets against the demonstrators .
+警察 对 抗议者 使用 催泪瓦斯 和 橡皮 子弹 。
+Police used tear gas and rubber bullets against the protesters .
+
+Label: False
+但是 当 他 和 他 的 妻子 一起 参加 “ 爸爸 ， 我们 去 哪儿 ？ ” 他 变成 了 一个 焦点 。
+But when he took along his wife to participate in the variety show " Dad , Where Are We Going ? " he became a focus .
+但是 当 他 和 他 的 女儿 一起 参加 “ 爸爸 ， 我们 去 哪儿 ？ ” 他 变成 了 一个 焦点 。
+But when he took along his daughter to participate in the variety show " Dad , Where Are We Going ? " he became a focus .
+
+Label: False
+2012 年 4 月 ， 在 罗纳顿 奥运会 严重 失败 后 ， 杜李 宣布 了 国际 射击 体育 联合会 的 临时 退休 申请 。
+In April 2012 , after a serious failure at the Rondon Olympic Games , Du Li announced the application for a temporary retirement to the International Shooting Sport Federation .
+2012 年 8 月 ， 在 罗纳顿 奥运会 严重 失败 后 ， 杜李 宣布 了 国际 射击 体育 联合会 的 临时 退休 申请 。
+In August 2012 , after a serious failure at the Rondon Olympic Games , Du Li announced the application for a temporary retirement to the International Shooting Sport Federation .
+
+Label: False
+去年 以来 ， 中国 国淀 公司 共 从 连云港 向 南非 出口 了 129 套 风力 发电 项目 。
+Since last year , China Guodian Corporation has exported a total of 129 sets of wind power projects from Lianyungang Port to South Africa .
+去年 以来 ， 中国 国淀 公司 共 从 连云港 向 南非 出口 了 163 套 风力 发电 项目 。
+Since last year , China Guodian Corporation has exported a total of 163 sets of wind power projects from Lianyungang Port to South Africa .
+
+Label: True
+好像 斐济 生来 玩 8s ， 而 GB 仍然 在 学习 贸易 。
+It was as if Fiji had been born to play 8s , while GB are still learning the trade .
+就 好像 斐济 出生 的 时候 打 了 7 分 ， 而 GB 仍然 在 学习 贸易 。
+It was as if Fiji had been born to play 7s , while GB are still learning the trade .
+
+Label: True
+在 每 划艇 的 银器 背后 都 是 一个 意志 的 手 ， 它 能 带来 进步 的 结果 ， 没有 一个 人 比 一个 30 个 月 前 不 知道 他 在 诊断 癌症 时 是否 会 活下去 的 教练 更 有 帮助 。
+Behind every rowing silver is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+在 每排 黄金 的 背后 ， 都 是 一个 意志 的 手 ， 贡献 着 不断 增加 的 好处 ， 没有 一个 人 比 一个 30 个 月 前 不 知道 他 是否 会 在 诊断 出 癌症 的 今天 活下去 的 教练 更 有 帮助 。
+Behind every rowing gold is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+
+Label: False
+据 日本 外交部 官员 称 ， 这次 非洲 会议 将 有助于 吸引 非洲 和 欧洲 国家 到 日本 参加 。
+This African conference will help draw attentions of African and European countries to Japan , according to Japanese Foreign Ministries officials .
+日本 外交部 官员 表示 ， 这次 非洲 会议 将 有助于 吸引 非洲 和 欧洲 国家 到 日本 参加 。
+This African conference will help draw attentions of African and European countries to Japan , according to Japanese Foreign Ministry officials .
+
+Label: False
+国家 卫生 与 计划生育 委员会 和 国家医药管理局 将 及时 对 部分 省 的 监督 检查 工作 进行 监督 检查 。
+The National Health and Family Planning Commission and the State Administration of Traditional Chinese Medicine will timely carry out supervision and examination on the supervision and inspection working of some provinces .
+国家 卫生 与 计划生育 委员会 和 国家医药管理局 将 及时 对 部分 省 的 监督 检查 工作 进行 监督 检查 。
+The National Health and Family Planning Commission and the State Administration of Traditional Chinese Medicine will timely carry out supervision and examination on the supervision and inspection work of some provinces .
+
+Label: True
+与 许多 互联网 医疗 公司 不同 的 是 ， iBaby 专注 于 互联网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical firms which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+与 许多 从事 大型 医疗 项目 的 因特网 医疗 公司 不同 ， iBaby 侧重于 因特网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical companies which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+
+Label: True
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一个 新 的 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak colour , but retained the original white color of the 3D print material .
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一种 新 的 胡须 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak color , but retained the original white color of the 3D print material .
+
+Label: False
+商业银行 ( Commerzbank ) 商品 研究 主管 欧根 ?
+It is deemed very unlikely by people that OPEC tries to stabilize the market through the April meeting , according to Eugen Weinberg , director of commodity research at Commerzbank .
+商业银行 ( Commerzbank ) 商品 研究 主管 欧根 ?
+It is deemed very unlikely by people that OPEC tries to stabilize the market through the September meeting , according to Eugen Weinberg , director of commodity research at Commerzbank .
+
+Label: True
+Lingshui 交通部 交通管理 站 负责人 王文尼 说 ， Lingshui 交通部门 开始 纠正 非法 经营 的 三轮车 ， 共 禁止 609 辆 非法 操作 的 客货 三轮车 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 609 passenger tricycles of illegal operation .
+Lingshui 交通部 交通管理 站 负责人 王文尼 说 ， Lingshui 交通部门 开始 纠正 非法 经营 的 三轮车 ， 共 禁止 613 辆 非法 经营 的 客轮 三轮车 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 613 passenger tricycles of illegal operation .
+
+Label: False
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 威尔士 ， RBS 品牌 与 该行 的 全球 野心 相关 。
+Ross McEwan told BBC Wales that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 苏格兰 ， RBS 品牌 与 该行 的 全球 野心 有 关联 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank ' s global ambitions .
+
+Label: False
+该 事件 在 星期一 在 夏洛特 州 法院 提起 的 诉讼 中 得到 了 该 州 竞选 的 前 软件 培训 员 Vincent Bordini 的 描述 。
+The incident was described in a lawsuit filed on Monday in state court in Charlotte by Vincent Bordini , a former software trainer for the state campaign .
+该 事件 在 周三 在 夏洛特 州 法院 提起 的 诉讼 中 得到 了 该 州 竞选 的 前 软件 培训 员 Vincent Bordini 的 描述 。
+The incident was described in a lawsuit filed on Wednesday in state court in Charlotte by Vincent Bordini , a former software trainer for the state campaign .
+
+Label: True
+云南省 第二届 青年 奥运会 开幕 仪式 于 本月 13 日 举行 ， 展示 了 青年 的 活力
+The opening ceremony of the second Youth Games of Yunnan Province on the 13thday of the month showed youth vitality
+云南省 首届 青年 运动会 于 本月 13 日 开幕 ， 展示 了 青年 的 活力
+The opening ceremony of the first Youth Games of Yunnan Province on the 13thday of the month showed youth vitality
+
+Label: False
+此外 ， 与 天亮 、 刘徐 、 杨佳 等 在 山峰 上 的 退出 相比 ， 宁泽陶 在 经历 了 23 次 挫折 后 的 退出 将 对 其 形象 的 负面影响 造成 无法估量 的 影响 。
+Moreover , compared with the withdrawal of Tian Liang , Liu Xuan and Yang Jia , etc . at their peaks , the withdrawal of Ning Zetao at 23 after some setback would cause immeasurable effects to the negative influence of his image .
+此外 ， 与 天亮 、 刘徐 、 杨伟 等 在 山峰 上 的 退出 相比 ， 宁泽陶 在 经历 了 23 次 挫折 后 的 退出 将 对 其 形象 的 负面影响 造成 无法估量 的 影响 。
+Moreover , compared with the withdrawal of Tian Liang , Liu Xuan and Yang Wei , etc . at their peaks , the withdrawal of Ning Zetao at 23 after some setback would cause immeasurable effects to the negative influence of his image .
+
+Label: False
+在 5 分钟 的 津贴 后 ， 利凡 将 2 - 1 分 保留 到 决赛 结束 ， 并 在 客场 打败 了 郭安 。
+After the 5 - minute allowance , Lifan kept the 2-1 score until the end of the final and defeated Guoan in the visiting field .
+在 4 分钟 的 津贴 后 ， 利凡 将 2 - 1 分 保留 到 决赛 结束 ， 并 在 客场 打败 了 郭安 。
+After the 4 - minute allowance , Lifan kept the 2-1 score until the end of the final and defeated Guoan in the visiting field .
+
+Label: True
+在 云南省 举行 的 第二届 青年 奥运会 将 于 8 月 13 日至 22 日 在 德洪族自治省 曼戈什 市 举行 。
+The second Youth Games in Yunnan Province will be held from August 13 to August 22 in Mangshi City , Dehong Autonomous Prefecture .
+在 云南省 举行 的 第一次 青年 奥运会 将 于 8 月 13 日至 22 日 在 德洪族自治省 的 芒石 市 举行 。
+The first Youth Games in Yunnan Province will be held from August 13 to August 22 in Mangshi City , Dehong Autonomous Prefecture .
+
+Label: True
+2014 年初 ， 中央电视台 的 一位 记者 王祥 在 接受 调查 后 发现 ， 尽管 兰玉丰 ( 坐在 走廊 600 多天 ) 被 媒体 镇压 的 悲剧 英雄 所 塑造 ， 但 这些 报道 有 很多 虚假 信息 。
+At the beginning of 2014 , Wang Xiang ' an , a reporter of CCTV found after his survey that although the Lan Yuefeng event ( sitting in the corridor for more than 600 days ) was shaped as the tragic hero suppressed by the media , these reports had a lot of false information .
+2014 年初 ， 中央电视台 的 一位 记者 王志安 在 调查 后 发现 ， 尽管 兰玉丰 ( 坐在 走廊 600 多天 ) 被 媒体 镇压 的 悲剧 英雄 所 塑造 ， 但 这些 报道 有 很多 虚假 信息 。
+At the beginning of 2014 , Wang Zhi ' an , a reporter of CCTV found after his survey that although the Lan Yuefeng event ( sitting in the corridor for more than 600 days ) was shaped as the tragic hero suppressed by the media , these reports had a lot of false information .
+
+Label: False
+公共 体育 设施 补编
+The Supplement of Public Sports Facility
+公共 体育设施 补编
+The Supplement of Public Sports Facilities
+
+Label: True
+苏格兰 皇家 银行 已经 表示 ， 它 不会 继续 支持 8 个 国家 ， 并且 一直 在 提高 不同 品牌 在 其 体育 赞助 中 的 形象 。
+RBS had already stated that it would not to continue its Eight Nations sponsorship , and it has been raising the profile of different brands in its sports sponsorship .
+苏格兰 皇家 银行 已经 表示 ， 它 将 不再 继续 它 的 六 国 赞助 ， 并且 一直 在 提高 不同 品牌 在 其 体育 赞助 中 的 形象 。
+RBS had already stated that it would not to continue its Six Nations sponsorship , and it has been raising the profile of different brands in its sports sponsorship .
+
+Label: False
+由于 每 22 个 月 只有 一个 火星 探测器 的 时间 窗口 ， 专家 们 正在 密切 研究 项目 计划 ， 并 试图 在 2020 年 发射 第一颗 火星 探测器 。
+Because there is only one time window for the Mars probe in every 22 months , experts are closely working on the project plan and try to launch the first Mars probe in 2020 .
+由于 每 26 个 月 只有 一个 火星 探测器 的 时间 窗口 ， 专家 们 正在 密切 研究 项目 计划 ， 并 试图 在 2020 年 发射 第一颗 火星 探测器 。
+Because there is only one time window for the Mars probe in every 26 months , experts are closely working on the project plan and try to launch the first Mars probe in 2020 .
+
+Label: False
+浮出 一个 理论 ： 根据 这个 用户 ， 也许 这 对 的 相似 外观 背后 有 一个 事实
+Floating a theory : According to this user , perhaps there is a fact behind the pair ' s similar looks
+浮出 一个 理论 ： 根据 这个 用户 ， 也许 这 对 的 相似 外观 背后 有 一个 原因
+Floating a theory : According to this user , perhaps there is a reason behind the pair ' s similar looks
+
+Label: False
+“ 每位 教练 都 有 自己 的 选择 球员 的 方法 。 我 一 看到 她 美丽 的 双手 ， 就 决定 带 她 去 。 ”
+" Each coach has his own method to choose players . I decided to take her once I saw her lovely hands . "
+“ 每位 教练 都 有 自己 的 选择 球员 的 方法 。 我 一 看到 她 美丽 的 双手 ， 就 决定 带 她 去 。 ”
+" Each coach has his own method to choose players . I decided to take her once I saw her beautiful hands . "
+
+Label: False
+” 陈小昆 说 ： “ 莫斯科 旅游 警察 的 招募 、 警察 模式 和 装备 以及 他们 与 游客 的 出色 互动 给 我们 带来 了 很大 的 启发 。
+" The recruiting , police mode and equipment of Moscow tourism police officers and their superb interactions with visitors have inspired us a lot . " Chen Xiaokun said .
+” 陈小昆 说 ： “ 莫斯科 旅游 警察 的 招募 、 警察 模式 和 装备 以及 他们 与 游客 的 出色 互动 给 我们 带来 了 很大 的 启发 。
+" The recruiting , police mode and equipment of Moscow tourism police officers and their excellent interactions with visitors have inspired us a lot . " Chen Xiaokun said .
+
+Label: False
+这一 争端 导致 初级 医生 今年 参加 了 6 次 罢工 ， 其中 包括 全国 保健 服务 历史 上 的 首次 全面 停工 。
+The dispute has led to junior physicians taking part in six strikes this year , including the first all - out stoppages in the history of the NHS .
+这一 争端 导致 初级 医生 今年 参加 了 6 次 罢工 ， 其中 包括 全国 保健 服务 历史 上 的 首次 全面 停工 。
+The dispute has led to junior doctors taking part in six strikes this year , including the first all - out stoppages in the history of the NHS .
+
+Label: False
+自 实施 新 的 汇率 改革 以来 ， 人民币 的 先前 升值 状态 发生 了 变化 ， 1 年 人民币 的 中央汇率 约 为 5% 。
+Since the implementation of the new exchange reform , the previous appreciation state of RMB was changed . The central parity rate of the RMB exchange rate in one year was about 5 % .
+自 实施 新 的 汇率 改革 以来 ， 人民币 的 先前 升值 状态 发生 了 变化 ， 1 年 人民币 的 中央汇率 约 为 8% 。
+Since the implementation of the new exchange reform , the previous appreciation state of RMB was changed . The central parity rate of the RMB exchange rate in one year was about 8 % .
+
+Label: False
+4 月 12 日 ， 在 Dehong 自治区 曼戈什 市 ， 该 组织 委员会 举行 了 一次 记者 招待会 ， 介绍 该 安排 的 筹备工作 和 开幕式 。
+On April 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+8 月 12 日 ， 在 Dehong 自治区 曼戈什 市 ， 该 组织 委员会 举行 了 一次 记者 招待会 ， 介绍 该 安排 的 筹备工作 和 开幕式 。
+On August 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+
+Label: False
+组织者 希望 文物 展览 能 提高 当地 人民 对 中国 文化 历史 的 认识 ， 从而 增进 两国人民 之间 的 相互了解 和 友谊 。
+The organizers hope that the cultural relics exhibition will enhance the knowledge of local people on the history of Chinese culture , thereby enhancing the mutual understanding and friendship between the two peoples .
+组织者 希望 文物 展览 能 增进 当地 人民 对 中国 文化 历史 的 了解 ， 从而 增进 两国人民 之间 的 相互了解 和 友谊 。
+The organizers hope that the cultural relics exhibition will enhance the understanding of local people on the history of Chinese culture , thereby enhancing the mutual understanding and friendship between the two peoples .
+
+Label: True
+就 发放 许可证 的 时限 而言 ， 大多数 区域 对 国家 版本 持有 同样 的 意见 ， 即 在 22 天内 。
+For the time limit of the permit issuance , most of the regions hold the same opinion with the national version , i . e , within 22 days .
+就 发放 许可证 的 期限 而言 ， 多数 区域 对 国家 文本 持有 同样 的 意见 ， 即 在 15 天内 。
+For the time limit of the permit issuance , most of the regions hold the same opinion with the national version , i . e , within 15 days .
+
+Label: False
+研究 人员 尚未 完全 了解 火星 的 因素 ， 例如 其 变化 和 风暴 的 特征 。
+Researchers have not had a thorough understanding of Mars factors , such as its changes and storm characteristics .
+科学家 们 尚未 完全 了解 火星 的 因素 ， 例如 其 变化 和 风暴 的 特征 。
+Scientists have not had a thorough understanding of Mars factors , such as its changes and storm characteristics .
+
+Label: True
+“ 他们 通常 的 回答 是 ： 怎么 到 哪儿 去 ？ 哪里 有 一座 纪念碑 ？ 怎么 租 一辆 出租车 ， 怎么 回到 酒店 。 ”
+" Their usual answers are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and how to return to the hotel . "
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 如何 返回 酒店 。 ”
+" Their usual questions are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and how to return to the hotel . "
+

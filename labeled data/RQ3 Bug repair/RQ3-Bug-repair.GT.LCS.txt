@@ -1,0 +1,507 @@
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+在 周四 晚上 发布 在 Twitter 上 的 成员 的 一封信 中 ， JDC 的 主席 艾伦 麦考 特 表示 ， 政府 对 问题 保持 “ 持续 保持沉默 ” ， 她 说 ， 导致 合同 被 拒绝 。
+In a letter to members released on Twitter on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+在 周四 晚上 发布 在 Twitter 上 的 成员 的 一封信 中 ， JDC 的 主席 艾伦 麦考 特 表示 ， 政府 对于 一些 问题 仍然 “ 持续 保持沉默 ” ， 她 说 这些 问题 导致 合同 遭到 拒绝 。
+In a letter to members released on Twitter on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+初级 医生 委员会 主席 Ellen McCourt 在 周四 晚间 于 推特上 发表 的 一封 致 成员 信中 表示 ， 对于 导致 合同 遭到 抵制 的 问题 ， 政府 “ 一贯 保持沉默 ” 。
+在 周四 晚上 发给 Facebook 成员 的 一封信 中 ， JDC 的 主席 艾伦 麦考 特 表示 ， 政府 对于 一些 问题 仍然 “ 持续 保持沉默 ” ， 她 说 这些 问题 导致 合同 遭到 拒绝 。
+In a letter to members released on Facebook on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+在 周四 晚上 发给 Facebook 成员 的 一封信 中 ， JDC 的 主席 艾伦 麦考 特 表示 ， 政府 对于 一些 问题 仍然 “ 持续 保持沉默 ” ， 她 说 这些 问题 导致 合同 遭到 拒绝 。
+In a letter to members released on Facebook on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+罗斯 麦克 尤恩 告诉 BBC 苏格兰 ， 苏格兰 皇家 银行 的 品牌 与 该 银行 的 全球 抱负 有关 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 麦克 尤恩 告诉 BBC 苏格兰 ， 苏格兰 皇家 银行 的 品牌 与 银行 的 全球 抱负 有关 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 · 麦克 尤恩 告诉 英国广播公司 苏格兰 分部 ， 苏格兰 皇家 银行 品牌 曾经 致力于 其 全球 雄心壮志 。
+罗斯 麦克 尤恩 告诉 BBC 威尔士 ， 苏格兰 皇家 银行 的 品牌 与 银行 的 全球 抱负 有关 。
+Ross McEwan told BBC Wales that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 麦克 尤恩 告诉 BBC 威尔士 ， 苏格兰 皇家 银行 的 品牌 与 银行 的 全球 抱负 有关 。
+Ross McEwan told BBC Wales that the RBS brand was associated with the bank ' s global ambitions .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Decreased
+Translation consistency: Improved
+这 不是 一场 大型 的 会议 ， 它 不是 皇家 赛马会 - 这是 一个 平凡 的 周五 晚上 ， 有 2 万人 参加 。
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一场 大型 会议 ， 它 不是 皇家 赛马会 - 周五 晚上 有 2 万人 参加 。
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一场 大规模 的 赛马会 ， 也 不是 英国皇家 爱斯科 赛马会 ( Royal Ascot ) ， 这 只是 一个 有着 20 , 000 名 观众 的 普通 的 周五 晚上 。
+这 不是 一场 大型 的 会议 ， 它 不是 皇家 赛马会 - 这是 一个 平凡 的 周五 晚上 有 2 万人 。
+It ' s not a huge meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一场 大型 会议 ， 它 不是 皇家 赛马会 - 周五 晚上 有 2 万人 参加 。
+It ' s not a huge meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+Biles 在 过去 的 三年 里 一直 主宰 着 她 的 运动 ， 赢得 了 15 枚 世界冠军 奖牌 - 包括 10 枚 金牌 - 其 雄心 和 精准 的 组合 如此 令人 惊讶 ， 1984 年 奥运会 冠军 Mary Lou Retton 称 她 为 “ 我见 过 的 最 伟大 的 体操 运动员 ” 。 “
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+Biles 在 过去 的 三年 中 一直 主宰 着 她 的 运动 ， 赢得 了 15 枚 世界冠军 奖牌 - 包括 10 枚 金牌 - 其 雄心 和 精确度 如此 令人 惊讶 ， 1984 年 奥运会 冠军 Mary Lou Retton 称 她 为 “ 我见 过 的 最 伟大 的 体操 运动员 ” 。 “
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+拜 尔斯 最近 三年 一直 称霸 赛场 ， 共 夺得 15 枚 世界 锦标赛 奖牌 ， 其中 包括 十枚 金牌 。 怀揣 志向 的 她 每日 刻苦 训练 ， 以 达到 更 高 的 精确度 。 1984 年 奥运冠军 玛莉 · 卢 · 雷顿 ( Mary Lou Retton ) 称 ： “ 拜 尔斯 是 我 见 过 的 最 棒 的 体操 运动员 。 ”
+Biles 在 过去 的 八年 里 一直 主宰 着 她 的 运动 ， 赢得 了 15 枚 世界冠军 奖牌 - 包括 10 枚 金牌 - 其 雄心 和 精确度 如此 令人 惊讶 ， 1984 年 奥运冠军 Mary Lou Retton 称 她 为 “ 我见 过 的 最 伟大 的 体操 运动员 ” 。 “
+Biles has spent the last eight years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+Biles 在 过去 的 八年 里 一直 主宰 着 她 的 运动 ， 赢得 了 15 枚 世界冠军 奖牌 - 包括 10 枚 金牌 - 其 雄心 和 精确度 如此 令人 惊讶 ， 1984 年 奥运冠军 Mary Lou Retton 称 她 为 “ 我见 过 的 最 伟大 的 体操 运动员 ” 。 “
+Biles has spent the last eight years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+14 岁 的 中国 游泳 运动员 艾延汉以 1 ： 57.79 - 1.61 秒 的 速度 在 接力赛 的 第二 回合 比 加拿大 选手 Taylor Ruck 慢 ， 让 加拿大人 缩小 对 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 14 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+14 岁 的 中国 游泳 运动员 艾延汉以 1 ： 57.79 - 1.61 秒 的 速度 在 接力赛 的 第二 回合 比 加拿大 的 泰勒 鲁克慢 ， 让 加拿大人 能够 缩小 对 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 14 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+现年 14 岁 的 中国 游泳 选手 艾衍 含游 的 是 第二 棒 ， 用时 1 分 57 秒 79 — — 落后 加拿大 的 泰勒 · 拉克 ( Taylor Ruck ) 1.61 秒 ， 继而 使得 加拿大队 缩小 了 与 中国 的 差距 。
+22 岁 的 中国 游泳 运动员 艾延汉以 1 ： 57.79 - 1.61 秒 的 速度 在 接力赛 的 第二 回合 比 加拿大 的 泰勒 鲁克慢 ， 让 加拿大人 能够 缩小 对 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 22 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+22 岁 的 中国 游泳 运动员 艾延汉以 1 ： 57.79 - 1.61 秒 的 速度 在 接力赛 的 第二 回合 比 加拿大 的 泰勒 鲁克慢 ， 让 加拿大人 能够 缩小 对 中国 的 差距 。
+Chinese swimmer Ai Yanhan , 22 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Decreased
+Translation consistency: Improved
+加拿大 广播公司 最终 向 那些 发表 评论 的 人 发表 了 90 多次 道歉
+CBC ended up apologizing more than 90 times to people who had tweeted in response to the remark
+加拿大 广播公司 最终 向 那些 发表 评论 的 人 发表 了 90 多次 道歉
+CBC ended up apologizing more than 90 times to people who had tweeted in response to the remark
+CBC 向 那些 对 该 言论 有所 回应 的 推特 用户 道歉 90 多次
+加拿大 广播公司 最终 向 发表 评论 的 人 发表 了 超过 75 次 的 道歉
+CBC ended up apologizing more than 75 times to people who had tweeted in response to the remark
+加拿大 广播公司 最终 向 那些 发表 评论 的 人 发表 了 75 多次 道歉
+CBC ended up apologizing more than 75 times to people who had tweeted in response to the remark
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+她 声称 这笔 钱 是 她 2013 年 在 车祸 中 丧生 的 儿子 Lee Skeldon 的 一块 墓碑 。
+She claimed the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+她 声称 ， 她 的 儿子 李 斯凯尔 登 （ Lee Skeldon ） 在 2013 年 的 一次 车祸 中 丧生 ， 这笔 款项 正 用于 墓碑 。
+She claimed the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+她 声称 ， 钱 是 用来 给 2013 年 死 于 车祸 的 儿子 Lee Skeldon 买 墓碑 的 。
+她 声称 ， 她 的 儿子 李 斯凯尔 登 （ Lee Skeldon ） 在 2013 年 的 一次 车祸 中 丧生 ， 这笔 款项 正 用于 墓碑 。
+She claimed the money was going towards a gravestone for her son , Lee Skeldon , who died in a car crash in 2013 .
+她 声称 ， 她 的 儿子 李 斯凯尔 登 （ Lee Skeldon ） 在 2013 年 的 一次 车祸 中 丧生 ， 这笔 款项 正 用于 墓碑 。
+She claimed the money was going towards a gravestone for her son , Lee Skeldon , who died in a car crash in 2013 .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Decreased
+里德 周四 在 电话会议 上 表示 ， 他 预测 克林顿 会 “ 有 一定 程度 的 可信度 ” 选择 加兰 。
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+里德 周四 在 一次 电话会议 上 表示 ， 他 预计 克林顿 将 “ 带来 一定 程度 的 可信度 ” 。
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+里德 在 周四 的 一次 电话会议 上 说 ， 他 预测 希拉里 会 选择 “ 有 一些 可信度 ” 的 加兰德 。
+里德 周一 在 一次 电话会议 上 表示 ， 他 预测 克林顿 会 “ 有 一定 程度 的 可信度 ” 选择 加兰 。
+Reid said on a conference call Monday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+里德 周一 在 一次 电话会议 上 表示 ， 他 预测 克林顿 会 “ 有 一定 程度 的 可信度 ” 选择 加兰 。
+Reid said on a conference call Monday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+但是 ， 他们 不再 是 着 名 的 裸体 人物 ， 而是 着手 为 2017 NU Muses 日历 找到 下一代 顶级 模特 。
+But instead of famous naked people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+但是 ， 他们 不再 是 着 名 的 裸体 人物 ， 而是 开始 寻找 2017 NU Muses 日历 的 下一代 顶级 模特 。
+But instead of famous naked people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+此次 ， 他们 计划 为 其 2017 NU Muses 日历 寻找 新一代 顶级 模特 ， 而 非 著名 的 裸体 人 。
+但是 ， 他们 不再 是 着 名 的 裸体 人物 ， 而是 开始 寻找 2017 NU Muses 日历 的 下一代 顶级 模特 。
+But instead of famous nude people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+但是 ， 他们 不再 是 着 名 的 裸体 人物 ， 而是 开始 寻找 2017 NU Muses 日历 的 下一代 顶级 模特 。
+But instead of famous nude people , they ' re setting out to find the next generation of top models for their 2017 NU Muses calendar .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+两个 慈善机构 ， 帮助 难民 和 L ' Auberge des Migrants 周五 估计 ， 在 夏季 抵达 人数 急剧 增加 之后 ， 丛林 营地 的 人数 增加 到 9 , 000 多人 - 这是 有史以来 的 最高 人数 。
+Two charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+两个 慈善机构 ， 帮助 难民 和 L &# 39 ; Auberge des Migrants 周五 估计 ， 在 夏季 抵达 人数 急剧 增加 之后 ， 丛林 营地 的 人数 已经 增加 到 9 , 000 多人 - 这是 有史以来 的 最高 人数 。
+Two charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+Help Refugees 和 L ' Auberge des Migrants 这 两家 慈善 组织 周五 预计 ， 丛林 难民营 中 的 难民 数量 已 突破 9000 ， 这 也 是 继 夏季 难民 人数 激增 以来 的 最高 水平 。
+六个 慈善机构 ， 帮助 难民 和 L ' Auberge des Migrants 周五 估计 ， 在 夏季 入境 人数 急剧 增加 之后 ， 丛林 营地 的 人数 已 增至 9 , 000 多人 - 这是 有史以来 的 最高 人数 。
+Six charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+六个 慈善机构 ， 帮助 难民 和 L &# 39 ; Auberge des Migrants 周五 估计 ， 在 夏季 抵达 人数 急剧 增加 之后 ， 丛林 营地 的 人数 已经 增加 到 9 , 000 多人 - 这是 有史以来 的 最高 人数 。
+Six charities , Help Refugees and L ' Auberge des Migrants , on Friday estimated that numbers in the Jungle camp have risen to over 9,000 people - the highest ever - after a steep increase in arrivals during the summer .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+自 去年 以来 ， 中国 国电 集团 已 从 连云港 港口 向 南非 出口 了 163 套 风电 项目 。
+Since last year , China Guodian Corporation has exported a total of 163 sets of wind power projects from Lianyungang Port to South Africa .
+自 去年 以来 ， 中国 国电 集团 已 从 连云港 港口 向 南非 出口 了 163 套 风电 项目 。
+Since last year , China Guodian Corporation has exported a total of 163 sets of wind power projects from Lianyungang Port to South Africa .
+自 去年 以来 ， 国电 集团 共计 有 163 套 风电 项目 陆续 从 连云港 港 出口 南非 。
+自 去年 以来 ， 中国 国电 集团 共向 连云港 港口 出口 了 129 套 风电 项目 至 南非 。
+Since last year , China Guodian Corporation has exported a total of 129 sets of wind power projects from Lianyungang Port to South Africa .
+自 去年 以来 ， 中国 国电 集团 已 从 连云港 港口 向 南非 出口 了 129 套 风电 项目 。
+Since last year , China Guodian Corporation has exported a total of 129 sets of wind power projects from Lianyungang Port to South Africa .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+河北省 慈禧 基金 成立 于 2015 年 8 月 ， 由 河北省 品牌 筹备 委员会 发起 ， 名为 河北省 志愿 服务 基金会 慈溪 基金 。
+Established in August 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+河北省 慈溪 基金 成立 于 2015 年 8 月 ， 由 河北省 品牌 筹委会 发起 ， 名为 河北省 志愿 服务 基金会 慈溪 基金 。
+Established in August 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+河北省 慈孝 基金 ， 全 称为 河北省 志愿 服务 基金会 · 慈孝 基金 ， 由 河北 品牌 会 筹委会 发起 ， 成立 于 2015 年 8 月 。
+河北省 慈溪 基金会 成立 于 2015 年 4 月 ， 由 河北省 品牌 筹委会 发起 ， 名为 河北省 志愿 服务 基金会 慈溪 基金 。
+Established in April 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+河北省 慈溪 基金会 成立 于 2015 年 4 月 ， 由 河北省 品牌 筹委会 发起 ， 名为 河北省 志愿 服务 基金会 慈溪 基金 。
+Established in April 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+7 月份 货物 周转率 同比 下降 3.6 个 百分点 ， 这些 地区 的 洪水 对 交通 产生 一定 影响 。
+The cargo turnover growth rate in July fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+7 月份 货物 周转率 增长率 环比 下降 3.6 个 百分点 ， 这些 地区 的 洪水 对 交通 产生 一定 影响 。
+The cargo turnover growth rate in July fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+7 月份 的 货物 周转 运量 增速 比上 月 回落 3.6 个 百分点 ， 洪涝灾害 对 这些 地区 的 交通 有 一定 的 影响 。
+4 月份 货物 周转率 增长率 环比 下降 3.6 个 百分点 ， 这些 地区 的 洪水 对 交通 产生 一定 影响 。
+The cargo turnover growth rate in April fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+4 月份 货物 周转率 增长率 环比 下降 3.6 个 百分点 ， 这些 地区 的 洪水 对 交通 产生 一定 影响 。
+The cargo turnover growth rate in April fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+如果 您 需要 帮助 ， 可以 按下 车站 41 个 呼叫 按钮 中 的 附近 一个 来 享受 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 41 call buttons in the station .
+如果 您 需要 帮助 ， 可以 通过 按下 电台 中 41 个 呼叫 按钮 中 的 附近 一个 来 享受 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 41 call buttons in the station .
+如果 需要 帮助 ， 可 就近 按动 站 内 设置 的 41 个 呼唤 按钮 进行 选择 ， 就 可以 获得 及时 服务 。
+如果 您 需要 帮助 ， 可以 通过 按下 电台 中 58 个 呼叫 按钮 中 的 附近 一个 来 享受 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 58 call buttons in the station .
+如果 您 需要 帮助 ， 可以 通过 按下 电台 中 58 个 呼叫 按钮 中 的 附近 一个 来 享受 及时 的 服务 。
+If you need help , you can enjoy timely services by pressing a nearby one of the 58 call buttons in the station .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+这列 火车 的 启动 标志 着 西安 铁路局 自 2013 年 中亚 国际 货运 航班 启动 以来 ， 已 成功 推出 了 1 万辆 车 。
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+这列 火车 的 启动 标志 着 西安 铁路局 自 2013 年 中亚 国际 货运 航班 启动 以来 ， 已 成功 推出 了 1 万辆 车 。
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+该趟 列车 的 开行 ， 标志 着 西安 铁路局 自 2013 年 开行 中亚 国际 货运 班列 以来 ， 开 行车 数 成功 突破 10000 车 。
+这列 火车 的 启动 标志 着 自 2013 年 中亚 国际 货运 航班 启动 以来 ， 西安 铁路局 成功 发射 了 1 万辆 车 。
+The launching of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+这列 火车 的 启动 标志 着 西安 铁路局 自 2013 年 中亚 国际 货运 航班 启动 以来 ， 已 成功 推出 了 1 万辆 车 。
+The launching of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+而 自 2 月份 以来 ， 煤炭 价格 逐步 回升 ， 秦皇岛 动力 煤 价格 连续 四周 上涨 ， 触及 16 个 月 高点 ， 一度 攀升 至 每吨 436 元 ， 较 今年年初 上涨 近 70 元 / 吨 。
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+而 自 2 月份 以来 ， 煤炭 价格 逐步 回升 ， 秦皇岛 动力 煤 价格 连续 四周 上涨 ， 触及 16 个 月 高位 ， 一度 攀升 至 每吨 436 元 ， 较 今年年初 上涨 近 70 元 每吨 。
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+而 2 月份 以来 ， 煤价 逐步 回升 ， 近期 秦皇岛 动力 煤 价格 更是 连续 上涨 四周 ， 上升 到 16 个 月 来 的 高点 ， 一度 攀升 到 每吨 436 元 ， 比 年初 上涨 近 70 元 。
+而 自 4 月份 以来 ， 煤炭 价格 逐步 回升 ， 秦皇岛 动力 煤 价格 连续 四周 上涨 ， 触及 16 个 月 高位 ， 一度 攀升 至 每吨 436 元 ， 较 今年年初 上涨 近 70 元 每吨 。
+And since April , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+而 自 4 月份 以来 ， 煤炭 价格 逐步 回升 ， 秦皇岛 动力 煤 价格 连续 四周 上涨 ， 触及 16 个 月 高位 ， 一度 攀升 至 每吨 436 元 ， 较 今年年初 上涨 近 70 元 每吨 。
+And since April , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+陵水 交通局 交通管理 站 负责人 王 文义 表示 ， 陵水 运输 部门 开始 整顿 客运 三轮车 违法 经营 ， 共 禁止 613 辆 客运 三轮车 违法 经营 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 613 passenger tricycles of illegal operation .
+陵水 交通局 交通管理 站 负责人 王 文义 表示 ， 陵水 运输 部门 开始 整顿 客运 三轮车 违法 经营 ， 共 禁止 613 辆 客运 三轮车 违法 经营 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 613 passenger tricycles of illegal operation .
+陵水 交通运输 局 交通管理 站 站长 王 文义 说 ， 陵水 交通部门 在 今年初 开始 整治 非法 营运 载客 三轮车 ， 共 取缔 613 辆 非法 营运 载客 三轮车 。
+陵水 交通局 交通管理 站 负责人 王 文义 表示 ， 陵水 运输 部门 开始 整顿 客运 三轮车 违法 经营 ， 共 禁止 609 辆 三轮车 违法 经营 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 609 passenger tricycles of illegal operation .
+陵水 交通局 交通管理 站 负责人 王 文义 表示 ， 陵水 运输 部门 开始 整顿 客运 三轮车 违法 经营 ， 共 禁止 609 辆 客运 三轮车 违法 经营 。
+Wang Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 609 passenger tricycles of illegal operation .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+8 月 12 日 ， 在 德宏州 芒市 市 ， 组委会 召开 新闻 发布会 ， 介绍 了 安排 和 开幕式 的 准备 工作 。
+On August 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+8 月 12 日 ， 在 德宏 自治州 芒市 ， 组委会 召开 新闻 发布会 ， 介绍 了 安排 和 开幕式 的 准备 工作 。
+On August 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+8 月 12 日 ， 在 德宏州 芒市 ， 组委会 召开 新闻 发布会 ， 介绍 大赛 的 组织 和 开幕式 筹备 情况 。
+4 月 12 日 ， 在 德宏 自治州 芒市 ， 组委会 召开 新闻 发布会 ， 介绍 了 安排 和 开幕式 的 准备 工作 。
+On April 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+4 月 12 日 ， 在 德宏 自治州 芒市 ， 组委会 召开 新闻 发布会 ， 介绍 了 安排 和 开幕式 的 准备 工作 。
+On April 12 , in Mangshi City , Dehong Autonomous Prefecture , the organizing committee held a press conference to introduce the preparations for the arrangement and the opening ceremony .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+目前 ， 为 开幕式 做 准备 ， 共有 来自 德宏 职业 学院 的 1500 名 学生 和 其他 500 名 专业 演员 参加 。
+At present , in preparation for the opening ceremony , a total of 1,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+目前 ， 为 开幕式 做 准备 ， 共有 来自 德宏 职业 学院 的 1500 名 学生 和 其他 500 名 专业 演员 参加 。
+At present , in preparation for the opening ceremony , a total of 1,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+目前 为 准备 开幕式 文艺演出 ， 共 抽调 了 德宏 职业 学院 1500 名 学生 演员 以及 其他 专业 演员 共计 2000 余人 。
+目前 ， 为 开幕式 做 准备 ， 共有 来自 德宏 职业 学院 和 其他 500 名 专业 演员 的 7 , 500 名 学生 参与 。
+At present , in preparation for the opening ceremony , a total of 7,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+目前 ， 为 开幕式 做 准备 ， 共有 来自 德宏 职业 学院 的 500 名 学生 和 其他 500 名 专业 演员 参加 。
+At present , in preparation for the opening ceremony , a total of 7,500 student actors from Dehong Vocational College and other 500 professional actors are deployed .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+2010 年 9 月 26 日 ， 任 人民日报 副 秘书长 ， 人民 搜索 网络 有限公司 总经理 。 ， Ltd 。 和 部门级 干部 。
+On September 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+2010 年 9 月 26 日 ， 任 人民日报 副 秘书长 ， 人民 搜索 网络 有限公司 总经理 。 ， Ltd 。 和 部门级 干部 。
+On September 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+2010 年 9 月 26 日 ， 任 人民日报社 副 秘书长 兼 人民 搜索 网络 股份公司 总经理 ， 正厅级 干部 。
+2010 年 4 月 26 日 ， 任 人民日报 副总 秘书 ， 人民 搜索 网络 有限公司 总经理 。 ， Ltd 。 和 部门级 干部 。
+On April 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+2010 年 4 月 26 日 ， 任 人民日报 副 秘书长 ， 人民 搜索 网络 有限公司 总经理 。 ， Ltd 。 和 部门级 干部 。
+On April 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+一分钟 后 ， 费尔南多 再次 向 右侧 展示 了 他 的 远程 突袭 能力 。 他 的 追击 者 于 大宝 犯规 ， 并 获得 了 一张 黄牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a yellow card .
+一分钟 后 ， 费尔南多 再次 向 右侧 展示 了 他 的 远程 突袭 能力 。 他 的 追击 者 于 大宝 犯规 ， 并 获得 了 一张 黄牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a yellow card .
+1 分钟 后 费尔南多 再度 在 右路 展示 奔袭 能力 ， 于 大宝 追防 犯规 也 领到 黄牌 。
+一分钟 后 ， 费尔南多 再次 向 右侧 展示 了 他 的 远程 突袭 能力 。 他 的 追击 者 于 大宝 犯规 并 获得 了 红牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a red card .
+一分钟 后 ， 费尔南多 再次 向 右侧 展示 了 他 的 远程 突袭 能力 。 他 的 追击 者 于 大宝 犯规 ， 并 获得 了 一张 红牌 。
+One minute later , Fernando showed his long - range raid capability on the right again . His pursuer Yu Dabao fouled and also got a red card .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+失败 伴随 着 非常 破旧 的 白银 安慰 - 英国 当天 的 第三天 - 他们 可以 为 他们 在 首届 奥运会 7s 锦标赛 中 的 努力 感到 自豪 ， 他们 在 这场 比赛 中 击败 了 新西兰 ， 阿根廷 和 南非 。
+Defeat came with the non - too shabby consolation of silver - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+失败 伴随 着 白银 的 非 破旧 安慰 - 英国 当天 的 三分之一 - 他们 可以 为 他们 在 首届 奥运会 7 比赛 中 的 努力 感到 自豪 ， 他们 在 比赛 中 击败 了 新西兰 ， 阿根廷 和 南非 。
+Defeat came with the non - too shabby consolation of silver - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+银牌 对于 被 击败 的 英国队 而言 也 算是 一个 不小 的 安慰 ， 这块 银牌 是 英国 代表团 当天 获得 的 第三块 银牌 。 这一 成绩 足以 让 英国 橄榄球队 感到 骄傲 ： 他们 在 首次 进入 奥运会 的 七人制 橄榄球赛 上 一路 击败 了 新西兰 、 阿根廷 和 南非 。
+失败 伴随 着 黄金 的 非 破旧 安慰 - 英国 当天 的 三分之一 - 他们 可以 为 他们 在 首届 奥运会 7 比赛 中 的 努力 感到 自豪 ， 他们 在 比赛 中 击败 了 新西兰 ， 阿根廷 和 南非 。
+Defeat came with the non - too shabby consolation of gold - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+失败 伴随 着 黄金 的 非 破旧 安慰 - 英国 当天 的 三分之一 - 他们 可以 为 他们 在 首届 奥运会 7 比赛 中 的 努力 感到 自豪 ， 他们 在 比赛 中 击败 了 新西兰 ， 阿根廷 和 南非 。
+Defeat came with the non - too shabby consolation of gold - Britain ' s third of the day - and they could be proud of their efforts in the inaugural Olympic 7s tournament in which they beat New Zealand , Argentina and South Africa along the way .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+来自 英格兰 15 支 球队 球队 的 兄弟 马克斯 · 沃特森 （ Marcus Watson ） 的 一次 精彩 的 后期 抢断 让 安东尼 赢得 了 胜利 - 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+来自 英格兰队 15 支 队伍 的 兄弟 马克斯 · 沃特森 （ Marcus Watson ） 的 一次 精彩 的 后期 铲球 让 安东尼 获得 了 胜利 - 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+之后 ， 英格兰队 安东尼 的 兄弟 马库斯 · 沃森用 精彩 的 拦截 确保 了 球队 的 胜利 ， 最终 英国队 夺得 银牌 。
+来自 英格兰 15 支 球队 球队 的 侄子 马克斯 沃森 的 一次 精彩 的 后期 铲球 ， 安东尼 获得 了 胜利 - 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , nephew of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+来自 英格兰 15 支 球队 球队 的 侄子 马克斯 沃森 的 一次 精彩 的 后期 铲球 ， 安东尼 获得 了 胜利 - 最终 获得 了 银牌 。
+A brilliant late tackle from Marcus Watson , nephew of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+每 一个 划船 金币 的 背后 都 是 一支 志愿 的 手营 ， 可以 带来 不同 的 增量 收益 ， 而且 没有 一只 手比 那些 30 个 月 前 不 知道 自己 是否 会 活着 看到 这 一天 被 诊断 患有 癌症 的 教练 更 有 帮助 。
+Behind every rowing gold is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+在 每 一个 划船 金牌 的 背后 都 是 一支 志愿 的 手 ， 贡献 了 增加 收益 的 差异 ， 并且 没有 一只 手比 那些 30 个 月 前 不 知道 他 是否 会 活着 看到 这 一天 被 诊断 出 患有 癌症 的 教练 更 有 帮助 。
+Behind every rowing gold is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+在 每 一块 赛艇 金牌 的 背后 都 有 许多 自愿 帮助 的 人 ， 正是 他们 的 不断 奉献 创造 了 不同 ， 而 其中 帮助 最大 的 莫过于 一位 30 个 月 前 得知 自己 身患 癌症 、 不 知道 自己 能否 活着 看到 这 一天 的 教练 。
+在 每 一次 划船 的 背后 ， 都 是 一支 志愿 的 手 ， 他们 贡献 了 增加 的 收益 ， 并且 没有 任何 一只 手比 那些 30 个 月 前 不 知道 他 是否 会 活着 看到 这 一天 被 确诊 患有 癌症 的 教练 更 有 帮助 。
+Behind every rowing silver is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+在 每 一次 划船 的 背后 ， 都 是 一支 志愿 的 手 ， 他们 贡献 了 增加 的 收益 ， 并且 没有 任何 一只 手比 那些 30 个 月 前 不 知道 他 是否 会 活着 看到 这 一天 被 确诊 患有 癌症 的 教练 更 有 帮助 。
+Behind every rowing silver is a battalion of willing hands contributing the incremental gains that make the difference , and no hands were more instrumental than those of a coach who 30 months ago did not know whether he would live to see this day when diagnosed with cancer .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+国家 统计数据 显示 ， 7 月份 保加利亚 的 通货膨胀率 为 1 ％ 。
+Inflation in Bulgaria was 1 % on a monthly basis in July , national statistics show .
+国家 统计数据 显示 ， 7 月份 保加利亚 的 通货膨胀率 为 1 ％ 。
+Inflation in Bulgaria was 1 % on a monthly basis in July , national statistics show .
+国家 统计 结果表明 ， 7 月 保加利亚 的 月 通货膨胀率 为 1% 。
+国家 统计数据 显示 ， 7 月 保加利亚 通货膨胀率 为 3 ％ 。
+Inflation in Bulgaria was 3 % on a monthly basis in July , national statistics show .
+国家 统计数据 显示 ， 7 月份 保加利亚 的 通货膨胀率 为 3 ％ 。
+Inflation in Bulgaria was 3 % on a monthly basis in July , national statistics show .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+共和党人 在 得知 分析 人员 担心 有关 伊斯兰 国 的 情报 被 操纵 后 ， 创建 了 该 工作组 。
+Republicans created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+共和党人 在 得知 分析 人员 对 有关 伊斯兰 国家 的 情报 被 操纵 的 担忧 后 ， 创建 了 该 工作组 。
+Republicans created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+共和党 在 从 分析员 那里 得知 有关 伊斯兰 国 的 情报 被 操控 后 ， 成立 了 一个 专项 工作 小组 。
+民主党人 在 得知 分析 人员 对 有关 伊斯兰 国 的 情报 被 操纵 的 担忧 后 ， 创建 了 该 工作组 。
+Democrats created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+民主党人 在 得知 分析 人员 对 有关 伊斯兰 国 的 情报 被 操纵 的 担忧 后 ， 创建 了 该 工作组 。
+Democrats created the task force after learning that analysts had raised concerns that intelligence about the Islamic State was being manipulated .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+随着 调查 的 继续 ， 周四 发布 的 报告 随后 会 有 更 广泛 的 调查结果 。
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+随着 调查 的 继续 ， 周四 发布 的 报告 随后 会 有 更 广泛 的 调查结果 。
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+随着 调查 的 继续 ， 继 周四 发布 的 这篇 报告 后 将 会 有 更 多 发现 。
+随着 调查 的 继续 ， 周一 发布 的 报告 将 随后 得到 更 广泛 的 调查结果 。
+The report released Monday is to be followed up by more extensive findings as the investigation continues .
+随着 调查 的 继续 ， 周一 发布 的 报告 随后 会 有 更 广泛 的 调查结果 。
+The report released Monday is to be followed up by more extensive findings as the investigation continues .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+如果 他 的 妻子 埃莉诺 没有 鼓励 他 以 他 的 胃 为 榜样 ， 罗斯福 总统 也 可能 犯 同样 的 错误 。
+President Roosevelt may have committed the same error if his wife , Eleanor , had not encouraged him to set an example with his stomach .
+如果 他 的 妻子 埃莉诺 没有 鼓励 他 以 他 的 胃 为 榜样 ， 罗斯福 总统 也 可能 犯 同样 的 错误 。
+President Roosevelt may have committed the same error if his wife , Eleanor , had not encouraged him to set an example with his stomach .
+如果 不是 妻子 埃莉诺 鼓励 他 在 饮食 上 树立 榜样 ， 罗斯福 总统 可能 也 会 犯 相同 的 错误 。
+如果 他 的 女儿 埃莉诺 没有 鼓励 他 以 他 的 胃 为 榜样 ， 罗斯福 总统 也 可能 犯 了 同样 的 错误 。
+President Roosevelt may have committed the same error if his daughter , Eleanor , had not encouraged him to set an example with his stomach .
+如果 他 的 女儿 埃莉诺 没有 鼓励 他 以 他 的 胃 为 榜样 ， 罗斯福 总统 也 可能 犯 同样 的 错误 。
+President Roosevelt may have committed the same error if his daughter , Eleanor , had not encouraged him to set an example with his stomach .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+叙利亚 民主 力量 （ SDF ） 现在 席卷 了 整个 城市 ， 因为 一群 躲藏在 城里 的 激进分子 离开 了 。
+Syria Democratic Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+叙利亚 民主 力量 （ SDF ） 现在 席卷 了 整个 城市 ， 因为 一群 躲藏在 城里 的 激进分子 离开 了 。
+Syria Democratic Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+在 躲 进城 内 的 激进分子 离开 后 ， 叙利亚 民主 力量 ( SDF ) 现在 正在 对 全城 进行 扫荡 。
+叙利亚 民主 力量 （ SDF ） 现在 席卷 了 整个 城市 ， 一群 躲藏在 城市 中 的 武装 分子 离开 了 。
+Syria Democracy Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+叙利亚 民主 力量 （ SDF ） 现在 席卷 了 整个 城市 ， 此外 一群 躲藏在 城里 的 激进分子 离开 了 。
+Syria Democracy Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+他们 释放 了 由 武装 分子 关押 的 2000 多名 平民 人质 ， 自卫队 盟军 曼 比基 军事 委员会 的 沙范 达尔维 什 告诉 路透社 。
+They had freed over 2,000 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+他们 释放 了 2000 多名 被 武装 分子 关押 的 文职 人质 ， SDF 盟军 曼 比基 军事 委员会 的 Sharfan Darwish 告诉 路透社 。
+They had freed over 2,000 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+叙利亚 民主 力量 同盟 曼比季 军事 委员会 的 莎兰 · 达尔维 什 告诉 路透社 ， 他们 已 解救 了 2 , 000 多名 被 激进分子 劫持 的 平民 。
+他们 释放 了 1500 多名 被 武装 分子 关押 的 文职 人质 ， SDF 盟军 曼 比基 军事 委员会 的 Sharfan Darwish 告诉 路透社 。
+They had freed over 1,500 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+他们 释放 了 1500 多名 被 武装 分子 关押 的 文职 人质 ， SDF 盟军 曼 比基 军事 委员会 的 Sharfan Darwish 告诉 路透社 。
+They had freed over 1,500 civilian hostages who had been held by the militants , Sharfan Darwish of the SDF allied Manbij Military Council told Reuters .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+那 将 是 Kenny - - 比 Hoy 年轻 12 岁 ， 他 也 出 生于 3 月 23 日 （ 英国 体育 中 看似 神圣 的 约会 ， 也 是 Steve Redgrave ， Mo Farah 和 Roger Bannister 的 生日 ） - 将 他 的 记录 带到 六 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+那 将 是 肯尼 - 比霍伊 年轻 12 岁 ， 他 也 出 生于 3 月 23 日 （ 英国 体育 中 看似 神圣 的 约会 ， 也 是 史蒂夫 雷德 格雷夫 ， 莫 法拉 和 罗杰 班 尼斯 特 的 生日 ） - 将 他 的 记录 带到 六 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+如果 是 这样的话 ， 比霍伊 年轻 12 岁 并且 同样 在 3 月 23 日 （ 这 一天 似乎 是 英国 体育界 的 神圣 日子 ， 史蒂夫 · 雷德 格雷夫 、 莫 · 法拉 和 罗杰 · 班 尼斯 特 也 是 在 这 一天 出生 的 ) 出生 的 肯尼 将 拥有 6 块 金牌 和 1 块 银牌 。
+那 将 是 肯尼 - 比霍伊 年轻 14 岁 ， 他 也 出 生于 3 月 23 日 （ 英国 体育 中 看似 神圣 的 约会 ， 也 是 史蒂夫 雷德 格雷夫 ， 莫 法拉 和 罗杰 班 尼斯 特 的 生日 ） - 将 他 的 记录 带到 六 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 14 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+那 将 是 肯尼 - 比霍伊 年轻 14 岁 ， 他 也 出 生于 3 月 23 日 （ 英国 体育 中 看似 神圣 的 约会 ， 也 是 史蒂夫 雷德 格雷夫 ， 莫 法拉 和 罗杰 班 尼斯 特 的 生日 ） - 将 他 的 记录 带到 六 金牌 和 一枚 银牌 。
+That would see Kenny - who is exactly 14 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+背景 中 出现 了 剧情 ， 尤其 是 技术 总监 肖恩 · 萨顿 （ Shane Sutton ） 4 月 因 性别歧视 和 欺凌 指控 而 辞职 ， 以及 霍伊 （ Hoy ） 和 维多利亚 彭德尔 顿 （ Victoria Pendleton ） 等 巨人 的 退休 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in April amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+背景 中 出现 了 戏剧性 的 事件 ， 尤其 是 技术 总监 肖恩 · 萨顿 （ Shane Sutton ） 4 月 因 性别歧视 和 欺凌 指控 以及 霍伊 （ Hoy ） 和 维多利亚 彭德尔 顿 （ Victoria Pendleton ） 等 大人物 的 退休 而 辞职 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in April amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+期间 发生 了 许多 波折 ， 包括 四月 技术 总监 肖恩 · 萨顿 因 性别歧视 和 欺凌 指控 而 辞职 以及 霍伊 、 维多利亚 · 彭德尔 顿 等 传奇人物 的 退役 。
+背景 中 出现 了 戏剧性 的 情况 ， 尤其 是 八月份 技术 总监 肖恩 · 萨顿 （ Shane Sutton ） 因 性别歧视 和 欺凌 指控 以及 霍伊 （ Hoy ） 和 维多利亚 彭德尔 顿 （ Victoria Pendleton ） 等 大人物 的 退休 而 辞职 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in August amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+背景 中 出现 了 戏剧性 的 情况 ， 尤其 是 八月份 技术 总监 肖恩 · 萨顿 （ Shane Sutton ） 因 性别歧视 和 欺凌 指控 以及 霍伊 （ Hoy ） 和 维多利亚 彭德尔 顿 （ Victoria Pendleton ） 等 大人物 的 退休 而 辞职 。
+There have been dramas in the background , not least the resignation of technical director Shane Sutton in August amid sexism and bullying allegations , and the retirements of giant figures like Hoy and Victoria Pendleton .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+刘晓娥 是 一名 20 多岁 的 女警官 ， 精通 英语 和 西班牙语 。 她 去年 刚 加入 旅游 警察队 。
+Liu Xinie , an female police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+刘昕莹 是 一名 20 岁 以上 的 女警官 ， 精通 英语 和 西班牙语 。 她 去年 刚 加入 旅游 警察队 。
+Liu Xinie , an female police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+女警官 柳希涅 今年 20 多岁 ， 通晓 英语 和 西班牙语 ， 她 去年 刚 加入 旅游 警察 队伍 。
+刘新燮 是 一名 20 多岁 的 男 警官 ， 精通 英语 和 西班牙语 。 她 去年 刚 加入 旅游 警察队 。
+Liu Xinie , an male police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+刘昕莹 是 一名 20 岁 以上 的 男 警官 ， 精通 英语 和 西班牙语 。 她 去年 刚 加入 旅游 警察队 。
+Liu Xinie , an male police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+N11ia 刚刚 上市 的 小 屏幕 照相 手机 Z11mini 的 价格 下跌 了 200 元 人民币 ， 从 原来 的 人民币 1 , 499 元降 至 1 , 299 元 人民币 。
+Z11mini , a small screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+Nubia 刚刚 上市 的 小 屏幕 照相 手机 Z11mini 价格 下跌 200 元 人民币 ， 从 原来 的 人民币 1 , 499 元降 至 1 , 299 元 人民币 。
+Z11mini , a small screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+nubia 旗下 刚刚 上市 的 小屏 拍照 手机 Z11mini 降价 200 元 ， 即 从 原来 的 1499 元降 至 1299 元 。
+Nubia 刚刚 上市 的 大屏幕 拍照 手机 Z11mini 价格 下跌 200 元 人民币 ， 从 原来 的 人民币 1 , 499 元降 至 1 , 299 元 人民币 。
+Z11mini , a large screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+Nubia 刚刚 上市 的 大屏幕 拍照 手机 Z11mini 价格 下跌 200 元 人民币 ， 从 原来 的 人民币 1 , 499 元降 至 1 , 299 元 人民币 。
+Z11mini , a large screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB 1,499 to RMB 1,299 .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+“ 因此 ， AGL 继续 预计 合约 将 在 第 17 财年 为 盈利 做出 贡献 ， ” 该 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 17 , " the power company said .
+“ 因此 ， AGL 继续 预计 合约 将 在 第 17 财年 为 盈利 做出 贡献 ， ” 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 17 , " the power company said .
+该 电力公司 表示 ： “ 因此 ， AGL 仍 预测 这些 合同 将 在 2017 财年 继续 产生 收入 。 ”
+“ 因此 ， AGL 继续 预计 合约 将 在 22 财年 为 盈利 做出 贡献 ， ” 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 22 , " the power company said .
+“ 因此 ， AGL 继续 预计 合约 将 在 第 22 财年 为 盈利 做出 贡献 ， ” 电力公司 表示 。
+" As such , AGL continues to expect the contracts to contribute to earnings in fiscal year 22 , " the power company said .
+
+Translation quality-original: Improved
+Translation quality-mutant: Improved
+Translation consistency: Improved
+纽约 ： 唐纳德 特朗普 的 竞选活动 因涉嫌 无动于衷 而 被 起诉 ， 因为 被 告知 其 北卡罗来纳州 业务部门 的 负责人 在 二月份 驾驶 一辆 吉普车 时向 一名 工作人员 开枪 。
+New York : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+纽约 ： 唐纳德 特朗普 的 竞选活动 因涉嫌 无 操作 而 被 起诉 ， 因为 被 告知 其 北卡罗来纳州 行动 的 负责人 在 二月份 驾驶 一辆 吉普车 时向 一名 职员 开枪 。
+New York : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+纽约 ： 特朗普 的 竞选 团队 因其北 加利福尼亚 洲 负责人 于 2 月份 驾驶 一辆 吉普车 时 拔枪 指向 一名 工作人员 后 不 作为 而 被 起诉 。
+新 纽约市 ： 唐纳德 特朗普 的 竞选活动 被 起诉 因涉嫌 无所事事 而 被 告知 其 北卡罗来纳州 业务部门 负责人 在 二月份 开着 吉普车 时向 一名 职员 开枪 。
+New Nyc : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+新 Nyc ： 唐纳德 特朗普 的 竞选活动 因涉嫌 无 操作 而 被 起诉 ， 因为 被 告知 其 北卡罗来纳州 行动 的 负责人 在 二月份 驾驶 一辆 吉普车 时向 一名 职员 开枪 。
+New Nyc : Donald Trump ' s campaign was sued for allegedly doing nothing after being told that the director of its North Carolina operations pulled a gun on a staffer as they drove in a Jeep in February .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+去年 一名 警察 在 2014 年 8 月 的 一个 晚上 袭击 并 杀害 了 一名 躺 在 Paynerne 附近 的 A1 上 的 男子 后 ， 因 疏忽 而 被判 无罪释放 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A1 near Paynerne one night in August 2014 .
+去年 ， 一名 警察 在 2014 年 8 月 的 一个 晚上 袭击 并 杀害 了 一名 躺 在 Paynerne 附近 A1 的 男子 后 ， 因 疏忽 而 被判 无罪 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A1 near Paynerne one night in August 2014 .
+去年 ， 一名 警官 被 指控 因 疏忽 而致 人 死亡 ， 指控 的 内容 是 2014 年 8 月 ， 她 在 帕耶讷 附近 的 A1 高速公路 上 撞击 了 一名 男子 并且 致其 死亡 。
+去年 ， 一名 警察 在 2014 年 8 月 的 一个 晚上 袭击 并 杀害 了 一名 躺 在 Paynerne 附近 A2 的 男子 后 ， 因 疏忽 而 被判 无罪 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A2 near Paynerne one night in August 2014 .
+去年 ， 一名 警察 在 2014 年 8 月 的 一个 晚上 袭击 并 杀害 了 一名 躺 在 Paynerne 附近 A2 的 男子 后 ， 因 疏忽 而 被判 无罪 。
+Last year a police officer was acquitted of causing death by negligence after she hit and killed a man who was lying on the A2 near Paynerne one night in August 2014 .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+工会 表示 ， 他们 最近 的 行动 ， 他们 说 是 超过 25 年 来 的 第一次 行动 ， 是 为了 抗议 可能 减薪 高达 30 ％ 。
+The labor unions said their recent action , which they said is the first in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
+工会 表示 ， 他们 最近 的 行动 ， 他们 说 是 超过 25 年 来 的 第一次 行动 ， 是 为了 抗议 可能 减薪 高达 30 ％ 。
+The labor unions said their recent action , which they said is the first in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
+工会 表示 其 近期 采取 的 行动 是 为了 抗议 最高 可能 达到 30% 的 减薪 ， 而 这 也 是 工会 25 年 以来 首次 采取 这一 行动 。
+工会 表示 ， 他们 最近 采取 的 措施 是 25 年 来 的 第二次 采取行动 ， 抗议 可能 减薪 高达 30 ％ 。
+The labor unions said their recent action , which they said is the second in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
+工会 表示 ， 他们 最近 的 行动 ， 他们 说 是 超过 25 年 来 的 第二次 行动 ， 是 为了 抗议 可能 减薪 高达 30 ％ 。
+The labor unions said their recent action , which they said is the second in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Decreased
+最新 的 旋转 速度 目录 表明 ， 更大 质量 的 恒星 比 不 那么 大 质量 的 恒星 旋转 得 更慢 。
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive stars .
+最新 的 旋转 率 目录 表明 ， 更大 质量 的 恒星 比 不 那么 大 的 恒星 旋转 得 更慢 。
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive stars .
+最新 的 自转 速度 数据 集 表明 质量 较大 的 恒星 的 自转 速度慢 于 质量 较 小 的 恒星 。
+最新 的 旋转 速度 目录 表明 ， 更大 的 恒星 旋转 速度 比 不 那么 大 的 恒星 更慢 。
+The latest catalog of spin rates suggests more enormous stars spin more slowly than less massive stars .
+最新 的 旋转 速度 目录 表明 ， 更大 的 恒星 旋转 速度 比 不 那么 大 的 恒星 更慢 。
+The latest catalog of spin rates suggests more enormous stars spin more slowly than less massive stars .
+

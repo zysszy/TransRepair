@@ -1,0 +1,351 @@
+Translation quality-original: Unchanged
+Translation quality-mutant: Decreased
+Translation consistency: Improved
+儿子 和 女儿 的 一位 发言人 说 ， 他们 被 他 的 死亡 “ 震惊 和 破坏 ” 。
+A spokesperson for Sons & Daughters said they were " shocked and devastated " by his death .
+儿子 和 女儿 的 一位 发言人 说 ， 他们 被 他 的 死亡 “ 震惊 和 破坏 ” 。
+A spokesperson for Sons & Daughters said they were " shocked and devastated " by his death .
+Sons & Daughters 餐馆 的 一位 发言人 表示 ， 他们 对于 Frank 的 死 感到 “ 非常 震惊 ” 。
+儿子 和 女儿 的 一位 发言人 说 ， 他们 对 他 的 死亡 感到 “ 震惊 和 震惊 ” 。
+A spokesman for Sons & Daughters said they were " shocked and devastated " by his death .
+儿子 和 女儿 的 一位 发言人 说 ， 他们 被 他 的 死亡 “ 震惊 和 破坏 ” 。
+A spokesman for Sons & Daughters said they were " shocked and devastated " by his death .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 苏格兰 ， RBS 品牌 与 该行 的 全球 野心 有 关联 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 苏格兰 ， RBS 品牌 与 该行 的 全球 野心 相关 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 · 麦克 尤恩 告诉 英国广播公司 苏格兰 分部 ， 苏格兰 皇家 银行 品牌 曾经 致力于 其 全球 雄心壮志 。
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 威尔士 ， RBS 品牌 与 该行 的 全球 野心 相关 。
+Ross McEwan told BBC Wales that the RBS brand was associated with the bank ' s global ambitions .
+罗斯 麦湾 ( Ross McEwan ) 告诉 BBC 威尔士 ， RBS 品牌 与 该行 的 全球 野心 相关 。
+Ross McEwan told BBC Wales that the RBS brand was associated with the bank ' s global ambitions .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+三年 前 ， 如果 我们 说 我们 将 成为 客户 的 大 银行 ， 并 把 这些 品牌 放在 那里 ， 那 将 是 非常 可笑 的 。
+It would have been very cynical three years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+三年 前 ， 如果 我们 说 我们 将 成为 一个 大 的 客户 银行 ， 并 把 这些 品牌 放在 那里 ， 那 将 是 非常 可笑 的 。
+It would have been very cynical three years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+如果 三年 前 我们 立志 成为 一家 拥有 众多 品牌 的 大 银行 将 备受 嘲讽 。
+如果 我们 说 我们 将 成为 一个 伟大 的 客户 银行 ， 并 把 这些 品牌 放在 那里 ， 那 就 会 在 八年 前 非常 可笑 了 。
+It would have been very cynical eight years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+如果 我们 说 我们 将 成为 一个 伟大 的 客户 银行 ， 并 把 这些 品牌 放在 那里 ， 那 就 会 在 八年 前 非常 可笑 了 。
+It would have been very cynical eight years ago if we ' d said we ' re going to be a great bank for customers and put those brands out there .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+这 不是 一个 大 会议 ， 不是 皇家 阿森特 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一次 大 会议 ， 不是 阿森特 皇家 的 会议 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一场 大规模 的 赛马会 ， 也 不是 英国皇家 爱斯科 赛马会 ( Royal Ascot ) ， 这 只是 一个 有着 20 , 000 名 观众 的 普通 的 周五 晚上 。
+这 不是 一次 巨大 的 会议 ， 不是 阿森特 皇家 的 会议 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a huge meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+这 不是 一次 巨大 的 会议 ， 不是 阿森特 皇家 的 会议 ， 而是 周五 晚上 和 20 , 000 人 在 一起 的 一个 平凡 的 夜晚 。
+It ' s not a huge meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20,000 people .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+这是 一个 巨大 的 ， 同时 也 非常 微妙 的 行动 。
+This was a massive and , at the same time , very delicate operation .
+这是 一个 巨大 的 ， 同时 也 非常 微妙 的 行动 。
+This was a massive and , at the same time , very delicate operation .
+这是 一次 规模 巨大 的 作业 ， 同时 也 是 一次 非常 精密 的 作业 。
+这 是 一 项 巨大 的 , 同时 也 是 非常 微妙 的 行动 。
+This was a enormous and , at the same time , very delicate operation .
+这是 一个 巨大 的 ， 同时 也 非常 微妙 的 行动 。
+This was a enormous and , at the same time , very delicate operation .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+至于 Biles ， 从 本周 早些时候 开始 的 19 岁 的 病毒传播 现在 具有 一个 全新 的 意义 ：
+As for Biles , the 19 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+至于 Biles ， 本周 早些时候 19 岁 的 病毒传播 者 现在 有 一个 全新 的 意义 ：
+As for Biles , the 19 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+拜 尔斯 才 19 岁 。 从 本周 早些时候 起 ， 其 消息 就 在 推特上 病毒 般 传播 开来 。 就 拜 尔斯 而言 ， 其 人生 已 被 赋予 了 全新 意义 。
+就 Biles 而言 ， 本周 早些时候 22 岁 的 病毒传播 者 现在 有 一个 全新 的 意义 ：
+As for Biles , the 22 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+至于 Biles ， 本周 早些时候 22 岁 的 病毒传播 者 现在 有 一个 全新 的 意义 ：
+As for Biles , the 22 - year - old ' s viral tweet from earlier this week now carries a whole new meaning :
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+Mortimer 说 ： “ 工业 行动 很少 或 什么 都 没有 实现 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or nothing , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+Mortimer 说 ： “ 工业 行动 很少 或 什么 都 没有 实现 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or nothing , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+Mortimer 先生 说 ： “ 劳工 行动 收效甚微 ， 相反 却会 对 已然 倾注全力 的 队伍 和 服务 造成 压力 ， 导致 患者 、 护理人员 及其 家人 的 担心 、 忧虑 及 混乱 。 ”
+Mortimer 先生 说 ： “ 工业 行动 几乎 没有 什么 效果 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or something , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+Mortimer 说 ： “ 工业 行动 很少 或 什么 都 什么 实现 ， 但 给 已经 捉襟见肘 的 团队 和 服务 带来 压力 ， 给 病人 、 照顾 者 及其 家人 带来 忧虑 、 困扰 和 干扰 。 ”
+Mr Mortimer said : " Industrial action achieves little or something , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . "
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题   - -   - -   例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距   - -   - -   表明 雇主 、 英格兰 卫生部 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 的 协议 如何 得到 遵守 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Education England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题   - -   - -   例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距   - -   - -   表明 雇主 、 英格兰 卫生部 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 的 协议 如何 得到 遵守 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Education England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+雇主 们 希望 继续 积极 探讨 其他 重要 话题 — — 如 部署 、 培训 的 灵活性 、 针对 那些 在 职业生涯 中断 后重 上岗 之人 的 其他 培训 、 培训 成本 、 对 课程 提纲 的 共同 认知 、 进修 假 和 医疗 领域 的 性别 工资 差异 ， 这些 说明 了 雇主 、 英格兰 健康 教育 组织 ( Health Education England ) 和 卫生部 对 11 月 、 2 月 及 5 月 与 BMA 达成 的 协议 很 重视 。
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题   - -   - -   例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距   - -   - -   是 雇主 、 英格兰 卫生 教育 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 协定 方面 的 认真 表现 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Educational England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题 - - - - 例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距 - - - - 表明 雇主 、 英格兰 卫生 教育 和 卫生部 在 8 月 、 2 月 和 5 月 与 BMA 达成 的 协议 如何 得到 遵守 。
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Educational England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+在 游泳池 里 ， 南非 游泳 选手 卡梅隆 · 范德尔 伯克 多年 来 一直 和 格兰 · 明星 马修 · 莫里森 相提并论 。
+And over in the pool , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+多年 来 ， 在 游泳池 里 ， 南非 游泳 选手 卡梅隆 · 范德尔 伯克 一直 和 格雷斯 · 马修 · 莫里森 相比 。
+And over in the pool , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+而 在 泳坛 ， 多年 来 ， 南非 游泳 运动员 卡梅伦 · 范 德伯格 ( Cameron van der Burgh ) 一直 被 拿来 和 《 欢乐 合唱团 》 ( Glee ) 主演 马修 · 莫里森 ( Matthew Morrison ) 做 比较 。
+多年 来 ， 在 游泳池 里 ， 北非 游泳 选手 卡梅隆 · 范德尔 伯克 一直 和 格兰 · 明星 马修 · 莫里森 相比 。
+And over in the pool , North African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+多年 来 ， 在 游泳池 里 ， 北非 游泳 选手 卡梅隆 · 范德尔 伯克 一直 和 格兰 · 明星 马修 · 莫里森 相比 。
+And over in the pool , North African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 自夸 的 皮肤 和 金发 不仅仅 像 女演员 安娜 莱恩 · 麦科德 （ Annalynne McCord ） ， 而 美国 团队 的 纳森 · 阿德里安 （ Nathan Adrian ） 则 被 球迷 说 成 类似 于 约瑟夫 · 列维 特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and blonde hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 拥有 的 不仅仅 是 和 女演员 安娜 琳 · 麦科德 （ Annalynne McCord ） 同样 的 亲热 皮肤 和 金色 金发 ， 而 美国 团队 成员 阿德里安 · 纳森 （ Nathan Natan ） 则 被 认为 类似 于 约瑟夫 · 戈尔 维特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and blonde hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+摘得 银牌 的 俄罗斯 游泳 选手 艾菲 莫 ( Yulia Efimova ) 和 演员 安娜 丽尼 · 麦考德 ( Annalynne McCord ) 拥有 同样 的 古铜色 皮肤 和 金发 ， 而 美国队 的 倪家骏 则 被 粉丝 比作 “ 运动版 的 约瑟夫 · 高登 · 莱维 特 ( Joseph Gorgon Levitt ) ” 。
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 不仅 像 女演员 阿 纳利 安 · 麦科德 （ Annalynne McCord ） 那样 夸大其词 ， 而 美国 团队 成员 阿德里安 · 纳森 （ Nathan Natan ） 则 被 认为 类似 于 约瑟夫 · 戈尔 维特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and busty hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+银牌 游泳 运动员 俄罗斯 的 尤利娅 · 埃 菲莫夫 （ Yulia Efimova ） 不仅 像 女演员 阿 纳利 安 · 麦科德 （ Annalynne McCord ） 那样 夸大其词 ， 而 美国 团队 成员 阿德里安 · 纳森 （ Nathan Natan ） 则 被 认为 类似 于 约瑟夫 · 戈尔 维特 的 运动版 。
+Silver medal swimmer Russia ' s Yulia Efimova boasts more than just the same sunkissed skin and busty hair as actress Annalynne McCord , while Team USA ' s Nathan Adrian has been said by fans to resemble an ' athletic version of Joseph Gorgon Levitt . '
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+在 北京 居住 6 个 月 以上 、 符合 稳定 合法 就业 条件 之一 的 非 永久 居民 ， 在 北京 有 住宿 和 继续 上学 的 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than six months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+在 北京 居住 6 个 月 以上 、 符合 稳定 合法 就业 条件 之一 、 在 北京 有 住宿 和 继续 上学 的 非 永久 居民 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than six months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+在 京 居住 6 个 月 以上 的 且 符合 在 京 有 合法 稳定 就业 、 合法 稳定 住所 、 连续 就读 条件 之一 的 非京籍 市民 , 可以 申请 领取 居住证 。
+在 北京 居住 8 个 月 以上 、 符合 稳定 合法 就业 条件 之一 、 在 北京 有 住宿 和 继续 上学 的 非 永久 居民 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than eight months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+在 北京 居住 8 个 月 以上 、 符合 稳定 合法 就业 条件 之一 、 在 北京 有 住宿 和 继续 上学 的 非 永久 居民 ， 可以 申请 居留证 。
+Non - permanent residents who have lived in Beijing for more than eight months and meet one of the conditions of having a stable and legal employment , having accommodation and having continuous schooling in Beijing can apply for a residence permit .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 ， “ 现在 真的 没有 资产 ， 你 就 有 机会 去 。 ”
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social support and sponsorship . " You will have a chance to go when there are really no assets now . "
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 ， “ 现在 真的 没有 资产 ， 你 就 有 机会 去 。 ”
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social support and sponsorship . " You will have a chance to go when there are really no assets now . "
+詹启贤 认为 ， 今天 只要 还有 党产 ， 没有 人会 给 你 社会 捐款 ， 若党产 统统 被 充公 收走 ， 国民党 刚好 可 请求 社会 支持 与 赞助 ， “ 今天 真的 没有 了 才 有 机会 去 要 ” 。
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 。
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social supporting and sponsorship . " You will have a chance to go when there are really no assets now . "
+赵秦祥 ( Zhan Qinxian ) 说 ， 只要 今天 有 党派 资产 ， 没有 人会 给 你 社会 捐赠 ， 那么 如果 党派 资产 全部 被 没收 ， 国民党 就 可以 要求 社会 支持 和 赞助 ， “ 现在 真的 没有 资产 ， 你 就 有 机会 去 。 ”
+As long as there are party assets today , no one will give you social donations , according to Zhan Qixian . So if the party assets were all confiscated , then Kuomintang can ask for social supporting and sponsorship . " You will have a chance to go when there are really no assets now . "
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一种 新 的 胡须 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak color , but retained the original white color of the 3D print material .
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一个 新 的 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak color , but retained the original white color of the 3D print material .
+为了 提醒 人们 它 曾经 遭受 的 伤害 ， 技术人员 没有 给 它 的 新 喙 上色 ， 而是 保留 了 3D 打印 材料 原有 的 白色 。
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一个 新 的 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak colour , but retained the original white color of the 3D print material .
+为了 提醒 人们 它 曾经 遭受 的 损失 ， 技术人员 没有 给 它 一个 新 的 颜色 ， 而是 保留 了 三维 印刷 材料 的 原色 。
+In order to remind people of its damage it once suffered from , the technical staff did not give it a new beak colour , but retained the original white color of the 3D print material .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+由于 中国 的 石油 产品 出口 对 亚洲 市场 有 巨大 影响 ， 茶壶 炼油厂 受到 更 多 关注 。
+As China ' s exports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+由于 中国 的 石油 产品 出口 对 亚洲 市场 产生 了 巨大 影响 ， 茶壶 炼油厂 越来越 受到 关注 。
+As China ' s exports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+由于 中国 出口 的 石油 产品 对 亚洲 市场行情 的 影响 巨大 ， 对 茶壶 炼油厂 的 关注度 也 越来越 高 。
+随着 中国 石油 产品 的 进口 对 亚洲 市场 产生 了 巨大 影响 ， 茶壶 炼油厂 越来越 受到 关注 。
+As China ' s imports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+随着 中国 石油 产品 的 进口 对 亚洲 市场 产生 了 巨大 影响 ， 茶壶 炼油厂 越来越 受到 关注 。
+As China ' s imports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+这列 列车 的 发射 标志 着 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+此次 列车 的 发射 表明 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+该趟 列车 的 开行 ， 标志 着 西安 铁路局 自 2013 年 开行 中亚 国际 货运 班列 以来 ， 开 行车 数 成功 突破 10000 车 。
+此次 列车 的 发射 表明 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launching of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+此次 列车 的 发射 表明 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+The launching of this train marked that the Xi ' an Railway Bureau has successfully launched 10,000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+自 2 月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 个 星期 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+自 2 月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 个 星期 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+而 2 月份 以来 ， 煤价 逐步 回升 ， 近期 秦皇岛 动力 煤 价格 更是 连续 上涨 四周 ， 上升 到 16 个 月 来 的 高点 ， 一度 攀升 到 每吨 436 元 ， 比 年初 上涨 近 70 元 。
+自 四月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 周 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since April , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+自 四月 以来 ， 煤炭 价格 逐渐 上涨 ， 秦皇岛 汽煤 价格 持续 上涨 4 个 星期 ， 达到 16 个 月 高点 ， 一度 升至 每吨 436 元 ， 与 今年年初 相比 ， 每吨 上涨 近 70 元 。
+And since April , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+加拿大 警方 星期三 在 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这名 年轻人 将 罢工 。
+Canadian police said at a news conference on Wednesday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+加拿大 警方 在 星期三 的 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这名 年轻人 将 罢工 。
+Canadian police said at a news conference on Wednesday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+加拿大 警方 在 周三 的 新闻 发布会 中 表示 ， 警方 收到 的 信息 包括 美国联邦调查局 提供 的 有关 这名 青年 将要 实施 袭击 的 " 殉道 视频 " 。
+加拿大 警方 在 星期一 的 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 这个 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这个 年轻人 将 罢工 。
+Canadian police said at a news conference on Monday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+加拿大 警方 在 星期一 的 一次 新闻 发布会 上 说 ， 警方 收到 的 情报 包括 年轻人 送 去 美国联邦调查局 的 " 烈士 录像 " ， 根据 录像 ， 这名 年轻人 将 罢工 。
+Canadian police said at a news conference on Monday that the information received by the police included the " martyrdom video " sent by the young man to the US Federal Bureau of Investigation . According to the video , the young man will strike .
+
+Translation quality-original: Improved
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+9 月 12 日 上午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 " 双重 恢复 和 双重 城市 " 试点 项目 进展 报告 以及 有关 部门 的 建议 和 意见 。
+On the morning of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+本月 12 日 上午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 关于 " 双重 恢复 和 双重 城市 " 试点 项目 进展 情况 的 报告 以及 有关 部门 的 建议 和 意见 。
+On the morning of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+12 日 上午 ， 刘赐贵 主持 召开 座谈会 ， 听取 了 三亚市 “ 双修 ” “ 双城 ” 试点工作 推进 情况 的 汇报 及 各 有关 部门 的 意见建议 。
+本月 12 日 下午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 关于 " 双重 恢复 和 双重 城市 " 试点 项目 进展 情况 的 报告 以及 有关 部门 的 建议 和 意见 。
+On the afternoon of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+本月 12 日 下午 ， 刘西吉 主持 了 一次 专题讨论 会 ， 听取 了 关于 " 双重 恢复 和 双重 城市 " 试点 项目 进展 情况 的 报告 以及 有关 部门 的 建议 和 意见 。
+On the afternoon of 12th day of the month , Liu Cigui presided over a symposium , listened to the report of the progress of the pilot project of " Double Restoration and Dual City " and the suggestions and comments of the relevant departments .
+
+Translation quality-original: Improved
+Translation quality-mutant: Improved
+Translation consistency: Improved
+星期四 公布 的 报告 将 随着 调查 的 继续 进行 而 进行 更 广泛 的 调查 。
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+星期四 公布 的 报告 将 随着 调查 的 继续 进行 而 得到 更 广泛 的 调查 结果 。
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+随着 调查 的 继续 ， 继 周四 发布 的 这篇 报告 后 将 会 有 更 多 发现 。
+随着 调查 的 继续 ， 星期一 公布 的 报告 将 有 更 广泛 的 调查结果 。
+The report released Monday is to be followed up by more extensive findings as the investigation continues .
+星期一 公布 的 报告 将 随着 调查 的 继续 进行 而 得到 更 广泛 的 调查 结果 。
+The report released Monday is to be followed up by more extensive findings as the investigation continues .
+
+Translation quality-original: Decreased
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运会 比赛 中 的 4 - 0 ， 并且 在 他们 与 英国 的 团队 中 被 捆绑 在 一起 ， 而 英国 在 周四 击败 了 日本 2 - 0 之后 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tournament and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运会 比赛 中 的 4 - 0 ， 并且 在 他们 与 英国 的 团队 中 首先 被 捆绑 在 一起 ， 在 周四 击败 日本 2 - 0 之后 ， 他们 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tournament and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+她 所 知道 的 是 美国队 在 奥运会 上 已 取得 四 连胜 并且 将 与 小组 中 在 周四 以 2 比 0 战胜 了 日本队 后 未尝 败绩 的 英国队 争夺 小组第一 。
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运 巡回赛 中 的 4 - 0 ， 在 他们 与 英国 的 团队 中 首先 被 捆绑 在 一起 ， 而 在 周四 2 - 0 击败 日本 后 ， 他们 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tourney and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+这 就是 她 所 知道 的 ： 美国 人 是 在 奥运 巡回赛 中 的 4 - 0 ， 在 他们 与 英国 的 团队 中 首先 被 捆绑 在 一起 ， 在 周四 击败 日本 2 - 0 之后 ， 他们 仍 未 被 打败 。
+Here is what she does know : The Americans are 4-0 in the Olympic tourney and are tied for first place in their group with Britain , which remained unbeaten after defeating Japan , 2-0 , on Thursday .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Unchanged
+她 在 帕州 的 Blue Bell 长大 ， 在 她 3 岁 时 第一次 拿 起 了 一只 球杆 （ 她 的 一对 大 姐妹 在 Dressel 打球 ） ， 在 16 岁 的 时候 加入 了 国家队 ， 成为 了 有史以来 最 年轻 的 球员 。
+She grew up in Blue Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+她 在 帕州 的 Blue Bell 长大 ， 在 她 3 岁 时 第一次 拿 起 了 一只 球杆 （ 她 的 一对 大 姐妹 在 Dressel 打球 ） ， 在 她 16 岁 时 加入 了 国家队 ， 成为 有史以来 最 年轻 的 球员 。
+She grew up in Blue Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+巴姆 成长 于 宾夕法尼亚州 布 鲁贝尔 ， 在 3 岁 时 第一次 拿 起 曲棍球 棍 （ 她 的 双胞胎 姐姐 在 德雷克 塞尔 从事 这项 运动 ） 并且 在 16 岁 时 加入 国家队 ， 成为 了 迄今为止 最 年轻 的 国家队 成员 。
+她 在 帕州 的 RedBell 长大 ， 在 她 3 岁 的 时候 （ 她 的 一对 大 姐妹 在 德雷泽尔 打球 ） ， 第一次 拿 起 了 一只 球杆 ， 在 她 16 岁 时 加入 了 国家队 ， 成为 有史以来 最 年轻 的 球员 。
+She grew up in Red Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+她 在 帕州 的 RedBell 长大 ， 在 她 3 岁 的 时候 （ 她 的 一对 大 姐妹 在 德雷泽尔 打球 ） ， 第一次 拿 起 了 一只 球杆 ， 在 她 16 岁 时 加入 了 国家队 ， 成为 有史以来 最 年轻 的 球员 。
+She grew up in Red Bell , Pa . , first picked up a field hockey stick when she was 3 ( her twin older sisters played the sport at Drexel ) and joined the national team when she was 16 , becoming its youngest player ever .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+与 许多 从事 大型 医疗 项目 的 因特网 医疗 公司 不同 ， iBaby 侧重于 因特网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical companies which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+与 许多 从事 大型 医疗 项目 的 因特网 医疗 公司 不同 ， iBaby 侧重于 因特网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical companies which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+与 很多 互联网 医疗 公司 贪大求全 不同 ， iBaby 从 最初 就 专注 于 互联网 产科 垂直 领域 ， 深耕 孕妈 和 医生 两端 。
+与 许多 互联网 医疗 公司 不同 的 是 ， iBaby 专注 于 互联网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical firms which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+与 许多 从事 大型 医疗 项目 的 因特网 医疗 公司 不同 ， iBaby 侧重于 因特网 产科 垂直 领域 ， 并 致力于 孕妇 和 医生 。
+Unlike many Internet medical firms which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+这份 文件 由 科罗拉多 大学 的 研究 人员 撰写 ， 他们 与 参与 预测 和 分析 太阳活动 的 美国 军事 人员 进行 了 面谈 ， 并 审查 了 非 机密 文件 。
+This paper was written by researchers at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+这份 文件 是 由 科罗拉多 大学 的 研究 人员 撰写 的 ， 他们 与 参与 预测 和 分析 太阳活动 的 美国 军事 人员 进行 了 面谈 ， 并 审查 了 非 机密 文件 。
+This paper was written by researchers at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+这篇 由 美国 科罗拉多 大学 研究 人员 完成 的 论文 采访 了 当时 参与 预报 与 分析 太阳活动 的 美军方 人员 ， 并 查阅 了 非保密 文献 。
+这份 文件 是 科罗拉多 大学 的 科学家 写 的 ， 他们 约 谈 了 参与 预测 和 分析 太阳活动 的 美国 军事 人员 ， 并 审查 了 非 机密 文件 。
+This paper was written by scientists at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+这份 文件 是 由 科罗拉多 大学 的 科学家 撰写 的 ， 他们 与 参与 预测 和 分析 太阳活动 的 美国 军事 人员 进行 了 面谈 ， 并 审查 了 非 机密 文件 。
+This paper was written by scientists at the University of Colorado , who interviewed US military personnel involved in the forecasting and analysis of solar activity and reviewed non - confidential documents .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Unchanged
+Translation consistency: Improved
+星期四 ， 在 巴西 圣保罗 市 ， 学生 们 在 集会 示威 反对 政府 改革 公共 教育 系统 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Thursday as they gathered to demonstrate against government reforms to the public education system .
+星期四 ， 在 巴西 圣保罗 市 ， 学生 们 在 集会 示威 反对 政府 改革 公共 教育 系统 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Thursday as they gathered to demonstrate against government reforms to the public education system .
+周四 ， 在 巴西 圣保罗 ， 学生 在 抗议 政府 公共 教育 体系 改革 的 过程 中 与 警方 发生 了 冲突 。
+周一 ， 巴西 圣保罗 市 的 学生 们 在 集会 示威 反对 政府 对 公共 教育 系统 的 改革 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Monday as they gathered to demonstrate against government reforms to the public education system .
+周一 ， 在 巴西 圣保罗 市 ， 学生 们 在 集会 示威 反对 政府 改革 公共 教育 系统 时 与 警方 发生冲突 。
+Students clashed with police in the Brazilian city of Sao Paulo on Monday as they gathered to demonstrate against government reforms to the public education system .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+美国 铝业 ( Alcoa ) 的 Portland 冶炼厂 正在 损失 资金 和 风险 关闭 。
+Alcoa ' s Portland smelter is losing money and risks closure .
+美国 铝业 ( Alcoa ) 的 Portland 冶炼厂 正在 损失 资金 和 风险 关闭 。
+Alcoa ' s Portland smelter is losing money and risks closure .
+美铝 公司 波特兰 冶炼厂 目前 正在 亏损 并且 面临 关闭 风险 。
+美国 铝业 的 西雅图 冶炼厂 正在 损失 资金 和 风险 关闭 .
+Alcoa ' s Seattle smelter is losing money and risks closure .
+美国 铝业 ( Alcoa ) 的 西雅图 冶炼厂 正在 损失 资金 和 风险 关闭 。
+Alcoa ' s Seattle smelter is losing money and risks closure .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+合同 有 12 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 12 - month termination period so they will actually finish in 2017 .
+合同 有 12 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 12 - month termination period so they will actually finish in 2017 .
+合同 的 终止 期为 12 个 月 ， 因此 它们 将 在 2017 年 终止 。
+这些 合同 有 14 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 14 - month termination period so they will actually finish in 2017 .
+合同 有 14 个 月 的 终止 期 ， 因此 它们 将 在 2017 年 实际 完成 。
+The contracts have a 14 - month termination period so they will actually finish in 2017 .
+
+Translation quality-original: Unchanged
+Translation quality-mutant: Improved
+Translation consistency: Improved
+尽管 金星 曾经 是 可以 居住 的 ， 但 在 数十亿 年 的 时间 里 ， 它 暴露 了 太 多 的 热 和 紫外线 。
+Though likely once habitable , Venus was - - over the course of several billion years - - exposed to too much heat and ultraviolet light .
+尽管 金星 曾经 是 可以 居住 的 ， 但 在 数十亿 年 的 时间 里 ， 它 暴露 了 太 多 的 热 和 紫外线 。
+Though likely once habitable , Venus was - - over the course of several billion years - - exposed to too much heat and ultraviolet light .
+尽管 金星 上 可能 曾经 存在 生命 ， 但 在 几十亿年 的 过程 中 ， 金星 暴露 在 过 高 的 温度 与 紫外线 下 。
+尽管 金星 有 可能 曾经 可以 居住 ， 但 在 无数 亿年 的 时间 里 ， 它 暴露 了 太 多 的 热 和 紫外线 。
+Though likely once habitable , Venus was - - over the course of numerous billion years - - exposed to too much heat and ultraviolet light .
+尽管 金星 曾经 是 可以 居住 的 ， 但 在 数十亿 年 的 时间 里 ， 它 暴露 了 太 无数 的 热 和 紫外线 。
+Though likely once habitable , Venus was - - over the course of numerous billion years - - exposed to too much heat and ultraviolet light .
+
