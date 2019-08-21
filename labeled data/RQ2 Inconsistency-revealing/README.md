@@ -1,4 +1,4 @@
-This directory are the files of the manual assessment results in RQ2.
+This directory includes the files of the manual assessment results in RQ2.
 
 We manually assess whether the test inputs we generated are qualified for detecting inconsistency issues.
 
