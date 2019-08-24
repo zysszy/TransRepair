@@ -31,4 +31,4 @@ The full results of Figure 4 (Comparison of metrics scores and manual inspection
 
 The full results of Table 6 (Influence of mutant number on testing and repair) can be found in ```Influence of Mutant Number```.
 
-We also provide the corelation between different metrics including the original BLEU in ```Correlation between different metrics```.
+We also provide the correlation between different metrics including the original BLEU in ```Correlation between different metrics```.
